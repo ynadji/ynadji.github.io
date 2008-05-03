@@ -1,0 +1,10 @@
+--- src-old/music.c	2006-10-17 15:28:30.000000000 -0500
++++ src/music.c	2006-10-17 15:29:28.000000000 -0500
+@@ -16,6 +16,7 @@
+ 	{ "Music Player Daemon", "sh -c \"mpc | grep -v '^volume: .* repeat: .* random: .*'\"" },
+ 	{ "Rhythmbox", "rhythmbox --print-playing" },
+ 	{ "XMMS / Beep", "logjam-xmms-client" },
++	{ "XMMS2", "xmms2 current" },
+ 	{ "amaroK", "dcop amarok player nowPlaying" },
+ 	{ NULL, NULL }
+ };

@@ -1,0 +1,164 @@
+% Yacin Nadji's Resume
+% Created: Nov 22 2006
+% Last Modified: June 7 2007
+
+\documentclass[11pt,oneside]{article}
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{fullpage}
+
+\pagestyle{empty}
+\geometry{letterpaper,tmargin=1in,bmargin=1in,lmargin=1cm,rmargin=1cm,headheight=0in,headsep=0in,footskip=.3in}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{0in}
+\setlength{\itemsep}{0in}
+\setlength{\topsep}{0in}
+\setlength{\tabcolsep}{0in}
+
+% Name and contact information
+\newcommand{\name}{Yacin Ibrahim Nadji}
+\newcommand{\addr}{3241 S. Wabash Ave IIT Box 1070}
+\newcommand{\phone}{Cell: 312.806.0072}
+\newcommand{\email}{ynadji@iit.edu}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% New commands and environments
+
+% This defines how the name looks
+\newcommand{\bigname}[1]{
+	\begin{center}\fontfamily{phv}\selectfont\Huge\scshape#1\end{center}
+}
+
+% A ressection is a main section (<H1>Section</H1>)
+\newenvironment{ressection}[1]{
+	\vspace{4pt}
+	{\fontfamily{phv}\selectfont\Large#1}
+	\begin{itemize}
+	\vspace{3pt}
+}{
+	\end{itemize}
+}
+
+% A resitem is a simple list element in a ressection (first level)
+\newcommand{\resitem}[1]{
+	\vspace{-4pt}
+	\item \begin{flushleft} #1 \end{flushleft}
+}
+
+% A ressubitem is a simple list element in anything but a ressection (second level)
+\newcommand{\ressubitem}[1]{
+	\vspace{-1pt}
+	\item \begin{flushleft} #1 \end{flushleft}
+}
+
+% A resbigitem is a complex list element for stuff like jobs and education:
+%  Arg 1: Name of company or university
+%  Arg 2: Location
+%  Arg 3: Title and/or date range
+\newcommand{\resbigitem}[3]{
+	\vspace{-5pt}
+	\item
+	\textbf{#1}---#2 \\
+	\textit{#3}
+}
+
+% This is a list that comes with a resbigitem
+\newenvironment{ressubsec}[3]{
+	\resbigitem{#1}{#2}{#3}
+	\vspace{-2pt}
+	\begin{itemize}
+}{
+	\end{itemize}
+}
+
+% This is a simple sublist
+\newenvironment{reslist}[1]{
+	\resitem{\textbf{#1}}
+	\vspace{-5pt}
+	\begin{itemize}
+}{
+	\end{itemize}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Now for the actual document:
+
+\begin{document}
+
+\fontfamily{ppl} \selectfont
+
+% Name with horizontal rule
+\bigname{\name}
+
+\vspace{-8pt} \rule{\textwidth}{1pt}
+
+\vspace{-1pt} {\small\itshape \addr \hfill \phone; \email}
+
+\vspace{8 pt}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{ressection}{Education}
+
+	\begin{ressubsec}{Illinois Institute of Technology (IIT)}{Chicago, IL}{Majoring in Computer Science}
+		\ressubitem{GPA: 3.542 (overall)}
+		\ressubitem{Projected Graduation Date: May, 2009}
+	\end{ressubsec}
+
+\end{ressection}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{ressection}{Experience}
+
+	\begin{ressubsec}{IIT Information Retrieval Lab}{Chicago, IL}{Research Assistant \& Webmaster: September 2005--present}
+		\ressubitem{Maintain SQLGenerator\footnote{\color{blue} \url{http://ir.iit.edu/projects/SQLGenerator.html}}, a scalable XML retrieval engine}
+		\ressubitem{Maintain the AIRE project \footnote{\color{blue} \url{http://ir.iit.edu/projects/AIRE.html}}}
+		\ressubitem{Design and run tests to determine indexing/retrieval effectiveness and efficiency (AIRE \& SQLGenerator)}
+			\ressubitem{Developed file/OS level logging on customized bootable Linux distribution to detect nefarious computer usage\footnote{\color{blue}\url{http://www.iit.edu/~ipro311s07/}}}
+		\ressubitem{Search system software development for United States Holocaust Memorial Museum}
+		\ressubitem{Compilation/testing of various NLP (natural language processing) programs and tool sets in a UNIX environment}
+		\ressubitem{Maintain and update \color{blue} \url{http://ir.iit.edu}\color{black}}
+	\end{ressubsec}
+
+	\begin{ressubsec}{Traverse Legal, PLC}{Traverse City, MI}{Web Developer: July, 2006--March 2007}
+		\ressubitem{PHP website development}
+		\ressubitem{Helpdesk support for all Traverse Legal employees}
+	\end{ressubsec}
+
+\end{ressection}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{ressection}{Skills}
+
+	\resitem{\textbf{Operating Systems:} Proficient with Linux (Debian, Slackware, and Red Hat), Mac OS 9 and X, Solaris, Windows XP}
+
+	\begin{reslist}{Computer Languages:}
+
+		\ressubitem{Proficient in Ruby, Common Lisp, C, XHTML/CSS, Java, \LaTeX, Bash Shell, Objective-C}
+
+		\ressubitem{Familiar with Perl, PHP, Python, OCaml, Prolog}
+
+	\end{reslist}
+
+	\begin{reslist}{Tools and Systems:}
+
+		\ressubitem{Proficient in CVS/SVN, Make, SSHD, Vim, TextMate}
+
+		\ressubitem{Familiar with Samba, Apache, MySQL, Tomcat}
+
+	\end{reslist}
+	
+
+\end{ressection}
+
+\end{document}
