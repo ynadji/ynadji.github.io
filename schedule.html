@@ -1,20 +1,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 		<link rel="stylesheet" type="text/css" href="layout.css" />
 		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 		<title>Yacin Nadji</title>
+		<script type="text/javascript" src="./jquery-1.2.6.min.js">
+		</script>
 		<script language="JavaScript" type="text/javascript">
-		if (document.getElementById) {
- 			document.writeln('<style type="text/css"><!--')
- 			document.writeln('.texter {display:none} @media print {.texter {display:block;}}')
- 			document.writeln('//--></style>') }
-		function openClose(theID) {
- 			if (document.getElementById(theID).style.display == "block") {
-			document.getElementById(theID).style.display = "none" }
- 			else { document.getElementById(theID).style.display = "block" } }
-			// -->
+			$(document).ready(function() {
+
+				//	$("#f08").find("p").each(function(i) {
+				//		$(this).addClass("red");
+				//		});
+					});
 		</script>
 	</head>
 	<body>
@@ -23,7 +22,7 @@
 				<ul>
 					<li><a class="navlink" href="index.html">About Me</a></li>
 					&#8225;
-					<li><a class="navlink" href="docs/resume.pdf">Resume</a></li>
+					<li><a class="navlink" title="Updated: 7-9-2008" href="docs/resume-basic.pdf">Resume</a></li>
 					&#8225;
 					<li><a class="navlink" href="contact.html">Contact</a></li>
 					&#8225;
@@ -39,77 +38,70 @@
 			</div>
 			<div id="body-schedule">
 				<iframe src="http://www.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=sr76p5ukqa72bmasl31rmjtecq123uhu%40import.calendar.google.com&amp;color=%237A367A&amp;src=i21kq7b7ascrvtd76msivrk3pp1omadr%40import.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FChicago" style=" border-width:0 " width="530" height="500" frameborder="0" scrolling="no"></iframe>
-			<div onClick="openClose('f08')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Fall 2008</p></h3></div>
-                                <div id="f08" class="texter">
-				<p>CS 535 : Design &amp; Analysis of Algorithms</p>
-				<p>MATH 475 : Probability</p>
-				<p>MATH 454 : Graph Theory</p>
-				<p>CS 522 : Advanced Data Mining</p>
+				<div id="f08">
+					<h3><p>Fall 2008</p></h3>
+					<p>CS 535 : Design &amp; Analysis of Algorithms</p>
+					<p>MATH 475 : Probability</p>
+					<p>MATH 454 : Graph Theory</p>
+					<p>CS 522 : Advanced Data Mining</p>
 				</div>
-			<div onClick="openClose('s08')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Spring 2008</p></h3></div>
-                                <div id="s08" class="texter"><p>CS 430 : Introduction to Algorithms</p>
-                                <p>CS 450 : Operating Systems</p>
-                                <p>CS 487 : Software Engineering</p>
-                                <p>CS 536 : Science of Programming</p>
-                                <p>MATH 453 : Combinatorics</p>
-				<p>BIOL 491 : Biology Research Project</p></div>
-                                <div onClick="openClose('f07')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Fall 2007</p></h3></div>
-                                <div id="f07" class="texter"><p>CS 429 : Information
-Retrieval</p>
-                                <p>CS 440 : Programming Languages &amp;
-                                Translators</p>
-                                <p>CS 485 : Computers and Society</p>
-                                <p>PHIL 311 : Great Philosopher's:
-                                Nietzsche</p>
-                                <p>PSYC 303 : Abnormal Psychology</p>
-                                <p>SOC 353 : Problems of Policy</p></div>
-                                <div onClick="openClose('su07')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Summer 2007</p></h3></div>
-                                <div id="su07" class="texter"><p>MATH 333 : Matrix Algebra &amp; Complex
-                                Variables</p>
-                                <p>CS 497 : Special Problems (Independent Study
-                                w/ Dr. Ophir Frieder)</p></div>
-                                <div onClick="openClose('s07')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Spring 2007</p></h3></div>
-                                <div id="s07" class="texter"><p>CS 351 : Systems Programming</p>
-                                <p>CS 422 : Data Mining</p>
-                                <p>CS 480 : Artificial Intelligence</p>
-                                <p>COM 421 : Technical Communication</p>
-                                <p>IPRO 311 : Insider Misuse Detection</p></div>
-                                <div onClick="openClose('f06')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Fall 2006</p></h3></div>
-                                <div id="f06" class="texter"><p>CS 331 : Data Structured &amp; Algorithms</p>
-                                <p>CS 350 : Comp Org &amp; Assembly Language</p>
-                                <p>IPRO 311: Mediator Design (Holocaust Museum)</p>
-                                <p>PHYS 221 : Gen Physics II: Wave,
-                                Electricity&amp;Magnetism</p>
-                                <p>PHIL 380 : Philosophy of Physics</p></div>
-				<div onClick="openClose('s06')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Spring 2006</p></h3></div>
-				<div id="s06" class="texter"><p>CS 330 : Discrete Structures</p>
+
+				<h3><p>Spring 2008</p></h3>
+				<p>CS 430 : Introduction to Algorithms</p>
+				<p>CS 450 : Operating Systems</p>
+				<p>CS 487 : Software Engineering</p>
+				<p>CS 536 : Science of Programming</p>
+				<p>MATH 453 : Combinatorics</p>
+				<p>BIOL 491 : Biology Research Project</p>
+
+				<h3><p>Fall 2007</p></h3>
+				<p>CS 429 : Information Retrieval</p>
+				<p>CS 440 : Programming Languages &amp; Translators</p>
+				<p>CS 485 : Computers and Society</p>
+				<p>PHIL 311 : Great Philosopher's: Nietzsche</p>
+				<p>PSYC 303 : Abnormal Psychology</p>
+				<p>SOC 353 : Problems of Policy</p>
+
+				<h3><p>Summer 2007</p></h3>
+				<p>MATH 333 : Matrix Algebra &amp; Complex Variables</p>
+				<p>CS 497 : Special Problems (Independent Study w/ Dr. Ophir Frieder)</p>
+
+				<h3><p>Spring 2007</p></h3>
+				<p>CS 351 : Systems Programming</p>
+				<p>CS 422 : Data Mining</p>
+				<p>CS 480 : Artificial Intelligence</p>
+				<p>COM 421 : Technical Communication</p>
+				<p>IPRO 311 : Insider Misuse Detection</p>
+
+				<h3><p>Fall 2006</p></h3>
+				<p>CS 331 : Data Structured &amp; Algorithms</p>
+				<p>CS 350 : Comp Org &amp; Assembly Language</p>
+				<p>IPRO 311: Mediator Design (Holocaust Museum)</p>
+				<p>PHYS 221 : Gen Physics II: Wave, Electricity&amp;Magnetism</p>
+				<p>PHIL 380 : Philosophy of Physics</p>
+				<h3><p>Spring 2006</p></h3>
+
+				<p>CS 330 : Discrete Structures</p>
 				<p>PHIL 342 : Philosophy of the Mind</p>
 				<p>PHYS 123 : General Physics 1 Mechanics</p>
 				<p>CS 116 : Object Oriented Programming II</p>
-				<p>MATH 251 : Multivariable &amp; Vector Calculus</p></div>
-				<div onClick="openClose('f05')"
-style="cursor:hand; cursor:pointer; color:blue"><h3><p>Fall 2005</p></h3></div>
-				<div id="f05" class="texter"><p>MATH 152 : Calculus II</p>
-                                <p>CS 115 : Object Oriented Programming I</p>
+				<p>MATH 251 : Multivariable &amp; Vector Calculus</p>
+
+				<h3><p>Fall 2005</p></h3>
+				<p>MATH 152 : Calculus II</p>
+				<p>CS 115 : Object Oriented Programming I</p>
 				<p>PSYC 222 : Brain, Mind &amp; Behavior</p>
-				<p>CS 100 : Intro To The Profession</p></div>
+				<p>CS 100 : Intro To The Profession</p>
 			</div>
 		</div>
-                <script type="text/javascript">
-                  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-                  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-                </script>
-                <script type="text/javascript">
-                  var pageTracker = _gat._getTracker("UA-3942734-1");
-                  pageTracker._initData();
-                  pageTracker._trackPageview();
-                </script>
-	</body>
-</html>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-3942734-1");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+			</script>
+		</body>
+	</html>
