@@ -1,0 +1,1728 @@
+URL: http://www.yahoo.com/
+URL: http://search.yahoo.com/search?ei=UTF-8&fr=yfp-t-501&cop=mss&p=common+lisp+hyperspec&x=0&y=0&=Web+Search
+URL: http://search.yahoo.com/search?ei=UTF-8&y=0&fr=yfp-t-501&p=the+common+lisp+hyperspec&rs=0&fr2=rs-top
+
+URL: http://www.google.com/
+URL: http://www.google.com/search?hl=en&q=common+lisp+hyperspec&btnG=Google+Search
+URL: http://lists.canonical.org/pipermail/kragen-hacks/2002-February/000315.html
+URL: http://images.google.com/images?hl=en&q=common%20lisp%20hyperspec&um=1&ie=UTF-8&sa=N&tab=wi
+
+URL: http://www.youtube.com/
+URL: http://www.youtube.com/watch?v=_Nbkbss7i5s&feature=dir
+URL: http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash
+
+URL: http://www.live.com/
+URL: http://www.live.com/
+URL: http://search.live.com/results.aspx?q=seinfeld+episodes&go=Submit&form=QBLH
+URL: http://www.imdb.com/title/tt0098904/
+URL: http://content.pulse360.com/305177CC-4930-11DD-A7FA-39723BF8694A
+URL: http://www.imdb.com/images/a/ifb/doubleclick/expand.html?#imdb.consumer.title/;tile=3;sz=728x90;p=b;g=brc;id=tt0098904;g=co;tt=tv;ord=1759645236544146
+URL: http://media.adrevolver.com/adrevolver/trace?sip=78&cpy=4001798
+URL: http://content.pulse360.com/C6C7561A-492E-11DD-9179-2C743BF8694A
+URL: http://uac.advertising.com/wrapper/aceUAC.htm#Site=705838&Size=728090
+
+URL: http://www.facebook.com/
+URL: http://www.new.facebook.com/home.php
+URL: http://www.new.facebook.com/photo.php?pid=4227194&id=552755186&ref=nf
+URL: http://ads.ak.facebook.com/ads/creative/msn/us-120photo.html
+URL: http://view.atdmt.com/APM/iview/msnnkdrv0010001218apm/direct;wi.120;hi.600/01?click=
+URL: http://www.new.facebook.com/profile.php?id=54301128
+
+URL: http://www.msn.com/
+URL: http://search.msn.com/results.aspx?q=starcraft+2+pro+videos&FORM=MSNH
+URL: http://www.veoh.com/channels/sc2armory
+
+URL: http://www.myspace.com/
+URL: http://deeb.opt.fimserve.com/adopt/?r=h&l=10000000&pos=620x50&rnd=059576345
+URL: http://demr.opt.fimserve.com/adopt/?r=h&l=10000000&pos=mrec&rnd=059576345
+URL: http://rma.myspacecdn.com/assets/A157/N3019/M3648/P250/Q18856/iframe_300_250.html?D=http%3A//www.myspace.com&F=&P=http%3A//demr.opt.fimserve.com/lnk/%3Fk%3DMTE4NTQxOzE2OzE2NTsxMTY1MjY7MzkzODMuZi45LmZoLnJvLmYuMzk3QEBnY0BAeHNyeHp0bEBALTNfOUBAcm9vcm1scmggcm1oZ3JnZmd2IGx1IGd2eHNtbG9sdGJAQHZ3ZkBAdGl2emcgb3pwdmg7MTIyMTAwNzc4NDU4NzsxOzs7MTY7MjszNTE4OTI5Ow%3D%3Dhref%3D&I=none&B=&E=&N=&L=&C=&G=false&R=0.7748169376397585
+URL: http://www.myspace.com/unicast/unicastIFD.html?Ver%3D3.00%26Aid%3D81875%26Vmp%3D0.0.0.0%26Pla%3D18856%26Pub%3D250%26Cam%3D3648%26Int%3Dfalse%26Pcl%3Dhttp%25253A//demr.opt.fimserve.com/lnk/%25253Fk%25253DMTE4NTQxOzE2OzE2NTsxMTY1MjY7MzkzODMuZi45LmZoLnJvLmYuMzk3QEBnY0BAeHNyeHp0bEBALTNfOUBAcm9vcm1scmggcm1oZ3JnZmd2IGx1IGd2eHNtbG9sdGJAQHZ3ZkBAdGl2emcgb3pwdmg7MTIyMTAwNzc4NDU4NzsxOzs7MTY7MjszNTE4OTI5Ow%25253D%25253Dhref%25253D%26Pim%3Dnone%26Fup%3Dfalse%26Arp%3D/assets/A157/N3019/M3648/P250/Q18856/A81875_300_250%26Drp%3D/assets/A157/N3019/M3648/P250/Q18856/A81875_300_250%26Dbg%3Dfalse%26Tar%3DVwP18856Div%26Bea%3DVwP18856Div%26Pdn%3DVwP18856Push%26Fnm%3D%26Bgc%3D%26Ipi%3DAV%253D1_PV%253D1_CV%253D1_RV%253D1_UV%253D1_UC%253D1_VP%253D0.0.0.0_VU%253D0%26Cuk%3D_pc%253D81848_exp%253D%252527091010%252527_fc%253Dfalse_sc%253Dfalse
+URL: http://www.myspace.com/mateo
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-fim_myspace_uvp_728x90&dt=1220988839813&hl=en&adsafe=high&oe=utf8&format=728x90_pas_sln&output=html&adtest=off&correlator=1220988839811&channel=fim_myspace_uvp%2Cfim_myspace_united-states&url=http%3A%2F%2Fwww.myspace.com%2Fmateo&color_bg=ffffff&color_link=3197&color_url=3197&color_border=ffffff&color_line=ffffff&ad_type=text,image&ref=http%3A%2F%2Fwww.myspace.com%2F&frm=0&ed=::0:0:Y2I4MGViMTE0MWU4MWEyN8puBPov4TtF9wau50JWOGq48M6PfWEtWU6HjeKYCLJoYmDKmucGWO6B5NYBFrVWR8AJ1RDn-hrNa66BcEKgR-5vH-r7aaUXaRslvjAA4YPt&ga_vid=4254508229644117500.1220988840&ga_sid=1220988840&ga_hid=1750019421&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=2&u_nplug=1&u_nmime=2
+URL: http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=337505974
+URL: http://demr.opt.fimserve.com/adopt/?r=h&l=11013005&pos=mrec&rnd=607526347&fid=337505974
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-fim_myspace_uvp_728x90&dt=1220988866536&hl=en&adsafe=high&oe=utf8&format=728x90_pas_sln&output=html&adtest=off&correlator=1220988866534&channel=fim_myspace_uvp%2Cfim_myspace_private%2Cfim_myspace_united-states&url=http%3A%2F%2Fprofile.myspace.com%2Findex.cfm%3Ffuseaction%3Duser.viewprofile%26friendid%3D337505974&color_bg=ffffff&color_link=3197&color_url=3197&color_border=ffffff&color_line=ffffff&ad_type=text,image&ref=http%3A%2F%2Fwww.myspace.com%2Fmateo&frm=0&ed=::0:0:NzIyYjQ4MTAxMTEwMjM2NUUK0ObkBq82YtVDMoV241cfAwYrJO1OomCjNfQ9wnwfTrnoCMVY0lzUjSIeClTnnaJEBN8f-ydb1Uf6OksGYedKBod9UHxEwMjfj-ZzRJPq&cc=2100&ga_vid=4543534802403606000.1220988867&ga_sid=1220988867&ga_hid=6643074&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=3&u_nplug=1&u_nmime=2
+URL: http://demr.opt.fimserve.com/bid/td/?k=NTQ0Mjg7MTY7NDAwOzUzMjMzOzM5MzgzLmYuOS5maC5yby5mLjM5N0BAZ2NAQHhzcnh6dGxAQC0zXzlAQHJvb3JtbHJoIHJtaGdyZ2ZndiBsdSBndnhzbWxvbHRiQEB2d2ZAQHRpdnpnIG96cHZoOzEyMjEwMDc4NzE0NzQ7MTs7OzE2OzQ0OzM1MTg5MzE7MzM3NTA1OTc0OzI3ODY7Ozs7data=13636|115bc|-1|-1.
+
+URL: http://www.wikipedia.org/
+Try to load libthai dynamically...
+Error, can't load libthai...
+URL: http://en.wikipedia.org/wiki/Special:Search?search=timecode+vinyl&go=Go
+URL: http://en.wikipedia.org/wiki/Timecode_(disambiguation)
+URL: http://en.wikipedia.org/wiki/Vinyl_Emulation_Software
+URL: http://en.wikipedia.org/wiki/Traktor_Scratch
+URL: http://en.wikipedia.org/wiki/Ableton_live
+
+URL: https://www.blogger.com/start
+URL: https://www.google.com/accounts/ServiceLoginBox?service=blogger&continue=https%3A%2F%2Fwww.blogger.com%2Floginz%3Fd%3Dhttps%253A%252F%252Fwww.blogger.com%252Fstart%26a%3DALL&passive=true&alinsu=1&aplinsu=1&alwf=true&skipvpage=true&rm=false&showra=1&fpui=2&naui=8
+URL: https://www.google.com/accounts/ServiceLogin?service=blogger&continue=https%3A%2F%2Fwww.blogger.com%2Floginz%3Fd%3D%252Fhome%26a%3DADD_SERVICE_FLAG&alinsu=0&aplinsu=0&alwf=true&hl=en&roec=BadUsernamePassword&Email=ynadji%40gmail.com&reqemail=ynadji%40gmail.com&skipvpage=true&rm=false&showra=1&fpui=2&naui=8
+URL: https://www.blogger.com/loginz?d=%2Fhome&a=ADD_SERVICE_FLAG&auth=DQAAAHkAAADRLUYE_fXDgIN6z4o41wy_RdUnE7Ch-yNbN4EE26MF5bU_phRx8XzOOyYJT4p-AgczobZ3QC06mUsrqc4bwHeGtY6BAdO52wMrjqSsj9TEViYITznCpfo6lcaBTBimcXsn6MndEF2rZfF-4vaM9NTM1e-tR8R818zXJlS_wq7qew
+URL: https://www.blogger.com/home
+URL: http://www.blogger.com/home
+URL: http://djkthx.blogspot.com/
+URL: http://www.blogger.com/navbar.g?targetBlogID=2805861249836571223&blogName=Beer+Volcanoes+and+Stripper+Factories&publishMode=PUBLISH_MODE_BLOGSPOT&navbarType=BLUE&layoutType=LAYOUTS&homepageUrl=http%3A%2F%2Fdjkthx.blogspot.com%2F&searchRoot=http%3A%2F%2Fdjkthx.blogspot.com%2Fsearch
+
+URL: http://www.yahoo.co.jp/
+URL: http://search.yahoo.co.jp/search?fr=top_table&tid=top_table&ei=UTF-8&p=final+fantasy+xii&search.x=0&search.y=0
+URL: http://www.ff12.com/
+URL: http://www.ff12.com/topics/index.html
+
+URL: http://www.baidu.com/
+URL: http://www.baidu.com/s?wd=some+other+language+i+don%27t+know
+URL: http://antibullshit.spaces.live.com/blog/cns!e88ea605b3914a8b!438.entry
+URL: http://view.atdmt.com/APM/iview/msnnkdrv0010001363apm/direct;wi.728;hi.90/01?click=
+URL: http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/f3oIOukauonqXoe9eq0Rj~sl~uGbeszk+gY/view.html?839398900&ASTPCT=http://clk.atdmt.com/go/msnnkdrv0010001363apm/direct;wi.728;hi.90;ai.39778027.39795792.46663379.46631062;ct.1/01?href=
+
+URL: http://www.rapidshare.com/
+URL: http://rs554l3.rapidshare.com/cgi-bin/upload.cgi?rsuploadid=362699316748603862
+
+URL: http://www.microsoft.com/en/us/default.aspx
+URL: http://view.atdmt.com/MRT/iview/108756751/direct/01?click=
+URL: http://search.live.com/results.aspx?q=coffee&go=&form=QBLH&scope=web&form=MICA07&publ=MSCOMHP&crea=core-query-coffee_NA
+URL: http://en.wikipedia.org/wiki/Coffee
+Try to load libthai dynamically...
+Error, can't load libthai...
+
+URL: http://www.google.co.in/
+URL: http://www.google.co.in/search?hl=en&q=indian+institute+of+technology&btnG=Google+Search&meta=
+URL: http://www.iitd.ac.in/
+URL: http://www.iitd.ac.in/external.htm
+
+URL: http://www.qq.com/
+URL: http://adsfile.qq.com/web/soso_rightbutton.html
+URL: http://adsfile.qq.com/web/qq_width1_loading.html
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_SJ_Button1&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_Width2&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_SJ_Button3&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_Width3&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_SJ_Button2&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_Button2&log=off
+URL: http://adsview2.qq.com/adsview?c=www&l=QQCOM_Button1&log=off
+
+URL: http://www.google.de/
+URL: http://www.google.de/search?hl=de&q=fits+like+a+glove&btnG=Google-Suche&meta=
+URL: http://www.thefreedictionary.com/fits+like+a+glove
+Try to load libthai dynamically...
+Error, can't load libthai...
+URL: http://optimizedby.rmxads.com/st?ad_type=iframe&ad_size=300x250&section=281246
+
+URL: http://www.hi5.com/
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=635;d=9;c=2;w=300;h=250;q=;p=US,20,-1,,en,0002,
+URL: http://ads.monster.com/html.ng/site=tick&affiliate=hi5&size=300x250&pp=1&tpath=0002&ager=20&gen=-1&cy=US&tzipr=&lang=en&eth=&tickletest=2&ord=1220989528879
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=67744
+
+URL: http://www.ebay.com/
+URL: http://www.ebay.com/
+URL: http://shop.ebay.com/items/_W0QQ_nkwZnumarkQ20tt200sQQ_armrsZ1QQ_fromZR40QQ_mdoZ
+URL: http://pn1.adserver.yahoo.com/a?rand=1221008643&l=SKY&pd_x=00&f=97553635&kw=numark+tt200s&p=eb&c=h&pn=ebay&sig=yX3.Gjtedtj8bAp9dptPAw--
+URL: http://pn1.adserver.yahoo.com/a?rand=1221008643&l=N&pd_x=00&f=97553635&kw=numark+tt200s&p=eb&c=sh&pn=ebay&sig=.enVsMyQ38yXrmEK8FZNZg--
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=160x600&site=136716&section_code=12796277&cb=1221008648044168&ycg=&yyob=&promote_sizes=0&pub_redirect_unencoded=1&pub_redirect=http://pn1.ard.yahoo.com/SIG=159tdopk5/M=621216.12796277.13078464.9068246/D=eb_cat/S=97553635:SKY/Y=EBAY_US/E=ebay:/EXP=1221015848/L=lIc..Nj8fU_aC8d6SMbmDZW92C.GD0jHHQgAAKW0/B=5zx1ANj8fe8-/J=1221008648044168/A=5334025/R=0/*
+URL: http://afe.specificclick.net/?l=928189946&sz=728x90&wr=h&t=h
+
+URL: https://www.google.com/accounts/ServiceLogin?service=orkut&hl=en-US&rm=false&continue=http%3A%2F%2Fwww.orkut.com.br%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%253A%252F%252Fwww.orkut.com.br%252FHome.aspx&cd=BR&passive=true
+URL: https://www.google.com/accounts/CheckCookie?continue=http%3A%2F%2Fwww.orkut.com.br%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%253A%252F%252Fwww.orkut.com.br%252FHome.aspx%26ts%3D1220989657601%3A1220989658101%3A1220989670853&cd=BR&hl=en-US&service=orkut&chtml=LoginDoneHtml
+URL: https://www.google.com/accounts/NewAccount?service=orkut&continue=http%3A%2F%2Fwww.orkut.com.br%2FRedirLogin.aspx%3Fmsg%3D1&hl=en-US
+
+URL: http://www.sina.com.cn/
+URL: http://d1.sina.com.cn/cg/liuwei/sy_lb_b_130370.html
+URL: http://d1.sina.com.cn/cg/liuwei/sy_lb_b_130370.html
+URL: http://beacon.sina.com.cn/fc.html?a=g&n=SINAGLOBAL&r=0.5853351450456936
+URL: http://630.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|fangchan|sinashou_left&db=sina&border=0&local=yes
+URL: http://631.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|fangchan|sinashou_right&db=sina&border=0&local=yes
+URL: http://44.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|Home|HomePV&db=sina&border=0&local=yes
+URL: http://news.sina.com.cn/iframe/2008/weather/jump_new.html
+URL: http://589.adsina.allyes.com/main/adfshow?user=AFP6_for_SINA|CPMAD|sy_lb_b_130370_cpm&db=sina&border=0&local=yes
+URL: http://pfp.sina.com.cn/3wsina_top.html
+URL: http://pfp.sina.com.cn/sina3w_ent.html
+URL: http://pfp.sina.com.cn/3wsina_n.html
+URL: http://beacon.sina.com.cn/fc.html?a=g&n=SINAGLOBAL&r=0.3423029507241691
+URL: http://beacon.sina.com.cn/fc.html?a=g&n=SINAGLOBAL&r=0.3423029507241691
+URL: http://www.sina.com.cn/iframe/2008/weather/110100.html
+
+URL: http://www.google.fr/
+URL: http://www.google.fr/search?hl=fr&q=au%27jourd%27hui&btnG=Recherche+Google&meta=&aq=f&oq=
+URL: http://www.google.fr/search?hl=fr&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=aujourd%27hui&spell=1
+URL: http://www.aujourdhui.com/
+URL: http://adserver.aol.fr/adiframe|3.0|516|1519278|0|225|ADTECH;target=_blank;key=key1+key2+key3+key4;grp=[group]
+
+URL: http://www.aol.com/
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1380529&pid=1174767&ps=-1&zw=424&zh=60&url=http%3A//www.aol.com/&v=5&dct=AOL.com%20-%20Welcome%20to%20AOL
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1380529,1381308&placementId=1381328&pid=1174767&ps=-1&zw=424&zh=60&url=http%3A//www.aol.com/&v=5&dct=AOL.com%20-%20Welcome%20to%20AOL
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1380529&placementId=1381308&pid=1174767&ps=-1&zw=424&zh=60&url=http%3A//www.aol.com/&v=5&dct=AOL.com%20-%20Welcome%20to%20AOL
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1380529,1381308,1381328&placementId=1381331&pid=1174767&ps=-1&zw=424&zh=60&url=http%3A//www.aol.com/&v=5&dct=AOL.com%20-%20Welcome%20to%20AOL
+URL: http://news.aol.com/elections/article/palin-sticks-to-script-on-campaign-trail/167518?icid=100214839x1209333991x1200509309
+URL: http://www.aolcdn.com/_media/channels/ke_blank.html
+URL: http://www.aolcdn.com/_media/channels/ke_blank.html
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1346890&placementId=1369278&pid=994772&ps=-1&zw=456&zh=250&url=http%3A//news.aol.com/elections/article/palin-sticks-to-script-on-campaign-trail/167518%3Ficid%3D100214839x1209333991x1200509309&v=5&dct=%20Palin%20Sticks%20to%20Script%20on%20Campaign%20Trail%20&ref=http%3A//www.aol.com/
+URL: http://webcenter.polls.aol.com/modular.jsp?template=1381&view=150468&pollId=150742&channel=aol_us_election08&popup=yes
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1346890,1369278&placementId=1369171&pid=994772&ps=-1&zw=314&zh=300&url=http%3A//news.aol.com/elections/article/palin-sticks-to-script-on-campaign-trail/167518%3Ficid%3D100214839x1209333991x1200509309&v=5&dct=%20Palin%20Sticks%20to%20Script%20on%20Campaign%20Trail%20&ref=http%3A//www.aol.com/
+URL: http://webcenter.polls.aol.com/modular.jsp?template=1381&view=150467&pollId=150741&channel=aol_us_election08&popup=yes
+
+URL: http://www.fc2.com/
+URL: http://fc2.com/topinfo/
+
+URL: http://www.mail.ru/
+URL: http://win.mail.ru/cgi-bin/signup
+URL: http://win.mail.ru/cgi-bin/x_reg_frame?706375186&x_reg_id=regV2_curVEI0v
+
+URL: http://www.google.co.uk/
+URL: http://www.google.co.uk/search?hl=en&q=another+random+search+string+that+happens+to+be+really+long&btnG=Google+Search&meta=
+URL: http://weblogs.mozillazine.org/roc/archives/2008/01/string_theory.html
+
+URL: http://www.google.com.br/
+URL: http://www.google.com.br/search?hl=pt-BR&q=how+many+more+googles+are+there+going+to+be%3F&btnG=Pesquisa+Google&meta=
+URL: http://www.google.com.br/search?hl=pt-BR&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=how+many+more+goggles+are+there+going+to+be%3F&spell=1
+URL: http://digg.com/odd_stuff/Cops_Please_Give_Back_Our_Beer_Goggles
+URL: http://view.atdmt.com/iview/msnnkhac001300x250Xdig3000000185msn/direct;wi.300;hi.250/01
+URL: http://view.atdmt.com/APM/iview/msnnkdrv0010001261apm/direct;wi.728;hi.90/01?click=
+URL: http://view.atdmt.com/APM/iview/msnnkdrv0010001259apm/direct;wi.160;hi.600/01?click=
+URL: http://www.chicagotribune.com/news/local/chi-missing-goggles-both-08aug08,0,809753.story
+URL: http://www.chicagotribune.com/common/includes/google-adsense-content.html?client=ca-tribune_news3_html&channel_content=chicagotribune.com&channel_section=chicagotribune_section&type=wide&page_url=http://www.chicagotribune.com/news/local/chi-missing-goggles-both-08aug08,0,868444,print.story
+URL: http://digg.com/tools/diggthis.php?u=http%3A//www.chicagotribune.com/news/local/chi-missing-goggles-both-08aug08%2C0%2C809753.story&w=new&k=%23ff9900
+URL: http://www.chicagotribune.com/common/includes/google-adsense-content2.html?client=ca-tribune_news3_html&channel_content=chicagotribune.com&channel_section=chicagotribune_section&type=wide&keywords=government%20grants%2C%20government%20records%2C%20homeland%20security%2C%20international%20affairs%2C&page_url=http://www.chicagotribune.com/news/local/chi-missing-goggles-both-08aug08,0,868444,print.story
+URL: http://www.chicagotribune.com/common/includes/topix.html?pcode=6003&url=http%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Flocal%2Fchi-missing-goggles-both-08aug08%2C0%2C868444%2Cprint.story%3Flast_modified%3D8%2F8%2F08%2010%3A7%3A28
+URL: http://files.chicagotribune.com/metro/inspection/inspect_rail.php
+URL: http://files.chicagotribune.com/metro/crime/promo/promo.php
+URL: http://an.tacoda.net/an/tpp.html
+
+URL: http://wordpress.com/
+URL: http://wordpress.com/features/
+URL: http://wordpress.com/signup/
+URL: http://wordpress.com/signup/?blog=1
+URL: http://wordpress.com/signup/?blog=1
+URL: http://wordpress.com/signup/?blog=1
+URL: http://email.bugmenot.com/
+URL: http://spammenot.nfshost.com/view/random
+URL: http://wordpress.com/activate/cdc4207215e0b779
+URL: http://usernamenooneelsehas.wordpress.com/
+
+URL: http://vkontakte.ru/
+URL: http://www.alexa.com/site/ds/top_sites?cc=RU&ts_mode=country&lang=none
+
+URL: http://photobucket.com/
+URL: http://view.atdmt.com/NTB/iview/110384426/direct;wi.1;hi.1/01?relocate=http://a.photobucket.com//AFTRSERVER/hserver/random=794686/pageid=1302311183/area=PB_HOME/aamsz=PROMO_RECTANGLE
+
+URL: http://www.google.it/
+URL: http://www.google.it/search?hl=it&q=the+google+for+italy%2C+some+may+say%2C+the+best+google&btnG=Cerca+con+Google&meta=
+URL: http://pagoesdigital.wordpress.com/tag/google/
+URL: http://pagoesdigital.wordpress.com/?s=works+fine+it+appears&searchbutton=Go%21
+
+URL: http://www.flickr.com/
+URL: http://www.flickr.com/search/?q=awesome+people
+URL: http://www.flickr.com/photos/25572463@N05/2411629989/
+URL: http://www.flickr.com/photos/25572463@N05/2412461732/in/photostream/
+URL: http://farm3.static.flickr.com/2380/2412461732_a1f52d68cf.jpg?v=0
+
+URL: https://www.google.com/accounts/ServiceLogin?service=orkut&hl=en-US&rm=false&continue=http%3A%2F%2Fwww.orkut.co.in%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%253A%252F%252Fwww.orkut.co.in%252FHome.aspx&cd=IN&passive=true
+
+URL: http://www.amazon.com/
+URL: http://ad.doubleclick.net/adi/amzn.us.gw.btf;sz=300x250;bn=507846;s=32;u=bb9b5eb7a2cd4cfc962ea8e7c3dae7fb;z=1;tile=3;ord=6105?
+URL: http://ad.doubleclick.net/adi/amzn.us.gw.atf;sz=300x250;bn=507846;s=32;u=910865cfbd2e49d794ecbe496c9463a0;z=3;tile=1;ord=6105?
+URL: http://afe.specificclick.net/?l=2042399727&sz=300x250&wr=h&t=h
+
+URL: http://www.google.es/
+URL: http://www.google.es/search?hl=es&q=oh+good%2C+another+google+country+website&btnG=Buscar+con+Google&meta=
+URL: http://www.youtube.com/watch?v=eBGIQ7ZuuiU
+URL: http://n4061ad.doubleclick.net/adi/com.ytpwatch.comedy/main_2;sz=300x250;kl=N;!c=2;klg=en;kvid=eBGIQ7ZuuiU;kpu=YouGotRickRolled;ko=c;kpid=2;kga=-1;kr=F;u=eBGIQ7ZuuiU|2;kgg=-1;kcr=us;tile=1;dcopt=ist;ord=2420310355918626.5?
+
+URL: http://www.google.co.jp/
+URL: http://www.google.co.jp/search?hl=ja&q=just+when+i+thought+i%27d+be+done+with+these%3F%21%21%21%21%21%21%21%21%21%21%21%21%21%21%21%21%21%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F&btnG=Google+%E6%A4%9C%E7%B4%A2&lr=&aq=f&oq=
+URL: http://www.channel-ai.com/about1311.html
+
+URL: http://www.yandex.ru/
+URL: http://yandex.ru/yandsearch?text=i+don%27t+speak+russian+%3A%28
+
+URL: http://www.craigslist.org/about/sites
+URL: http://chicago.craigslist.org/
+URL: http://chicago.craigslist.org/search/sss?query=turntables
+URL: http://chicago.craigslist.org/chc/ele/834227119.html
+URL: http://chicago.craigslist.org/chc/ele/
+
+URL: http://www.google.cn/
+URL: http://www.smashingmagazine.com/2007/06/05/google-pagerank-what-do-we-really-know-about-it/
+
+URL: http://www.friendster.com/
+Try to load libthai dynamically...
+Error, can't load libthai...
+URL: http://www.friendster.com/websearch.php?loc=home&filter=network&search=1&w=yacin+nadji
+URL: http://github.com/ynadji/ruby-taint-proxy-server/tree/master
+
+URL: http://go.com/
+URL: http://search.yahoo.com/search?ei=UTF-8&trackingType=go_search_home&p=double+dare&fr=hsusgo1&sa.x=0&sa.y=0
+URL: http://en.wikipedia.org/wiki/Double_Dare_(1986_game_show)
+
+URL: http://www.imdb.com/
+URL: http://www.imdb.com/find?s=all&q=batman+the+dark+knight&x=0&y=0&=go
+URL: http://media.adrevolver.com/adrevolver/trace?sip=78&cpy=4280690
+URL: http://www.imdb.com/images/a/ifb/doubleclick/expand.html?#imdb.consumer.main/find;tile=1;sz=728x90;p=b;ord=2933348707358049.5
+URL: http://i.imdb.com/images/3pads/google/google-afc.html?channel=h-channel
+URL: http://ad.turn.com/server/ads.htm?&pub=1250181&code=1250190&cch=1250186&l=300x250&clr=DEFAULT&nonjs=1&ref=
+
+URL: http://www.youporn.com/
+URL: http://www.youporn.com/
+URL: http://ads-dev.youporn.com/www/delivery/afr.php?zoneid=10&target=_blank&cb=
+URL: http://ads-dev.youporn.com/www/delivery/afr.php?zoneid=9&target=_blank&cb=
+URL: http://ads-dev.youporn.com/www/delivery/afr.php?zoneid=8&target=_blank&cb=
+URL: http://ifa.youpornmate.com/dif/?cid=160x600
+URL: http://banners.adultfriendfinder.com/go/page/iframe_youporn_768x245b?start=0
+
+URL: http://www.odnoklassniki.ru/
+URL: http://www.odnoklassniki.ru/cdk/st.cmd/main/st.categoryId/1/st.locationId/10418489962/tkn/6250
+URL: http://www.odnoklassniki.ru/cdk/st.cmd/main/st.categoryId/1/st.locationId/10418489962/tkn/287
+
+URL: http://www.google.com.mx/
+URL: http://www.google.com.mx/search?hl=es&q=another+google&btnG=Buscar+con+Google&meta=
+URL: http://www.informationweek.com/news/internet/google/showArticle.jhtml?articleID=210500290
+
+URL: http://www.naver.com/
+URL: http://static.nid.naver.com/login2.nhn
+URL: http://lcs.naver.com/u{http://www.naver.com/}
+URL: http://nv1.ad.naver.com/adshow?unit=002B
+URL: http://ia.www.naver.com/index.nhn
+URL: http://nv2.ad.naver.com/adshow?unit=002C
+URL: http://nv3.ad.naver.com/adshow?unit=002E
+
+URL: http://www.bbc.co.uk/
+URL: http://news.bbc.co.uk/2/hi/business/7605584.stm
+URL: http://news.bbc.co.uk/2/hi/uk_news/magazine/7536962.stm
+
+URL: http://www.skyrock.com/
+URL: http://www.skyrock.com/search/username/?=username&q=what+is+skyrock%3F
+
+URL: http://www.163.com/
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x90&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x205&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=column&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x390&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=banner&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo300120&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x120&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=column&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo300x70&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo300x70&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x88&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x88&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x60&location=6
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x60&location=6
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x60&location=5
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x314&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=tvscreen&location=1
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo170x120&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=tvscreen&location=2
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=column&location=3
+URL: http://pro.163.com/html.ng/site=netease&affiliate=homepage&cat=homepage&type=logo145x60&location=7
+URL: http://www.yodao.com/search?q=i+can%27t+read+any+of+the+characters%21&ue=gbk&keyfrom=163index
+
+URL: http://www.imageshack.us/
+URL: http://imageshack.us/yieldmanager.php
+URL: http://www.imageshack.us/ymlowmedrec.php
+URL: http://ad.yieldmanager.com/iframe3?gowAABnRAgAsoAEA.qIAAAAA.AEAAP8A.wD..wIAAgEwBgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPg.AAAAAAAA-D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV1se2PkHEAVJRDNEt3pOMDXuEOSv.LuEHA3tIgAAAAA=,,http://www.imageshack.us/ymlowmedrec.php
+URL: http://ad.doubleclick.net/adi/N3926.ValueClick/B3028789.8;sz=300x250;click=http://media.fastclick.net/w/click.here?cid=136562&mid=260259&sid=20143&m=6&c=0&forced_click=;ord=20080910013138?
+URL: http://profile.imageshack.us/search.php?q=nature
+URL: http://profile.imageshack.us/user/karmelia/images/detail/#221/naturedesertaie4.jpg
+URL: http://img221.imageshack.us/imginfo.php?image=naturedesertaie4.jpg
+URL: http://img221.imageshack.us/rater.php?image=naturedesertaie4.jpg&noads=true
+
+URL: http://www.redtube.com/
+URL: http://ads.redtube.com/show/?asid=4&uid=&t=1221009060&w=190&h=2000&class=0
+URL: http://ads.redtube.com/show/?asid=1&uid=&t=1221009060&w=474&h=86&class=0
+URL: http://ads.redtube.com/show/?asid=3&uid=&t=1221009060&w=765&h=280&class=0
+URL: http://rt.globalmailer3.com/releasese/redtube_tower_st4.asp
+URL: http://ifa.redtubelive.com/dif/
+URL: http://ads.sexinyourcity.com/760x275_redtube.php
+URL: http://www.redtube.com/14275
+URL: http://ads.redtube.com/show/?asid=1&uid=750&t=1221010038&w=474&h=86&class=0
+URL: http://ads.redtube.com/show/?asid=9&uid=750&t=1221010038&w=765&h=340&query=Hot+girl+fucked+in+her+ass
+URL: http://ads.redtube.com/show/?asid=2&class=0&uid=750&t=1221010038&w=156&h=215
+URL: http://ads.redtube.com/show/?asid=3&uid=750&t=1221010038&w=765&h=280&class=0
+
+URL: http://www.taobao.com/index_n.php
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner2&db=taobaoafp&border=0&local=yes
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner3&db=taobaoafp&border=0&local=yes
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner1&db=taobaoafp&border=0&local=yes
+URL: http://cn2.adserver.yahoo.com/a?f=2121060025&p=cntaobao&l=TBE2&c=h&bg=FFFFFF
+URL: http://cn2.adserver.yahoo.com/a?f=2121060025&p=cntaobao&l=TBE1&c=h&bg=FFFFFF
+URL: http://cn2.adserver.yahoo.com/a?f=2121060025&p=cntaobao&l=TBN&c=h&bg=FFFFFF
+URL: http://cn2.adserver.yahoo.com/a?f=2121060025&p=cntaobao&l=TBR2&c=h&bg=FFFFFF
+URL: http://auction1.taobao.com/auction/expressway/mobile_card.htm?css=mytaobao
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner2&db=taobaoafp&border=0&local=yes
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner1&db=taobaoafp&border=0&local=yes
+URL: http://taobaoafp.allyes.cn/main/adfshow?user=taobao|homepage|Firstscreen_lunbo_banner3&db=taobaoafp&border=0&local=yes
+URL: http://search1.taobao.com/browse/0/n-95-----------------g,mfxg65dimvzca4tbnzsg63jaonswc4tdnaqgk3thnfxgk----------------40--commend-0-all-0.htm?at_topsearch=1
+
+URL: http://www.googlesyndication.com/
+URL: http://www.google.com/search?hl=en&q=google+search+i%27m+feeling+lucky&btnG=Google+Search
+URL: http://www.google.com/help/features.html
+URL: http://www.google.com/search?q=related%3Awww.cnn.com&btnG=Search
+
+URL: http://www.cnn.com/
+URL: http://svcs.cnn.com/weather/wrapper.jsp?&csiID=csi1
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon3&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=130459
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main_custom&cnn_position=966x110_top&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=675849
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=120x90_lft&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=175871
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main_custom&cnn_position=966x110_top&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=675849
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=130276
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon2&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=249715
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main_custom&cnn_position=336x600_rgt&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=24882
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main_custom&cnn_position=336x600_rgt&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=24882
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon1&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=403093
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=1x1_bot&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=518740
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=1x1_bot&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=518740
+URL: http://ad.doubleclick.net/adi/N1727.cnn.com/B2560990.3;sz=120x90;click=http://ads.cnn.com/event.ng/Type=click&FlightID=97433&AdID=217362&TargetID=1101&Segments=730,2278,2743,3030,3285,6041,8463,8796,9496,9685,9779,9781,9853,10381,13760,14879,15105,15539,16113,16484,17251,18517,18672,18961,18982&Values=1588&Redirect=;ord=cjsKhwb,bemojbgddpcmi?
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon3&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=130459
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=120x90_lft&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=175871
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=130276
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon9&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=5493641990221&domId=542759
+URL: http://www.cnn.com/2008/POLITICS/09/09/mccain.lobbying/index.html
+URL: http://www.cnn.com/.element/ssi/auto/2.0/sect/POLITICS/nextStory1.exclude.html?&csiID=csi3
+URL: http://svcs.cnn.com/weather/wrapper.jsp?&csiID=csi1
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_position=126x31_spon1&cnn_rollup=most_popular&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=481192
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=special_report&cnn_position=336x850_rgt&cnn_rollup=politics&cnn_section=elec_2008&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=290186
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=special_report&cnn_position=180x150_lft&cnn_rollup=politics&cnn_section=elec_2008&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=487831
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=intg_story_article&cnn_position=336x280_adlinks&cnn_rollup=politics&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=465654
+URL: http://view.atdmt.com/IWC/iview/cnncbhyu0030000051iwc/direct/01/bigcjvN,bemojbxddhfbe?click=http://ads.cnn.com/event.ng/Type%3dclick%26FlightID%3d86050%26AdID%3d170272%26TargetID%3d16976%26Segments%3d660,2743,3030,3285,4008,7842,8359,8463,8796,8806,9496,9779,10373,11532,13760,14879,14990,15539,16113,17251,18517,18672,18823,18954,18961,18982%26Values%3d1588%26Redirect%3d
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=special_report&cnn_position=180x150_lft&cnn_rollup=politics&cnn_section=elec_2008&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=487831
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=special_report&cnn_position=336x850_rgt&cnn_rollup=politics&cnn_section=elec_2008&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=290186
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=intg_story_article&cnn_position=336x280_adlinks&cnn_rollup=politics&page.allowcompete=yes&params.styles=fs&tile=9435741990221&domId=465654
+URL: http://www.cnn.com/video/?iref=videoglobal
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=cnn_video&cnn_position=266x49_house&cnn_rollup=house&page.allowcompete=yes&params.styles=fs&tile=6917351990221&domId=598777
+URL: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=cnn_video&cnn_position=266x49_house&cnn_rollup=house&page.allowcompete=yes&params.styles=fs&tile=6917351990221&domId=598777
+
+URL: http://www.sohu.com/
+URL: http://images.sohu.com/cs/button/yiche/Sohu_default.html
+URL: http://www.sohu.com/_kuaixun_scroll.shtml
+URL: http://www.sogou.com/sohu?query=deadmau5&p=01040100&w=01999999&_asf=www.sohu.com&_ast=1220991566&md=&name=&rturl=&dtype=&ds=&provider=&key=
+URL: http://music.fenbei.com/12073187
+URL: http://www.fenbei.com/hello/done/ifadv/P_38.html
+URL: http://www.fenbei.com/hello/done/ifadv/P_10.html
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7073753703673998&dt=1220991584698&output=html&slotname=2504452006&correlator=1220991584695&url=http%3A%2F%2Fmusic.fenbei.com%2F12073187&frm=1&ga_vid=3308437274633184000.1220991585&ga_sid=1220991585&ga_hid=827650252&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7073753703673998&dt=1220991584722&output=html&slotname=6177100369&correlator=1220991584722&url=http%3A%2F%2Fmusic.fenbei.com%2F12073187&frm=1&ga_vid=1106000006437758300.1220991585&ga_sid=1220991585&ga_hid=1481242981&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://www.fenbei.com/Hello/google480,80.html
+URL: http://www.fenbei.com/hello/done/ifadv/P_24.html
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7073753703673998&dt=1220991585210&output=html&slotname=5781074324&correlator=1220991585208&url=http%3A%2F%2Fmusic.fenbei.com%2F12073187&frm=1&ga_vid=1398503799750854700.1220991585&ga_sid=1220991585&ga_hid=574168314&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://www.fenbei.com/hello/done/ifadv/P_11.html
+
+URL: https://www.google.com/accounts/ServiceLogin?service=orkut&hl=en-US&rm=false&continue=http%3A%2F%2Fwww.orkut.com%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%253A%252F%252Fwww.orkut.com%252FHome.aspx&cd=US&passive=true
+
+URL: http://www.adultfriendfinder.com/
+URL: http://adultfriendfinder.com/p/register.cgi
+
+URL: http://www.youku.com/
+URL: http://so.youku.com/search_video/q_futurama
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7278399111614699&dt=1220991713800&output=html&slotname=4647107216&correlator=1220991713797&url=http%3A%2F%2Fso.youku.com%2Fsearch_video%2Fq_futurama&ref=http%3A%2F%2Fwww.youku.com%2F&frm=0&ga_vid=401958348298644000.1220991714&ga_sid=1220991714&ga_hid=1877154799&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=2&u_nplug=1&u_nmime=2
+URL: http://so.youku.com/pv/baiduTopic
+
+URL: http://www.google.ca/
+URL: http://www.google.ca/
+URL: http://www.google.ca/language_tools?hl=fr
+Try to load libthai dynamically...
+Error, can't load libthai...
+URL: http://www.google.dz/
+URL: https://www.google.com/accounts/ServiceLogin?service=writely&passive=true&nui=1&continue=http%3A%2F%2Fdocs.google.com%2F%3Fhl%3Dfr%26tab%3Dwo&followup=http%3A%2F%2Fdocs.google.com%2F%3Fhl%3Dfr%26tab%3Dwo&ltmpl=homepage&rm=false
+
+URL: http://www.uol.com.br/
+URL: http://home.noticias.uol.com.br/noticias.jhtm
+URL: http://mundo.busca.uol.com.br/buscar.html?ref=homeuol&ad=on&q=tetris+tocadisco+remix&x=0&y=0
+
+URL: http://www.pornhub.com/
+URL: http://ifa.pornhublive.com/dif/?cid=160x1800
+URL: http://ads.sexinyourcity.com/960x245_phub.php
+URL: http://www.pornhub.com/view_video.php?viewkey=e7c63a6bfdffb314cb87
+URL: http://ads.sexinyourcity.com/960x245_phub.php
+URL: http://www.utherverse.com/Content/Ads/315x300_50k.html
+URL: http://ifa.pornhublive.com/dif/?cid=315x300
+URL: http://www.pornhub.com/video/search?search=awesome
+URL: http://ads.sexinyourcity.com/960x245_phub.php
+
+URL: http://www.dailymotion.com/us
+URL: http://www.dailymotion.com/us/featured/video/x4mtzf_fun-factory-vancouver-film-school-v_shortfilms
+URL: http://www.dailymotion.com/us/channel/shortfilms
+URL: http://www.dailymotion.com/us/channel/shortfilms/featured/video/x6ngpy_prison-break-wentworth-sarah_shortfilms
+
+URL: http://www.espn.go.com/
+URL: http://ad.doubleclick.net/adi/N3550.ESPN/B2800235.2;sz=728x90;click=http://log.go.com/log?srvc%3dsz%26guid%3dA22C6849-F870-4D79-B619-C063A5F6348C%26drop%3d0%26addata%3d1184:53156:437542:53156%26a%3d1%26goto%3d;ord=2008.09.09.18.41.51?
+URL: http://sports.espn.go.com/broadband/mpf/players/indexFrontPage?id=2378529&id=2459789&id=2564308&id=2564307&page=FrontPage&playerType=fpp&height=447&width=236
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1303566&pid=605757&ps=-1&zw=404&zh=250&url=http%3A//www.espn.go.com/&v=5&dct=ESPN%3A%20The%20Worldwide%20Leader%20In%20Sports
+URL: http://ad.doubleclick.net/adi/N2870.esp/B2096088.2;dcopt=1_ist;sz=0x0;click=http://log.go.com/log?srvc%3dsz%26guid%3d7D8C3950-E80D-49CE-8C5D-EC155BC8071E%26drop%3d0%26addata%3d1298:183:405068:65%26a%3d1%26goto%3d;ord=2008.09.09.18.41.54?
+URL: http://sports.espn.go.com/nfl/powerranking?season=2008&week=2
+URL: http://ad.doubleclick.net/adi/N3016.espn.com/B2998552.4;sz=728x90;click=http://log.go.com/log?srvc%3dsz%26guid%3d39861D8D-F171-4A9E-95F4-E28D9A444B7B%26drop%3d0%26addata%3d0:44291:436651:44291%26a%3d1%26goto%3d;ord=2008.09.09.18.41.57?
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1294567&pid=580757&ps=-1&zw=734&zh=215&url=http%3A//sports.espn.go.com/nfl/powerranking%3Fseason%3D2008%26week%3D2&v=5&dct=ESPN%20-%20NFL%20Power%20Rankings-%20National%20Football%20League&ref=http%3A//www.espn.go.com/
+URL: http://ad.doubleclick.net/adi/N3016.espn.com/B2998552.22;sz=160x600;click=http://log.go.com/log?srvc%3dsz%26guid%3d39861D8D-F171-4A9E-95F4-E28D9A444B7B%26drop%3d0%26addata%3d820:59406:436648:44291%26a%3d1%26goto%3d;ord=2008.09.09.18.41.57?
+URL: http://sports.espn.go.com/nfl/schedule
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1294673&pid=580757&ps=-1&zw=734&zh=300&url=http%3A//sports.espn.go.com/nfl/schedule&v=5&dct=ESPN%20-%20NFL%20Schedule%2C%20Pro%20-%20Football%20League%20Schedule&ref=http%3A//sports.espn.go.com/nfl/powerranking%3Fseason%3D2008%26week%3D2
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=1294673&placementId=1272550&pid=580757&ps=-1&zw=195&zh=220&url=http%3A//sports.espn.go.com/nfl/schedule&v=5&dct=ESPN%20-%20NFL%20Schedule%2C%20Pro%20-%20Football%20League%20Schedule&ref=http%3A//sports.espn.go.com/nfl/powerranking%3Fseason%3D2008%26week%3D2
+URL: http://view.atdmt.com/SF1/iview/spnxxstu0030000347sf1/direct;wi.160;hi.600/01/2008.09.09.18.42.03?click=http://log.go.com/log?srvc%3dsz%26guid%3dB25E4639-67DE-43D2-A9CD-798201C8E4DB%26drop%3d0%26addata%3d820:60872:357515:65%26a%3d1%26goto%3d
+URL: http://search.espn.go.com/brett-favre/
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1385366&pid=601760&ps=-1&zw=300&zh=190&url=http%3A//search.espn.go.com/brett-favre/&v=5&dct=Brett%20Favre%20News%2C%20Videos%2C-otos%2C%20and%20PodCasts%20-%20ESPN&ref=http%3A//sports.espn.go.com/nfl/schedule
+URL: http://sports.espn.go.com/nfl/clubhouse?team=nyj
+URL: http://view.atdmt.com/COM/iview/113885586/direct;wi.728;hi.90/01/2008.09.09.18.42.27?click=http://log.go.com/log?srvc%3dsz%26guid%3d6AE53B52-B918-4EB1-9AF8-DB00084DED69%26drop%3d0%26addata%3d0:55720:437731:275%26a%3d1%26goto%3d
+URL: http://ads.espn.adsonar.com/adserving/getAds.jsp?previousPlacementIds=&placementId=1327429&pid=580757&ps=-1&zw=410&zh=300&url=http%3A//sports.espn.go.com/nfl/clubhouse%3Fteam%3Dnyj&v=5&dct=ESPN%20-%20New%20York%20Jets%20News-ayers%2C%20Stats%2C%20Video%20-%20NFL&ref=http%3A//search.espn.go.com/brett-favre/
+
+URL: http://www.ebay.de/
+URL: http://shop.ebay.de/items/_W0QQ_nkwZtechnicsQ201200QQ_armrsZ1QQ_fromZR40QQ_mdoZ
+URL: http://de.ebayobjects.com/1ai/ebay.de.search/keywords;kw=technics+1200;dcopt=ist;seg=DE_Top_30pct_Buyers;tcat=10614;items=122;sz=728x90;tile=1;ord=1221010972643;
+URL: http://cgi.ebay.de/Technics-SL-1200-MK-II-Direct-Drive-Turntable_W0QQitemZ280264401224QQcmdZViewItem?hash=item280264401224&_trkparms=72%3A1130%7C39%3A1%7C66%3A2%7C65%3A12%7C240%3A1318&_trksid=p3286.c0.m14
+
+URL: http://www.rambler.ru/
+URL: http://www.rambler.ru/srch?set=www&words=cuz+i+was+born+a+rambling+man&btnG=%CD%E0%E9%F2%E8%21
+URL: http://love.rambler.ru/
+URL: http://ad.rambler.ru/ban.ban?pg=5446&ifr=1
+
+URL: http://www.rakuten.co.jp/
+URL: http://esearch.rakuten.co.jp/rms/sd/esearch/vc?sv=2&c=2836&sitem=donkey+kong
+URL: http://sdashiato.rakuten.co.jp/rms/sd/sdashiato/vc?sv=2
+
+URL: http://www.metroflog.com/
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=419;c=1452;s=1069;d=9;w=300;h=250
+URL: http://tag.admeld.com/default/6/50/300x250/iframe
+
+URL: http://mixi.jp/
+URL: http://ads.mixi.jp/hserver/SITE=login/AREA=NEWROTATION.BANNER/AAMSZ=468X60/GENDER=S2/AGE=1/PREF=13/OCC=1/LC=0/JCC=0/MID=0/NDCC=0/ECHO=0/ACC_RANDOM=68339457/PAGEID=89248374
+URL: http://mixi.jp/home.pl
+URL: http://ads.mixi.jp/hserver/SITE=login/AREA=NEWROTATION.BANNER/AAMSZ=468X60/GENDER=S2/AGE=1/PREF=13/OCC=1/LC=0/JCC=0/MID=0/NDCC=0/ECHO=0/ACC_RANDOM=5690717/PAGEID=4368413
+URL: http://mixi.jp/home.pl&blah=stuff
+URL: http://mixi.jp/home.pl?blah=stuff
+URL: http://ads.mixi.jp/hserver/SITE=login/AREA=NEWROTATION.BANNER/AAMSZ=468X60/GENDER=S2/AGE=1/PREF=13/OCC=1/LC=0/JCC=0/MID=0/NDCC=0/ECHO=0/ACC_RANDOM=39111659/PAGEID=7289204
+
+URL: http://www.ask.com/
+URL: http://www.ask.com/hpstatic
+URL: http://www.askkids.com/
+URL: http://www.askkids.com/web?q=do+my+math+homework+for+me&search=search&qsrc=0&o=0&l=dir
+URL: http://www.bagatrix.com/calculus.htm?gclid=CJLKiICN0JUCFSCcnAodUGwmiw
+
+URL: http://www.livedoor.com/
+URL: http://search.livedoor.com/search/?k=search&ie=utf8&c=ld_top_sb&flag=1&q=more+random+search+strings&search_btn.x=0&search_btn.y=0&search_btn=1
+URL: http://www.7andy.jp/books/search_result/?fromKeywordSearch=true&kword_in=random&ctgy=books&oop=
+
+URL: http://www.adobe.com/
+URL: http://www.adobe.com/creativelicense/?promoid=CSFTP
+
+URL: http://www.rediff.com/
+URL: http://www.rediff.com/uim/ads/usa-home-Middle.htm
+URL: http://www.rediff.com/uim/ads/usa-home-Top1.htm
+URL: http://www.rediff.com/uim/ads/usa-home-Middle3.htm
+URL: http://www.rediff.com/uim/ads/Rediff_usahomepage_180x70_Left.htm
+URL: http://money.rediff.com/money/jsp/home_index.jsp
+URL: http://www.rediff.com/uim/ads/Rediff_usa_home_336x280-BottomRight.htm
+URL: http://www.rediff.com/uim/ads/usa-home-Middle2.htm
+URL: http://www.rediff.com/uim/ads/usa-home-Top2.htm
+URL: http://search1.rediff.com/dirsrch/default.asp?MT=rediff+india+abroad
+URL: http://search1.rediff.com/dirsrch/srchred.cgi?red=http%3A%2F%2Fwww.indiaabroad.com%2F&q=rediff%20india%20abroad&pos=1
+URL: http://www.indiaabroad.com/
+URL: http://www.rediff.com/uim/ads/usa-home-Top2.htm
+URL: http://www.rediff.com/uim/ads/usa-home-Middle2.htm
+URL: http://www.rediff.com/uim/ads/Rediff_usa_home_336x280-BottomRight.htm
+URL: http://money.rediff.com/money/jsp/home_index.jsp
+URL: http://view.atdmt.com/CNT/iview/brstmacp0030000018cnt/direct;wi.468;hi.60/030228?click=http://www.burstnet.com/ads/ad10809d-map.cgi/BCPG100398.140730.169501/SZ=468X60B/V=2.3S//REDIRURL=
+
+URL: http://www.netlog.com/
+URL: http://ar.netlog.com/
+URL: http://ar.netlog.com/go/login/why=PROFILES&target=-L2dvL2V4cGxvcmUvcHJvZmlsZXM_
+URL: http://ar.netlog.com/go/login/why=FRIENDS&target=-L2dvL2ZyaWVuZHM_
+URL: http://ar.netlog.com/go/login/why=LOGS&target=-L2dvL2xvZ3M_
+
+URL: http://www.fotolog.com/
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-fotolog_js&dt=1220993348334&hl=en&adsafe=medium&format=728x90_as&output=html&correlator=1220993348332&channel=Homepage&url=http%3A%2F%2Fwww.fotolog.com%2F&color_bg=FFFFFF&color_text=000000&color_link=0000FF&color_url=0000FF&color_border=FFFFFF&ad_type=flash,image,text,html&frm=0&cc=99&ga_vid=2832556459678595600.1220993348&ga_sid=1220993348&ga_hid=1362592206&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://search.fotolog.com/results?type=site&q=awesome+photos
+URL: http://photography.topcareerschools.com/clickcount.php?id=12149769&goto=http%3A%2F%2Fphotography.topcareerschools.com%2F%3Fsrc%3D%26
+
+URL: http://www.valueclickmedia.com/
+URL: http://www.dmnews.com/ValueClick-adds-to-behavioral-targeting-capabilities/article/112914/
+URL: http://an.tacoda.net/an/tpp.html
+URL: http://www.scmagazineus.com/
+URL: http://an.tacoda.net/an/tpp.html
+
+URL: http://www.yahoo.com.cn/
+URL: http://www.yahoo.com.cn/
+URL: http://search.cn.yahoo.com/search?v=web&ei=gbk&searchFlag=&fr=fp-tab-web-ycn&pid=ysearch&source=yahoo_yhp_0706_search_button&p=wicked+stuff+t+search+for+on+yahoo
+URL: http://syhjjsrxsy.blog.163.com/
+
+URL: http://www.livejournal.com/
+URL: http://ads.sixapart.com/show?p=lj&width=300&accttype=NON&height=250&type=user&adunit=medrect&gender=unknown&channel=App-Home&url=http://www.livejournal.com/index.bml&pagenum=5ecabfb5deaa5cb931114f46e932f6641cbe5e9c&r=5ecabfb5deaa5cb931114f46e932f6641cbe5e9c:1
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2225071415168430&dt=1220993690047&output=html&slotname=8997623253&correlator=1220993690044&url=http%3A%2F%2Fwww.livejournal.com%2F&frm=1&ga_vid=3843208548671839000.1220993690&ga_sid=1220993690&ga_hid=1744883266&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://www.livejournal.com/explore/
+URL: http://ads.sixapart.com/show?p=lj&width=300&accttype=NON&height=250&type=user&adunit=medrect&gender=unknown&channel=App-Explore&pagenum=2d48e2c307cdfa175866c09652344eb9a33b7d12&r=2d48e2c307cdfa175866c09652344eb9a33b7d12:1&url=http://www.livejournal.com/explore/index.bml
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2225071415168430&dt=1220993697653&output=html&slotname=8997623253&correlator=1220993697651&url=http%3A%2F%2Fwww.livejournal.com%2Fexplore%2F&frm=1&ga_vid=1769636641646967300.1220993698&ga_sid=1220993698&ga_hid=935646345&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=2&u_nplug=1&u_nmime=2
+URL: http://www.livejournal.com/culture/
+URL: http://ads.sixapart.com/show?pn=1&p=lj&width=300&accttype=NON&height=250&type=user&vc=culture&adunit=medrect&gender=unknown&channel=App-Vertical&url=http://www.livejournal.com/culture/&pagenum=69948a97148007631b7852b54ad23fd580ac9d2a&r=69948a97148007631b7852b54ad23fd580ac9d2a:2
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2225071415168430&dt=1220993707078&hints=culture%20fashion%20beauty%20food%20drink%20arts%20art%20literature%20theater%20travel&output=html&slotname=1411574278&correlator=1220993707076&url=http%3A%2F%2Fwww.livejournal.com%2Fculture%2F&frm=1&ga_vid=939919223963613400.1220993707&ga_sid=1220993707&ga_hid=589194430&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=3&u_nplug=1&u_nmime=2
+URL: http://wearingthecharm.livejournal.com/34298.html
+URL: http://ads.sixapart.com/show?country=US&language=en&height=90&p=lj&width=728&accttype=NON&vc=food&adplacement=hbox&curl=6390a4&cbg=ffffff&cborder=ffffff&clink=6390a4&ctext=333333&layout=voxhtml&gender=unknown&type=content&theme=papel-picado&categories=MOVIES,MUSIC&adunit=leaderboard-bottom&channel=Journal-Leaderboard-Bottom&pagenum=b087666e123be3995e7a2cf28421dfe52aad6ad7&r=b087666e123be3995e7a2cf28421dfe52aad6ad7:2&url=http://wearingthecharm.livejournal.com/34298.html&contents=Last+week+I+ordered+Proactiv+Solution.+I%26nbsp%3Bhave+to+admit,+that+stuff+really+works.+And,+after+three+months+%2B+of+not+using+it,+my+face+is+no+longer+beautiful+as+I+would+like+it+to+be.%26nbsp%3B+Maybe+I%27ve+been+breaking+out+because+I%27ve+had+too+much+consumption+in+dairy+products,+or+maybe+it%27s+because+I+don%27t+take+care+of+my+face+as+much+as+I+should+during+the+day.+Who+knows.+Anyways,+my+pimples+are+like+the+big+kind+that+grow+underneath+and+hurt+meh.+The+proactiv+came+in+the+mail+yesterday.+Unfortunately+I%26nbsp%3Bhave+not+
+URL: http://ads.sixapart.com/show?country=US&language=en&height=90&p=lj&width=728&accttype=NON&vc=food&adplacement=hbox&curl=6390a4&cbg=ffffff&cborder=ffffff&clink=6390a4&ctext=333333&layout=voxhtml&gender=unknown&type=content&theme=papel-picado&categories=MOVIES,MUSIC&adunit=leaderboard-top&channel=Journal-Leaderboard-Top&pagenum=b087666e123be3995e7a2cf28421dfe52aad6ad7&r=b087666e123be3995e7a2cf28421dfe52aad6ad7:1&url=http://wearingthecharm.livejournal.com/34298.html&contents=Last+week+I+ordered+Proactiv+Solution.+I%26nbsp%3Bhave+to+admit,+that+stuff+really+works.+And,+after+three+months+%2B+of+not+using+it,+my+face+is+no+longer+beautiful+as+I+would+like+it+to+be.%26nbsp%3B+Maybe+I%27ve+been+breaking+out+because+I%27ve+had+too+much+consumption+in+dairy+products,+or+maybe+it%27s+because+I+don%27t+take+care+of+my+face+as+much+as+I+should+during+the+day.+Who+knows.+Anyways,+my+pimples+are+like+the+big+kind+that+grow+underneath+and+hurt+meh.+The+proactiv+came+in+the+mail+yesterday.+Unfortunately+I%26nbsp%3Bhave+not+used+i
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2225071415168430&dt=1220993711183&output=html&slotname=0569771637&correlator=1220993711180&url=http%3A%2F%2Fwearingthecharm.livejournal.com%2F34298.html&color_bg=ffffff&color_text=333333&color_link=6390a4&color_border=ffffff&frm=1&ff=Sans%20Serif&ga_vid=4513132468391134000.1220993711&ga_sid=1220993711&ga_hid=24209679&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=4&u_nplug=1&u_nmime=2
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-2225071415168430&dt=1220993711543&hints=music%20dance&output=html&slotname=6392954045&correlator=1220993711540&url=http%3A%2F%2Fwearingthecharm.livejournal.com%2F34298.html&frm=1&ff=Sans%20Serif&ga_vid=4513132468391134000.1220993712&ga_sid=1220993712&ga_hid=24209679&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=4&u_nplug=1&u_nmime=2
+URL: http://www.livejournal.com/interests.bml?int=awesomeness
+
+URL: http://www.perfspot.com/
+URL: http://ad.spot200.com/st?ad_type=iframe&ad_size=300x250&site=129657&section_code=321707&age=&gen=
+
+URL: http://www.google.com.tr/
+URL: http://www.google.com.tr/search?hl=tr&q=alphazone&btnG=Google%27da+Ara&meta=
+URL: http://en.wikipedia.org/wiki/Alphazone
+
+URL: http://www.daum.net/
+URL: http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&secid=06c01&type=cpm&tag=iframe&mkvid=1&ord=7461111861030157
+URL: http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&secid=06c19&type=cpm&tag=iframe
+URL: http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&secid=06c05&type=cpm&tag=iframe&adcnt=28&ord=5578917886865753
+URL: http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&secid=06c04&type=cpm&tag=iframe&mkvid=1&ord=
+URL: https://logins.daum.net/Mail-bin/login.cgi?dummy=1220993789279
+
+URL: http://www.apple.com/
+URL: http://fls.doubleclick.net/activityi;src=1566767;type=apple663;cat=apple249;ord=842686989737.0631?
+URL: http://www.apple.com/ipodnano/
+
+URL: http://www.mininova.org/
+URL: http://d3.zedo.com/jsc/d3/ff2.html?n=792;d=8;w=120;h=600
+URL: http://d3.zedo.com/jsc/d3/ff2.html?n=792;w=468;h=60
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=120x600&section=299407
+
+URL: http://www.globo.com/
+URL: http://globoesporte.globo.com/
+URL: http://playervideo.globo.com/webmedia/player/embed/GMCAbrePlayer?midiaId=880210&autoStart=false&banda=I&ntf=true&nocache=1220994159245
+URL: http://busca.globo.com/Sites/GE/buscar.ssp
+
+URL: http://nasza-klasa.pl/
+URL: http://nasza-klasa.pl/
+
+URL: http://www.wretch.cc/
+URL: http://tw.info.search.yahoo.com/search/wretch?f=&ei=UTF-8&fr=cb-wretch&searchtype=article&q=terminal+bonanza
+URL: http://www.wretch.cc/blog/MediaMatrix/20321853
+
+URL: http://www.imagevenue.com/
+URL: http://www.imagevenue.com/faq.php
+URL: http://www.imagevenue.com/linkus.php
+URL: http://users.imagevenue.com/register.php
+URL: http://users.imagevenue.com/process_cont_registert.php
+URL: http://muxtape.com/
+
+URL: http://www.about.com/
+URL: http://www.about.com/gi/pages/promise.htm
+URL: http://an.tacoda.net/an/tpp.html
+URL: error:/?error=24&errText=clk.about.com#http://clk.about.com/?terms=awesome+time&zi=18%2F1Yf%2FZd&SUName=www&sdn=www&tt=0&bts=0
+URL: error:/?error=24&errText=clk.about.com#http://clk.about.com/?terms=awesome+time&zi=18%2F1Yf%2FZd&SUName=www&sdn=www&tt=0&bts=0
+URL: error:/?error=24&errText=clk.about.com#http://clk.about.com/?terms=awesome+time&zi=18%2F1Yf%2FZd&SUName=www&sdn=www&tt=0&bts=0
+URL: error:/?error=24&errText=clk.about.com#http://clk.about.com/?terms=awesome+time&zi=18%2F1Yf%2FZd&SUName=www&sdn=www&tt=0&bts=0
+
+URL: http://www.veoh.com/
+
+URL: http://www.google.pl/
+
+URL: http://www.google.co.id/
+
+URL: http://www.google.com.au/
+
+URL: http://ameblo.jp/
+URL: http://ameblo.jp/kamijiyusuke/
+URL: http://www.ameba.jp/
+URL: http://www.cyberagent.co.jp/index.html
+
+URL: http://www.yourfilehost.com/
+URL: http://www.yourfilehost.com/counter.htm
+URL: http://www.yourfilehost.com/ads/addynamix/728x90-bottom-2.html
+URL: http://ad.103092804.com/st?ad_type=iframe&ad_size=728x90&section=278934
+
+URL: http://www.goo.ne.jp/
+URL: http://search.goo.ne.jp/web.jsp?MT=something+random+text+search&x=0&y=0&=%E6%A4%9C%E7%B4%A2&STYPE=web&IE=UTF-8&from=gootop
+
+URL: http://www.nytimes.com/
+URL: http://graphics8.nytimes.com/feedroom/nytc3/ifr_params.html
+URL: http://an.tacoda.net/an/tpp.html
+URL: http://query.nytimes.com/search/sitesearch?query=barack+obama&srchst=cse
+URL: http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html?scp=1-spot&sq=barack%20obama&st=cse
+URL: http://www.nytimes.com/2008/08/24/us/politics/24biden.html?_r=1&oref=slogin
+URL: http://graphics8.nytimes.com/feedroom/nytc3/shell.html?skin=oneclip&fr_story=a425c9aca92f51bd19f2a621fd93b5e266507191
+URL: http://www.nytimes.com/gst/litesub_insert.html?product=TD&size=336x105
+URL: http://graphics8.nytimes.com/feedroom/nytc3/notenabled.html?skin=oneclip
+URL: http://an.tacoda.net/an/tpp.html
+URL: http://query.nytimes.com/search/politics?query=john+mccain&x=0&y=0
+URL: http://topics.nytimes.com/top/reference/timestopics/people/m/john_mccain/index.html?scp=1-spot&sq=john%20mccain&st=cse
+URL: http://www.nytimes.com/2007/10/07/us/politics/07mccain.html
+URL: http://www.nytimes.com/gst/litesub_insert.html?product=TH&size=336X90
+URL: http://an.tacoda.net/an/tpp.html
+URL: http://www.nytimes.com/pages/technology/index.html
+URL: http://graphics8.nytimes.com/feedroom/nytc3/shell.html?skin=sectionfront&fr_chl=cea0b0cbf4b9379e20a42d92ff4366b656aba02c
+URL: http://graphics8.nytimes.com/feedroom/nytc3/ifr_params.html
+URL: http://graphics8.nytimes.com/feedroom/nytc3/notenabled.html?skin=sectionfront
+URL: http://listings.nytimes.com/iFrame/DirM.asp
+URL: http://an.tacoda.net/an/tpp.html
+
+URL: http://www.megavideo.com/
+URL: http://www.megavideo.com/?v=879QBSMC
+URL: http://www.megavideo.com/?c=profile&user=naveenkumarcn
+
+URL: http://www.google.ru/
+URL: http://www.google.ru/search?hl=ru&q=dsadadasdsa+dsad+sa+das+d+sad+asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd&btnG=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D0%B2+Google&lr=&aq=f&oq=
+
+URL: http://www.ku6.com/
+URL: http://so.ku6.com/v?q=another%20awesome%20website
+
+URL: http://www.free.fr/
+URL: http://www.free.fr/adsl/
+URL: http://www.free.fr/adsl/internet.html
+URL: http://www.free.fr/adsl/pages/internet/votre-web.html
+URL: http://www.free.fr/adsl/television.html
+URL: http://imp.free.fr/
+
+URL: http://www.nicovideo.jp/
+URL: http://ext.nicovideo.jp/thumb/sm4449262
+URL: http://www.nicovideo.jp/search/random+shit
+URL: https://secure.nicovideo.jp/secure/remind_pass
+URL: https://secure.nicovideo.jp/secure/remind_pass
+URL: https://secure.nicovideo.jp/secure/remind_pass
+URL: https://secure.nicovideo.jp/secure/
+URL: https://secure.nicovideo.jp/secure/register
+URL: https://secure.nicovideo.jp/secure/register
+
+URL: http://www.ebay.co.uk/
+URL: http://video-games.shop.ebay.co.uk/items/Sony-PSP__W0QQQ5fcatrefZ1QQQ5fcatrefZ1QQ_flnZ1QQ_sacatZ75556QQ_qiZRTM445083
+URL: http://uk.ebayobjects.com/1ai/ebay.uk.1249/consoles_and_systems;cat=1249;cat=139971;cat=75556;dcopt=ist;seg=NOt_in_Specific_Guids_for_NO_a;tcat=75556;items=2137;sz=468x60;tile=1;ord=1221014390226;
+URL: http://uk.ebayobjects.com/1ai/ebay.uk.1249/consoles_and_systems;cat=1249;cat=139971;cat=75556;dcopt=ist;tcat=75556;items=2137;sz=180x150;tile=2;ord=1221014390226;
+URL: http://cgi.ebay.co.uk/SONY-PSP-SLIM-CONSOLE-AV-Cable-Gift-Game-DEEP-RED_W0QQitemZ260285240932QQcmdZViewItem?hash=item260285240932&_trkparms=72%3A985%7C39%3A1%7C66%3A2%7C65%3A12%7C240%3A1318&_trksid=p3286.c0.m14
+URL: http://promo.ebay.co.uk/ws/eBayISAPI.dll?GetCrossPromos&strsellerid=chrisman2882&seller=555622625&item=260285240932&storecats=15463961&category=75556&listedsite=3&method=1&CurrentPage=VI&shipdiscount=0&track=MERC_VI&storeid=3378362&promohostid=15&random=205
+
+URL: http://www.mediafire.com/
+URL: http://www.mediafire.com/upload_timer.html
+URL: http://www.mediafire.com/blank.html
+URL: http://www.mediafire.com/blank.html
+URL: http://www.mediafire.com/dynamic/random_seed.php
+URL: http://support.mediafire.com/index.php?_m=tickets&_a=submit
+
+URL: http://www.google.com.sa/
+URL: http://www.google.com.sa/search?hl=ar&q=dsadsadsad+sadsadas+dsa+d+asd+sadsad&btnI=%D8%B6%D8%B1%D8%A8%D8%A9+%D8%AD%D8%B8&meta=
+URL: http://www.google.com.sa/search?hl=ar&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=sadsadsad+dasdsadsa+dsa+d+asdsadsad&spell=1
+URL: http://bbs.imobile.com.cn/viewthread.php?action=printable&tid=3066047
+URL: http://www.google.com.sa/swr?q=sadsadsad+dasdsadsa+dsa+d+asdsadsad&hl=ar&swrnum=2
+URL: http://www.google.com.sa/search?hl=ar&q=sadsadsad+dasdsadsa+dsa+d+asdsadsad&as_q=dsadsadasd&btnG=%D8%A7%D9%84%D8%A8%D8%AD%D8%AB+%D8%B6%D9%85%D9%86+%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC+%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%8A%D8%A9
+URL: http://www.google.com.sa/intl/ar/privacy.html
+URL: http://www.google.com.sa/intl/ar/privacy_faq.html#personalinfo
+URL: https://www.google.com/accounts/ManageAccount
+
+URL: http://www.vmn.net/
+URL: http://www.netvibes.com/
+URL: http://search.vmn.net/?q=netvibe&btnS=Web+Search&type=vmnhome&lz=us
+
+URL: http://www.bebo.com/
+URL: http://beboframe.com/FlashFrame.jsp?Promo=Y&AutoPlay=N&PageLoc=&Size=S&FlashBoxId=7749803531&width=296&height=254&AdString=vl%3DUS%26va%3Dnull%26vg%3Dnull&IpCountryId=US&videoTracking=bebo&IsSponsored=Y&Area=front&ooyalaEmbedId=front
+URL: http://www.bebo.com/Profile.jsp?MemberId=2762337640&TUUID=36043bce-f3b3-4b84-ae90-17e1e6a3cfe9
+URL: http://www.thetruth.com/socialmedia/socialMedia_bebo.cfm
+URL: http://www.bebo.com/PleaseSignIn.jsp?Page=Profile_jsp&MemberId=418699&popup=0
+URL: http://www.bebo.com/Video.jsp
+URL: http://beboframe.com/FlashFrame.jsp?Promo=Y&AutoPlay=Y&Size=S&FlashBoxId=7764253905&width=380&height=212&AdString=&IpCountryId=US&videoTracking=&IsSponsored=Y&Area=tv&ooyalaEmbedId=tv
+URL: http://www.bebo.com/Channels.jsp
+URL: http://www.bebo.com/Channels.jsp?GetAll=Y&
+
+URL: http://www.soso.com/
+URL: http://www.soso.com/q?pid=s.idx&w=bill+and+ted%27s+excellent+adventure
+URL: http://www.imdb.com/title/tt0096928/plotsummary
+URL: http://content.pulse360.com/305177CC-4930-11DD-A7FA-39723BF8694A
+URL: http://www.imdb.com/images/a/ifb/doubleclick/expand.html?#imdb.consumer.title/;tile=3;sz=728x90;p=b;g=brc;g=ad;id=tt0096928;g=sf;g=co;tt=f;g=baa;ord=1970996107892597.2
+URL: http://media.adrevolver.com/adrevolver/trace?sip=78&cpy=8161508
+URL: http://content.pulse360.com/C6C7561A-492E-11DD-9179-2C743BF8694A
+URL: http://uac.advertising.com/wrapper/aceUAC.htm#Site=705838&Size=728090
+URL: http://www.imdb.com/chart/
+URL: http://uac.advertising.com/wrapper/aceUAC.htm#Site=739317&Size=160600&bnum=1577945
+URL: http://www.imdb.com/images/a/ifb/doubleclick/expand.html?#imdb.consumer.main/;tile=1;sz=728x90;p=b;ord=5799291257653055
+URL: http://uac.advertising.com/wrapper/aceUAC.htm#Site=689639&Size=728090
+URL: http://www.imdb.com/title/tt1213644/
+URL: http://view.atdmt.com/IWC/iview/102144213/direct/01?click=
+URL: http://www.imdb.com/images/a/ifb/doubleclick/expand.html?#imdb.consumer.title/;tile=3;sz=728x90;p=b;g=brc;id=tt1213644;g=co;tt=f;ord=1993741030801898.2
+URL: http://content.pulse360.com/305177CC-4930-11DD-A7FA-39723BF8694A
+URL: http://content.pulse360.com/C6C7561A-492E-11DD-9179-2C743BF8694A
+URL: http://uac.advertising.com/wrapper/aceUAC.htm#Site=705838&Size=728090
+URL: http://www.rottentomatoes.com/
+
+URL: http://www.weather.com/
+URL: http://www.weather.com/blog/weather/
+URL: error:/?error=24&errText=www.weather.com#http://www.weather.com/search/enhancedlocalsearch?whatprefs=&what=WeatherLocalUndeclared&lswe=Berkeley%2C+CA&lswa=WeatherLocalUndeclared&from=searchbox&where=Berkeley%2C+CA&wxGoButton=GO
+URL: error:/?error=24&errText=www.weather.com#http://www.weather.com/search/enhancedlocalsearch?whatprefs=&what=WeatherLocalUndeclared&lswe=Berkeley%2C+CA&lswa=WeatherLocalUndeclared&from=searchbox&where=Berkeley%2C+CA&wxGoButton=GO
+
+URL: http://www.4shared.com/
+URL: http://www.4shared.com/file/35060096/3aac41ed/Funny_Cats.html?s=1
+URL: http://www.4shared.com/file/35060096/3aac41ed/Funny_Cats.html?s=1
+URL: http://www.4shared.com1/
+URL: http://www.4shared.com/
+URL: http://www.4shared.com/features.jsp
+URL: http://www.4shared.com/pricing.jsp
+URL: http://www.4shared.com/share_music.jsp
+
+URL: http://www.terra.com.br/capa/
+URL: http://ppi.terra.com.br/showppihome.asp?pag=nacional&ord=284301
+URL: http://ppi.terra.com.br/showArea.asp?key=br.capa.portal.1024&direct=1&ord=166834?
+URL: http://www.terra.com.br/compras/?origem=cec
+URL: http://www.terra.com.br/compras/index.htm
+URL: http://www.fastshop.com.br/product.aspx?par=cec&product_id=PADMCLS80LBK
+URL: http://www.terra.com.br/barra25.htm
+URL: http://www.terra.com.br/ads/compras/ppiesq.ads?
+URL: http://ppi.terra.com.br/showArea.asp?key=br.shop01.superbanner.ppi&direct=1
+URL: http://www.terra.com.br/ads/boxcanais/shopping/box_shopping.htm
+
+URL: http://www.megaupload.com/
+URL: http://www.megaupload.com/terms/
+URL: http://www.megaupload.com/terms/
+URL: http://www.megaupload.com/privacy/
+URL: http://www.megaupload.com/premium/
+
+URL: http://www.comcast.net/
+URL: http://www.comcast.net/a/
+URL: http://www.comcast.net/browserupgrade/
+URL: http://www.comcast.com/highspeedinternet-net/default.html?CMP=ILC-fcomcastnethpfhsi
+URL: http://www.cmcsk.com/
+URL: http://www.comcast.com/ir_flash/invest_banner.html
+URL: http://phx.corporate-ir.net/phoenix.zhtml?c=118591&p=irol-lookupIframe
+
+URL: http://www.zshare.net/
+URL: http://www.zshare.net/
+URL: http://www.zshare.net/FAQ/
+URL: http://www.zshare.net/contact-us/
+URL: http://www.zshare.net/contact-us/
+
+URL: http://www.deviantart.com/
+URL: http://www.deviantart.com/global/difi/?c%5B%5D=Resources;htmlFromQuery;meta%3Aall%20boost%3Apopular%20author%2Bgreg,0,24,thumb150,category%3A1%5C%2Ctitle%3A1%5C%2Cartist%3A0%5C%2Crelated%3A1%5C%2Cdescription%3A1%5C%2Csuggest%3A1%5C%2Ccatpath%3A1&t=page&ad_frame=atf_right_300x250&ad_zone=right_wr_browse&ad_zone2=BROWSE.v6&ad_d=300x250&ad_keys=Catpath%3A%2C%20Section%3Abrowse&ad_style=thumbnail&ad_buster=1220997184178&nostat=1&ad_mature=0
+URL: http://view.atdmt.com/APM/iview/dvnnddrv0010001348apm/direct;wi.300;hi.250/01?click=
+URL: http://cyclonecorsair.deviantart.com/art/Legendary-Author-Greg-21047493
+URL: http://cache.static.userplane.com/subtracts/adframes/int_banner_r.html?clickID=ab4c13ba&width=728&height=90&zoneID=2116&domainID=91929755c33ba67dbb5b0bb9f9dc1c35&asl=%20name=
+URL: http://cache.static.userplane.com/subtracts/adframes/int_banner.html?domainID=91929755c33ba67dbb5b0bb9f9dc1c35&app=wc&zoneID=2116&clickID=ab4c13ba&width=728&height=90&refresh=30&asl=%20name=
+URL: http://subtracts.userplane.com/oa/www/delivery/afr.php?domainid=91929755c33ba67dbb5b0bb9f9dc1c35&app=wc&n=ab4c13ba&zoneid=2116&refresh=30&source=%20name=
+
+URL: http://www.google.com.ar/
+URL: http://www.google.com.ar/preferences?hl=es
+URL: https://www.google.com/accounts/Login?continue=http://www.google.com.ar/preferences%3Fhl%3Des&hl=es
+
+URL: http://www.doubleclick.com/
+URL: http://www.doubleclick.com/about/about_us.aspx
+URL: http://www.doubleclick.com/about/about_us.aspx
+URL: http://www.doubleclick.com/products/dfa/index.aspx
+URL: http://www.doubleclick.com/insight/blog/index.html
+URL: http://www.doubleclick.com/solutions/marketers/index.aspx
+URL: http://www.doubleclick.com/solutions/publishers/index.aspx
+
+URL: http://www.google.nl/
+URL: http://www.google.nl/intl/nl/about.html
+URL: http://www.google.nl/intl/nl/help/features.html
+URL: http://www.google.nl/search?hl=nl&q=converteer+2+meter+naar+voet
+URL: http://www.google.nl/intl/nl/help/features.html#calculator
+URL: http://www.google.nl/webhp?btnG=Google+Zoeken
+URL: http://www.google.nl/search?hl=nl&q=14+choose+12&btnG=Google+zoeken&meta=
+URL: http://www.google.nl/search?q=14+choose+12&hl=nl&lr=lang_nl&sa=X&oi=lrtip&ct=restrict&cad=9
+
+URL: http://www.livejasmin.com/
+URL: http://www.livejasmin.com/listpage.php?tags=girl+bigtits&type=40&from=index&livejasmin_session=6b89ef8ef601ca9a55f1ab824312115ec7f9ffd4
+
+URL: http://www.beijing2008.cn/
+URL: http://paralympic.beijing2008.cn/
+URL: http://results.beijing2008.cn/WRMP/CHI/frags/sch_medal.shtml
+URL: http://results.beijing2008.cn/WRMP/CHI/frags/sch_sch.shtml
+URL: http://paralympic.beijing2008.cn/sports/index.shtml
+URL: http://paralympic.beijing2008.cn/news/sports/others/n214355523.shtml
+URL: http://paralympic.beijing2008.cn/spectators/index.shtml
+URL: http://paralympic.beijing2008.cn/index.shtml
+URL: http://results.beijing2008.cn/WRMP/CHI/frags/sch_medal.shtml
+
+URL: http://www.google.co.th/
+Try to load libthai dynamically...
+Error, can't load libthai...
+URL: http://www.google.co.th/search?hl=th&q=justice&btnG=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%A2+Google&meta=
+URL: http://en.wikipedia.org/wiki/Justice_(French_band)
+
+URL: http://geocities.yahoo.com/
+URL: http://us.geocities.yahoo.com/search?p=mathematics&searchgeobtn.x=0&searchgeobtn.y=0&searchgeobtn=Search
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=120x600&entity=24276&site_code=geocities&section_code=12804845&cb=1221016694034841&ycg=&yyob=&pub_redirect_unencoded=1&pub_redirect=http://us.ard.yahoo.com/SIG=156o9unnl/M=674272.12804845.13083737.1386099/D=geocities/S=37469678:SKY/Y=GEOCITIES/EXP=1221023894/L=ZQU1MULaTU7aC8d6SMbmDQLL2C.GD0jHPHUADbeQ/B=fvB4BkLaX9Q-/J=1221016694034841/A=5406490/R=0/*
+URL: http://themis.geocities.yahoo.com/themis/h.php?sp=&IP=216.47.134.15&t=1221016694.6855&use=cp.php&c=4283403f32d9740260fa90d64d19be01
+URL: http://www.geocities.com/alouetteone/index.html
+URL: http://www.geocities.com/js_source/adframe07.html
+URL: http://www.geocities.com/js_source/tab04.html
+URL: http://www.geocities.com/alouetteone/index.html?20089
+URL: http://themis.geocities.yahoo.com/themis/h.php?curl=http://us.geocities.com/alouetteone/index.html&sp=76001084&IP=216.47.134.15&t=1221016707&c=896f3b00d0614a566ebf0ead5dd0fb4c
+URL: http://www.geocities.com/alouetteone/02fertil.html
+URL: http://www.geocities.com/js_source/tab04.html
+URL: http://www.geocities.com/js_source/adframe07.html
+URL: http://www.geocities.com/alouetteone/02fertil.html?20089
+URL: http://themis.geocities.yahoo.com/themis/h.php?curl=http://us.geocities.com/alouetteone/02fertil.html&sp=76001084&IP=216.47.134.15&t=1221016713&c=377c03bbc5ed759f119531ef07d5d1d4
+URL: http://www.geocities.com/annavangogh/index.html
+URL: http://www.geocities.com/js_source/tab04.html
+URL: http://www.geocities.com/js_source/adframe07.html
+URL: http://www.geocities.com/annavangogh/index.html?20089
+URL: http://themis.geocities.yahoo.com/themis/h.php?curl=http://us.geocities.com/annavangogh/index.html&sp=76001081&IP=216.47.134.15&t=1221016718&c=e3890d924c2e24665406eb720d8c9fda
+
+URL: http://www.download.com/2000-2001_4-0.html
+URL: http://ad.doubleclick.net/adi/N339.cnetbi.com/B3114605.3;sz=300x250;click0=http://adlog.com.com/adlog/e/r=8688&s=815464&o=20:2001:&h=cn&p=2&b=6&l=en_US&site=4&pt=2000&nd=2001&pid=&cid=0&pp=100&e=3&rqid=01c18-ad-e248B9809C4791262&orh=&oepartner=&epartner=&ppartner=&pdom=&cpnmodule=&count=&ra=216.47.134.15&pg=HBqq@woPjAIAAGdwtasAAADM&t=2008.09.10.03.18.44&event=58/;ord=2008.09.10.03.18.44?
+URL: http://pn2.adserver.yahoo.com/a?f=2023424526&pn=cnet&p=tchnt-ysct&l=VR&c=sh
+URL: http://www.download.com/1770-2001_4-0.html?query=spybot+search+and+destroy&tag=srch&searchtype=downloads&=%2F1770-2001_4-0.html
+
+URL: http://www.nifty.com/
+URL: http://ad.nttnavi.co.jp/html.ng/site=Nifty&spacedesc=ntop-gtxt&tocode=SJIS&transactionID=0.15618336673648253?
+URL: http://ad.nttnavi.co.jp/html.ng/site=Nifty&spacedesc=ntop-txt&page.multiads=yes&page.uniqueads=yes&tocode=SJIS&transactionID=0.5862572428706369?
+URL: http://www.fumi23.com/
+URL: http://www.fumi23.com/
+URL: http://www.fumi23.com/tv/top.cgi
+URL: http://static.fumi23.com/old/date_new.html
+URL: http://static.fumi23.com/old/images/omikuji/index2.html
+URL: http://www.fumi23.com/rank/top.cgi
+URL: http://ad.nttnavi.co.jp/html.ng/site=Nifty&spacedesc=nfumi-rect&tocode=UTF-8&transactionID=0.003146706616108635?
+URL: http://www.fumi23.com/tv/top.cgi
+URL: http://news.nifty.com/cs/topics/detail/080909058960/1.htm
+URL: http://ad.nttnavi.co.jp/html.ng/site=Nifty&spacedesc=ncnews&tocode=SJIS&transactionID=0.33082088005301585?
+URL: http://ad.nttnavi.co.jp/html.ng/site=Nifty&spacedesc=ncnews&tocode=SJIS&transactionID=0.33082088005301585?
+
+URL: http://www.partypoker.com/
+URL: http://www.partycasino.com/
+URL: https://secure.partyaccount.com/about/privacy_s.do#cookies
+URL: https://tt1.zedo.com/jsc/tt1/ff2.html?n=721;c=76;s=2;d=22;w=160;h=130;q=English
+URL: https://secure.partyaccount.com/about/legal_information_s.do
+URL: https://tt1.zedo.com/jsc/tt1/ff2.html?n=721;c=76;s=2;d=22;w=160;h=130;q=English
+URL: https://secure.partyaccount.com/about/legal_information_s.do
+URL: https://tt1.zedo.com/jsc/tt1/ff2.html?n=721;c=76;s=2;d=22;w=160;h=130;q=English
+
+URL: http://www.adultadworld.com/
+URL: https://signup.adworldmedia.com/shortform.aspx?email=dsad%40bugmenot.com&pass=dsadsad&url=http%3a%2f%2fbugmenot.com&ref=
+URL: http://www.adultadworld.com/contactus.html
+URL: http://www.adultadworld.com/adult_resources.htm
+
+URL: http://www.2ch.net/
+URL: http://imgsrv.betatest.jp/2chtopcontest/frame.html
+URL: http://find.2ch.net/?STR=flcl&TYPE=TITLE&BBS=ALL&ENCODING=SJIS&COUNT=50
+URL: http://find.2ch.net/amazon.php?KW=flcl&SI=ranimeh&UNIT_HEIGHT=87
+URL: http://find.2ch.net/index.php?TYPE=TITLE&SCEND=A&SORT=MODIFIED&STR=BBS%3A2ch+flcl
+
+URL: http://thepiratebay.org/
+URL: error:/?error=24&errText=thepiratebay.org#http://thepiratebay.org/s/?q=justice+planisphere&page=0&orderby=99
+URL: error:/?error=24&errText=thepiratebay.org#http://thepiratebay.org/s/?q=justice+planisphere&page=0&orderby=99
+URL: http://thepiratebay.org/browse
+URL: http://ad.adnetinteractive.com/st?ad_type=iframe&ad_size=468x60&section=238485
+
+URL: http://www.xvideos.com/
+URL: http://s.xvideos.com/verti-white.php
+URL: http://ifa.xvideoslive.com/dif/?cid=928x244
+URL: http://promos.fling.com/geo/f_scrollers/home.htm?prg=&id=xnxx123&cmp=sky_scroll&t=best&file=fl_scrolling_180x1030_xvodeos&w=180&h=1030&rdURL=
+
+URL: http://www.amazon.co.jp/
+URL: http://ad.hk.doubleclick.net/adi/amzn.jp.gw.atf;sz=300x250;bn=489986;s=19;u=1b80b4d110e14833a06a95a860445e94;z=1;tile=1;ord=59353?
+URL: http://ad.hk.doubleclick.net/adi/amzn.jp.gw.btf;sz=300x250;bn=489986;s=19;u=58e17dc0d0484d299ac04333c2740a8f;z=2;tile=2;ord=59353?
+URL: http://ifr.adjust-net.jp/iframe/24/11096.html
+URL: http://www.amazon.co.jp/s/ref=nb_ss_gw?__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Daps&field-keywords=woo%21&x=0&y=0
+URL: http://ad.hk.doubleclick.net/adi/amzn.jp.sr.aps;sz=160x600;sn=489986;s=19;u=2ccd3ccc304342aea446f96b6b2377af;z=3;tile=1;ord=58706?
+URL: http://www.amazon.co.jp/%E7%94%9F%E7%89%A9%E5%BD%97%E6%98%9FWoO-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-TV%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A9/dp/B000KJTLII/ref=sr_1_1?ie=UTF8&s=music&qid=1221017350&sr=8-1
+URL: http://ad.hk.doubleclick.net/adi/amzn.jp.dp.music/soundtracks;sz=300x250;s=1;s=19;s=24;u=9a61e4727f264c06a6ae69efb23f81a1;z=210;z=206;z=190;tile=1;ord=69709?
+URL: http://ad.hk.doubleclick.net/adi/amzn.jp.dp.music/kids_family;sz=728x90;s=19;u=68d70d14f3e14cbf8e1c15133c56999d;z=206;z=210;z=190;tile=2;ord=69709?
+URL: http://ifr.adjust-net.jp/iframe/24/11098.html
+
+URL: http://www.tudou.com/
+URL: http://www.tudou.com/programs/view/9EQQhgQ5KFw/
+URL: http://comment.tudou.com/crossdomain/index.html
+
+URL: http://www.tagged.com/
+URL: https://secure.tagged.com/secure_login.html?uri=http%3A%2F%2Fwww.tagged.com
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=155/121;s=1;d=9;w=300;h=250;p=&t=5111
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=155/121;s=1;d=14;w=728;h=90;p=&t=5111
+URL: http://ad.doubleclick.net/adi/N1057.Casale/B2855614.14;sz=728x90;click0=http://c.casalemedia.com/c/2/1/71209/;ord=657837661?
+URL: http://ad.doubleclick.net/adi/N1057.Casale/B2855614.10;sz=300x250;click0=http://c.casalemedia.com/c/4/1/71209/;ord=801930211?
+URL: http://www.tagged.com/index.html?r=%2Ffriends.html
+URL: https://secure.tagged.com/secure_login.html?r=%2Ffriends.html&uri=http%3A%2F%2Fwww.tagged.com
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=155/121;s=1;d=14;w=728;h=90;p=&t=3621
+URL: http://c5.zedo.com/jsc/c5/ff2.html?n=496;c=155/121;s=1;d=9;w=300;h=250;p=&t=3621
+URL: http://as.casalemedia.com/s?s=83223&u=tagged.com&f=4&id=6666016728.981574&C=1
+URL: http://ad.doubleclick.net/adi/N1057.Casale/B2855614.14;sz=728x90;click0=http://c.casalemedia.com/c/2/1/71209/;ord=657837661?
+URL: http://www.tagged.com/index.html
+URL: https://secure.tagged.com/secure_login.html?uri=http%3A%2F%2Fwww.tagged.com
+URL: http://www.tagged.com/search_results.html?search_type=keyword&search_term=justice+justin+timberlake
+
+URL: http://www.gmx.net/
+URL: http://portal.gmx.net/de/shopping/index.html
+URL: http://ads.smartshopping.de/smartShoppingSuperBanner.do?catId_1=1056&catType_1=2&catMerchantNameFreeText_1=Digicams+unter+100+Euro!&combiType_1=1&combiFreeText_1=Reihenweise+Angebote.+Nur+&sc_1=-105600&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_2=29417&catType_2=1&catName_2=Verf%fchrerisch%3a+Die+sch%f6nsten+Push-Ups.&combiType_2=1&combiFreeText_2=F%fcr+nur+&tf_2=248g&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_3=1017&catType_3=2&catMerchantNameFreeText_3=Sensation%3a+Notebooks+unter+700+Euro&combiType_3=1&combiFreeText_3=Jetzt+g%fcnstig+wie+nie.&sc_3=-101700&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_4=7251&catType_4=1&catName_4=Traumhafte+Jerseykleider&combiType_4=1&combiFreeText_4=Zum+verlieben+sch%f6n.&tf_4=22os&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D
+URL: http://ads.smartshopping.de/smartShoppingWideSkyscraper4x.do?catId_1=1025&catType_1=2&catMerchantNameFreeText_1=Navis%3a+Jetzt+schon+f%fcr+unter+160+Euro&combiType_1=1&combiFreeText_1=Bares+Geld+sparen.&sc_1=-102500&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_2=29411&catType_2=2&catMerchantNameFreeText_2=Buffalo-Pumps.&combiType_2=1&combiFreeText_2=Der+Hingucker+dieses+Fr%fchjahr.&tf_2=2464&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_3=6123&catType_3=2&catMerchantNameFreeText_3=Uhren+von+Casio&combiType_3=1&combiFreeText_3=Eine+der+Top-Marken+schon+f%fcr+&manufacturer_3=Casio&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_4=29376&catType_4=2&catMerchantNameFreeText_4=Elegante+Hosenanz%fcge&combiType_4=1&combiFreeText_4=Perfekt+angezogen.&tf_4=23r8&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D
+URL: http://ads.smartshopping.de/smartShoppingSuperBanner.do?catId_1=1056&catType_1=2&catMerchantNameFreeText_1=Digicams+unter+100+Euro!&combiType_1=1&combiFreeText_1=Reihenweise+Angebote.+Nur+&sc_1=-105600&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_2=29417&catType_2=1&catName_2=Verf%fchrerisch%3a+Die+sch%f6nsten+Push-Ups.&combiType_2=1&combiFreeText_2=F%fcr+nur+&tf_2=248g&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_3=1017&catType_3=2&catMerchantNameFreeText_3=Sensation%3a+Notebooks+unter+700+Euro&combiType_3=1&combiFreeText_3=Jetzt+g%fcnstig+wie+nie.&sc_3=-101700&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_4=7251&catType_4=1&catName_4=Traumhafte+Jerseykleider&combiType_4=1&combiFreeText_4=Zum+verlieben+sch%f6n.&tf_4=22os&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D
+URL: http://ads.smartshopping.de/smartShoppingWideSkyscraper4x.do?catId_1=1025&catType_1=2&catMerchantNameFreeText_1=Navis%3a+Jetzt+schon+f%fcr+unter+160+Euro&combiType_1=1&combiFreeText_1=Bares+Geld+sparen.&sc_1=-102500&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_2=29411&catType_2=2&catMerchantNameFreeText_2=Buffalo-Pumps.&combiType_2=1&combiFreeText_2=Der+Hingucker+dieses+Fr%fchjahr.&tf_2=2464&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_3=6123&catType_3=2&catMerchantNameFreeText_3=Uhren+von+Casio&combiType_3=1&combiFreeText_3=Eine+der+Top-Marken+schon+f%fcr+&manufacturer_3=Casio&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_4=29376&catType_4=2&catMerchantNameFreeText_4=Elegante+Hosenanz%fcge&combiType_4=1&combiFreeText_4=Perfekt+angezogen.&tf_4=23r8&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D
+URL: http://preisvergleich.gmx.de/search.do?et_cid=135&et_lid=82739&li=null&pm=null&searchText=notebooks+ibm
+URL: http://ads.smartshopping.de/smartShoppingSuperBanner.do?catId_1=1056&catType_1=2&catMerchantNameFreeText_1=Digicams+unter+100+Euro!&combiType_1=1&combiFreeText_1=Reihenweise+Angebote.+Nur+&sc_1=-105600&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_2=29417&catType_2=1&catName_2=Verf%fchrerisch%3a+Die+sch%f6nsten+Push-Ups.&combiType_2=1&combiFreeText_2=F%fcr+nur+&tf_2=248g&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_3=1017&catType_3=2&catMerchantNameFreeText_3=Sensation%3a+Notebooks+unter+700+Euro&combiType_3=1&combiFreeText_3=Jetzt+g%fcnstig+wie+nie.&sc_3=-101700&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D&catId_4=7251&catType_4=1&catName_4=Traumhafte+Jerseykleider&combiType_4=1&combiFreeText_4=Zum+verlieben+sch%f6n.&tf_4=22os&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116074%26AdID%3D331882%26TargetID%3D30272%26Redirect%3D
+URL: http://ads.smartshopping.de/smartShoppingWideSkyscraper4x.do?catId_1=1025&catType_1=2&catMerchantNameFreeText_1=Navis%3a+Jetzt+schon+f%fcr+unter+160+Euro&combiType_1=1&combiFreeText_1=Bares+Geld+sparen.&sc_1=-102500&trackUrl_1=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_2=29411&catType_2=2&catMerchantNameFreeText_2=Buffalo-Pumps.&combiType_2=1&combiFreeText_2=Der+Hingucker+dieses+Fr%fchjahr.&tf_2=2464&trackUrl_2=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_3=6123&catType_3=2&catMerchantNameFreeText_3=Uhren+von+Casio&combiType_3=1&combiFreeText_3=Eine+der+Top-Marken+schon+f%fcr+&manufacturer_3=Casio&trackUrl_3=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D&catId_4=29376&catType_4=2&catMerchantNameFreeText_4=Elegante+Hosenanz%fcge&combiType_4=1&combiFreeText_4=Perfekt+angezogen.&tf_4=23r8&trackUrl_4=http%3A//adclient.uimserv.net/event.ng/Type%3Dclick%26FlightID%3D116075%26AdID%3D331887%26TargetID%3D41888%26Redirect%3D
+URL: http://preisvergleich.gmx.de/purchase.do?p=0&c=1017&o=0&ch=gmx&m=164&rid=&ver=2&market=&man=&ser=&ts=MjAwODA5MTAtMDU1MTA4&piid=192_168_246_106_8055%4064928%4020080910_05_51_08&page=gmx.freitextsuche.ergebnisseite&tile=gmx.ebay-offers&elem=&pistate=&r=0&docgrp=&docnam=&cpctx=searchresult-productlist&dlp=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F707-52222-2108-18%2F4%3Fmpre%3Dhttp%253A%252F%252Fcgi.ebay.de%252Fws%252FeBayISAPI.dll%253FViewItem%2526item%253D270270946245
+
+URL: http://www.orange.fr/
+URL: http://www.orange.fr/Inc/weborama.html?wxyz0_0_0_0_0
+URL: http://www.orange.fr/bin/frame.cgi?u=http%3A//r.voila.fr/se%3Frdata%3Dpush%2520pin%26kw%3D%20%26sev%3D2%26ref%3DW3ACC_vis_prospect_1518_header_rechercher_webr3%26lg%3Dfr%26dblg%3Dfr%26db%3Dwebr3%26ctx%3Dorange%26profil%3Dorange
+URL: http://www.orange.fr/walledgarden/bin/walledgarden.cgi?url=http://r.voila.fr/se%3Frdata%3Dpush%2520pin%26kw%3D+%26sev%3D2%26ref%3DW3ACC_vis_prospect_1518_header_rechercher_webr3%26lg%3Dfr%26dblg%3Dfr%26db%3Dwebr3%26ctx%3Dorange%26profil%3Dorange
+URL: http://search.ke.voila.fr/S/orange?rtype=kw&bhv=web_fr&kw=+&profil=orange&rdata=push+pin
+
+URL: http://www.mop.com/
+URL: http://mopgg.mop.com/adshow.jsp?p=1518
+
+URL: http://www.tube8.com/
+URL: http://ads.tube8.com/ad?h=6
+URL: http://ifa.tube8live.com/dif/?cid=468x80
+URL: http://ifa.tube8live.com/dif/?cid=700x200
+URL: http://srv.etology.com/tube8/200x1150.htm
+
+URL: http://www.xunlei.com/
+URL: http://page.eachnet.com/landing/xunlei08_4.html
+URL: http://data.movie.xunlei.com/content/64/201302.shtml
+URL: http://z.alimama.com/alimama.php?i=mm_10839307_1292519_2782011&u=http%3A%2F%2Fwww.xunlei.com%2F&w=950&h=90&re=800x600&sz=15&r=&cg=daaf79962aae1119e4dda658cbdd0b1e&pri=40666508&cas=pri&cah=577&caw=800&ccd=24&ctz=-5&chl=1&cpl=1&cmm=2&cf=-1&dx=1&fu=-1&cbh=2464&cbw=620&iss=0&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=6&bgp=0&ic=0&tt=%E8%BF%85%E9%9B%B7%E5%9C%A8%E7%BA%BF&sx=485&sy=2464&ac=6952&pf=1
+URL: http://comment.xunlei.com/comment.php?channel=cont_movie&id=201302&action=iframe_view
+URL: http://z.alimama.com/alimama.php?i=mm_10839307_1292519_2782011&u=http%3A%2F%2Fdata.movie.xunlei.com%2Fcontent%2F64%2F201302.shtml&w=950&h=90&re=800x600&sz=15&r=http%3A%2F%2Fwww.xunlei.com%2F&cg=4c220b9b089fe6959b4d6875bf624d49&pro=40661538&cas=pro&cah=577&caw=800&ccd=24&ctz=-5&chl=1&cpl=1&cmm=2&cf=-1&dx=1&fu=-1&cbh=2121&cbw=620&iss=0&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=6&bgp=0&ic=0&tt=%E7%BB%84%E5%9B%BE%EF%BC%9A%E6%9E%97%E5%BF%97%E6%97%A0%E7%BC%98%E7%A7%8B%E6%99%9A%20%E8%BD%AC%E6%8A%95%E6%A8%A1%E7%89%B9%E7%95%8C%E2%80%9C%E5%A5%A5%E6%96%AF%E5%8D%A1%E2%80%9D%20-%20%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&sx=310&sy=2121&ac=7790&pf=1
+URL: http://mag.movie.xunlei.com/
+
+URL: http://dashboard.aim.com/aim
+URL: http://aim.search.aol.com/search/search?invocationType=hd-aim&query=dj%20kthx
+URL: http://www.kthxfm.com/Article.asp?id=230632
+
+URL: http://www.metacafe.com/
+URL: http://ad.doubleclick.net/adi/mc.today.f1/rp/all;sz=300x250;age=;gen=;leid=538;tile=2;pos=2;ord=1221019262;campaign=;dcZone=/rp/all;pg=1
+URL: http://ad.doubleclick.net/adi/mc.today.f1/rp/all;sz=300x300;age=;gen=;leid=538;tile=1;pos=1;ord=1221019262;campaign=;dcZone=/rp/all;pg=1
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-3949928662970161&dt=1221000259157&format=300x250_as_new&output=html&correlator=1221000259154&channel=2822290592&url=http%3A%2F%2Fwww.metacafe.com%2F&color_bg=FFFFFF&color_text=4C4C4C&color_link=333333&color_url=006699&color_border=FFFFFF&ad_type=text_image&frm=1&ga_vid=2473493616192440000.1221000259&ga_sid=1221000259&ga_hid=748830011&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://www.metacafe.com/tags/justice_justin_timberlake/
+URL: http://ad.doubleclick.net/adi/mc.search.f1/rlvnc/all;sz=300x300;age=;gen=;leid=538;tile=1;pos=1;ord=1221019309;campaign=;dcZone=/rlvnc/all;kw=justice;kw=justin;kw=timberlake;pg=1
+URL: http://ad.doubleclick.net/adi/mc.search.f1/rlvnc/all;sz=300x250;age=;gen=;leid=538;tile=2;pos=2;ord=1221019309;campaign=;dcZone=/rlvnc/all;kw=justice;kw=justin;kw=timberlake;pg=1
+URL: http://ad.doubleclick.net/adi/mc.search.f1/rlvnc/all;sz=728x90;age=;gen=;leid=538;tile=3;pos=3;ord=1221019309;campaign=;dcZone=/rlvnc/all;kw=justice;kw=justin;kw=timberlake;pg=1
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-3949928662970161&dt=1221000305725&output=html&slotname=6404288436&correlator=1221000305722&url=http%3A%2F%2Fwww.metacafe.com%2Ftags%2Fjustice_justin_timberlake%2F&frm=1&ga_vid=3110494820601862700.1221000306&ga_sid=1221000306&ga_hid=2141582492&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=2&u_nplug=1&u_nmime=2
+URL: http://www.metacafe.com/watch/yt-NlHehczmTPk/sexy_back_spoof_silly_girls_dance_to_the_song/
+URL: http://ad.doubleclick.net/adi/N2928.Metacafe/B3097431.3;sz=300x250;ord=$random$?
+URL: http://ad.doubleclick.net/adi/mc.watch.f1;sz=300x250;age=;gen=;leid=538;tile=1;pos=1;ord=1221019330;campaign=;kw=blog;kw=blooper;kw=dance;kw=fat;kw=film;kw=funny;kw=girls;kw=hot;kw=improv;kw=parody;kw=pranks;kw=series;kw=short;kw=sketch;kw=song;kw=spoof;kw=stand;kw=up;kw=video;kw=;cat=comedy;item=yt-NlHehczmTPk;num=0
+URL: http://digg.com/tools/diggthis.php?u=http%3A//www.metacafe.com/watch//sexy_back_spoof_silly_girls_dance_to_the_song/&t=SEXY%20BACK%20SPOOF%20-%20SILLY%20GIRLS%20DANCE%20TO%20THE%20SONG%21%21&w=new&b=A%20dance%20in%20which%20we%20have%20put%20forth%20invaluable%20efforts%20to%20bring%20Justin%20Timberlake%20justice%20in%20his%20Mozart%20of%20a%20song%20%26quot%3BSexy%20Back%26quot%3B.%20%20-OR-%20Just%20bored.&m=VIDEO&c=&k=transparent
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-3949928662970161&dt=1221000326551&format=300x250_as_new&output=html&correlator=1221000326548&channel=0867835009&url=http%3A%2F%2Fwww.metacafe.com%2Fwatch%2Fyt-NlHehczmTPk%2Fsexy_back_spoof_silly_girls_dance_to_the_song%2F&color_bg=FFFFFF&color_text=4C4C4C&color_link=333333&color_url=006699&color_border=FFFFFF&ad_type=text&frm=1&ga_vid=4500062638102356500.1221000327&ga_sid=1221000327&ga_hid=1305227011&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=3&u_nplug=1&u_nmime=2
+
+URL: http://www.nbcolympics.com/
+URL: http://fls.doubleclick.net/activityi;src=1403639;type=sprin455;cat=olymp652;ord=2461594297765.5654?
+URL: http://www.nbcolympics.com/destinationbeijing/index.html
+URL: http://view.atdmt.com/HHC/iview/nbcnlhfb0070000055hhc/direct/01?click=http://ad.doubleclick.net/click%3Bh=v8/3737/3/0/%2a/l%3B206043605%3B0-0%3B1%3B26928706%3B3454-728/90%3B27534090/27551969/1%3B%3B%7Eokv%3D%3Bsection%3Dmain%3Bsponsor%3Ddestinationbeijing%3Barea%3Dsponsors%3Bpos%3D1%3Btile%3D1%3Bsz%3D728x90%3B%7Eaopt%3D2/1/af/0%3B%7Esscs%3D%3f
+URL: http://view.atdmt.com/HHC/iview/nbcnlhfb0070000064hhc/direct/01?click=http://ad.doubleclick.net/click%3Bh=v8/3737/3/0/%2a/w%3B206043602%3B0-0%3B1%3B26928706%3B4307-300/250%3B27534054/27551933/1%3B%3B%7Eokv%3D%3Bsection%3Dmain%3Bsponsor%3Ddestinationbeijing%3Barea%3Dsponsors%3Bpos%3D2%3Btile%3D2%3Bsz%3D300x250%3B%7Eaopt%3D2/1/af/0%3B%7Esscs%3D%3f
+URL: http://www.nbcolympics.com/destinationbeijing/index.html
+URL: http://view.atdmt.com/HHC/iview/nbcnlhfb0070000055hhc/direct/01?click=http://ad.doubleclick.net/click%3Bh=v8/3737/3/0/%2a/l%3B206043605%3B0-0%3B1%3B26928706%3B3454-728/90%3B27534090/27551969/1%3B%3B%7Eokv%3D%3Bsection%3Dmain%3Bsponsor%3Ddestinationbeijing%3Barea%3Dsponsors%3Bpos%3D1%3Btile%3D1%3Bsz%3D728x90%3B%7Eaopt%3D2/1/af/0%3B%7Esscs%3D%3f
+URL: http://view.atdmt.com/HHC/iview/nbcnlhfb0070000064hhc/direct/01?click=http://ad.doubleclick.net/click%3Bh=v8/3737/3/0/%2a/w%3B206043602%3B0-0%3B1%3B26928706%3B4307-300/250%3B27534054/27551933/1%3B%3B%7Eokv%3D%3Bsection%3Dmain%3Bsponsor%3Ddestinationbeijing%3Barea%3Dsponsors%3Bpos%3D2%3Btile%3D2%3Bsz%3D300x250%3B%7Eaopt%3D2/1/af/0%3B%7Esscs%3D%3f
+
+URL: http://www.biglobe.ne.jp/
+URL: http://www.biglobe.ne.jp/shun_1.html
+URL: http://cgi.search.biglobe.ne.jp/cgi-bin/search2-b?search=%8C%9F%8D%F5&q=but+yeah+i+think+it+looks+good&bt01.x=0&bt01.y=0
+
+URL: http://sourceforge.net/index.php
+URL: http://sourceforge.net/search/?type_of_search=soft&words=CloneSweeper
+URL: http://sourceforge.net/projects/clonesweeper/
+URL: http://sourceforge.net/search/?type_of_search=soft&words=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fclonesweeper%2F
+
+URL: http://www.infoseek.co.jp/
+
+URL: http://www.gamespot.com/
+URL: http://creativeby1.unicast.com/script/V3.00/deliver2.html?pid=18570&cid=3407&pub=105&a=80708&VwDebug=false&pc=80592&exp=%27090908%27&fc=false&sc=false&png='http%253A//ping1.unicast.com/adstracking.gif%253FDV%253D3.00%2526PT%253DI%2526AD%253D80708%2526AV%253D_AV_%2526PV%253D_PV_%2526CV%253D_CV_%2526RV%253D_RV_%2526UV%253D_UV_%2526UC%253D_UC_%2526VP%253D0.0.0.0%2526VU%253D_VU_%2526RD%253D221941'&pip=''&tpi='http%253A//ad.doubleclick.net/ad/N1942.GameSpot.com/B2994101.31%253Bsz%253D1x1%253Bord%253D%253F%3F1221000554074'
+URL: http://mads.gamespot.com/mac-ad?beacon=1&site=6&NCAT=1&ptype=2001
+
+URL: http://www.studivz.net/
+URL: http://www.studentix.pl/
+URL: http://www.studentix.pl/newsroom.php?id=310&ref=3ewgfw
+
+URL: http://www.maktoob.com/
+URL: http://www.maktoob.com/kitkat.php
+URL: http://www.maktoob.com/searchResult.php?q=maktoob
+URL: http://ads.araby.com/index.php?ke=72719521221019979&section=serve&id=64&affid=714&servingtype=keyword&Enc=qKJcNitukzff&keyword=maktoob
+URL: http://www.maktoob.com/viewing_instructions.php
+URL: http://www.maktoob.com/searchResult.php?q=yacin
+URL: http://ads.araby.com/index.php?ke=21469291221019998&section=serve&id=64&affid=714&servingtype=keyword&Enc=qKJcNitukzff&keyword=yacin
+
+URL: http://geocities.yahoo.co.jp/
+URL: http://avatar.yahoo.co.jp/error.html?type=environment&done=
+
+URL: http://www.onet.pl/
+URL: http://szukaj.onet.pl/query.html?qt=prodigy
+URL: http://muzyka.onet.pl/10173,80011,27074,plyty.html
+URL: http://boksy.onet.pl/dir/retbox_vers.html?oi=30545262&dt=1221001322349&af=def_box15&ci=6843&uu=http://muzyka.onet.pl/10173,80011,27074,plyty.html&ko=muzyka%20film%20kobieta%20uroda%20figura%20kosmetyki%20zdrowie%20imprezy%20laptopy&tf=2&bg=FFFFFF&tx=000000&lc=9E9E9E&fc=9E9E9E&fl=F8F8F8&tc=0000CC
+URL: http://muzyka.onet.pl/0,27074,27074,biografie.html
+URL: http://boksy.onet.pl/dir/retbox_vers.html?oi=30545262&dt=1221001334579&af=def_box15&ci=6843&uu=http://muzyka.onet.pl/0,27074,27074,biografie.html&ko=muzyka%20film%20kobieta%20uroda%20figura%20kosmetyki%20zdrowie%20imprezy%20laptopy&tf=2&bg=FFFFFF&tx=000000&lc=9E9E9E&fc=9E9E9E&fl=F8F8F8&tc=0000CC
+
+URL: http://www.cnet.com/
+URL: http://news.cnet.com/8301-17938_105-10035014-1.html?tag=TOCmoreStories.0
+URL: http://ad.doubleclick.net/adi/N296.Cnet/B3040793.14;sz=300x250;click0=http://adlog.com.com/adlog/e/r=10750&s=810024&o=17938:B1:1010:&h=cn&p=2&b=5&l=en_US&site=105&pt=8301&nd=17938&pid=&cid=10035014&pp=200&e=3&rqid=01c18-ad-e548C72B43B0C5B&orh=&oepartner=&epartner=&ppartner=&pdom=www.cnet.com&cpnmodule=&count=&ra=216.47.134.15&pg=@DaveNjveCEAAGpN0toAAADT&t=2008.09.10.04.20.16&event=58/;ord=2008.09.10.04.20.16?
+
+URL: http://www.imeem.com/
+URL: http://www.imeem.com/ads/bannerad.ashx?w=300&h=250&t=3&IMGAC=5107787113&IMBG=FFFFFF&IMLC=&IMC=&IMZT=d=9;&IMZC=c=1;&bp=1009&IMDC=imeem.index/;dcopt=ist;dcove=d;sz=300x250;tile=2;ord=360397136;?
+URL: http://www.imeem.com/ads/bannerad.ashx?w=900&h=250&t=5&IMGAC=&IMBG=FFFFFF&IMLC=&IMC=&IMZT=&IMZC=c=1;&bp=50&IMDC=imeem.index/;dcopt=ist;dcove=d;sz=900x250;tile=1;ord=360397136;?
+
+URL: http://www.xnxx.com/
+URL: http://s.xvideos.com/verti-bleu-xnv.php
+URL: http://promos.fling.com/geo/f_scrollers/home.htm?prg=&id=xnxx123&cmp=sky_scroll&t=best&file=fl_scrolling_180x1030_xnxx&w=180&h=1030&rdURL=
+
+URL: http://www.dell.com/
+URL: http://www.dell.com/content/default.aspx?c=us&cs=19&l=en&ref=hs&s=dhs
+
+URL: http://www.clicksor.com/
+URL: http://www.clicksor.com/pub/
+URL: http://www.clicksor.com/solutions/
+URL: http://reseller.yesup.net/
+URL: http://reseller.yesup.net/reseller_contact.php
+URL: http://reseller.yesup.net/reseller_features.php
+URL: http://reseller.yesup.net/order.php
+
+URL: http://www.hexun.com/
+URL: http://login.tool.hexun.com/rest/login2007.aspx
+URL: http://data.stock.hexun.com/iframeQuote/stock2008.htm
+
+URL: http://www.amazon.de/
+URL: http://ad.de.doubleclick.net/adi/amzn.de.gw.atf;sz=300x250;bn=301128;s=20;u=bf3f5847208d495cbdccd4db11309e0e;z=1;tile=3;ord=69099?
+URL: http://ad.de.doubleclick.net/adi/amzn.de.gw.btf;sz=300x250;bn=301128;s=20;u=a13ee2222b644f458a67019543ca13f1;z=2;tile=3;ord=69099?
+URL: http://servedby.advertising.com/ctst=1/site=737848/bnum=82453092/size=300250/tags=1/optn=1
+URL: http://www.amazon.de/s/ref=nb_ss_w?__mk_de_DE=%C5M%C5Z%D5%D1&url=search-alias%3Daps&field-keywords=books&x=0&y=0
+URL: http://ad.de.doubleclick.net/adi/amzn.de.sr.aps;sz=160x600;sn=301128;s=20;u=56f5719d1a804cdbaacff3ba4609994e;z=3;tile=1;ord=90076?
+URL: http://www.amazon.de/Book-Secrets-Loreena-Mckennitt/dp/B0000C6662/ref=sr_1_1?ie=UTF8&s=music&qid=1221020747&sr=8-1
+URL: http://ad.de.doubleclick.net/adi/amzn.de.dp.music/songwriter;sz=728x90;s=20;u=7afa537680f34f31a710313e0a1a32b6;z=260;z=246;tile=2;ord=69920?
+URL: http://ad.de.doubleclick.net/adi/amzn.de.dp.music/songwriter;sz=300x250;s=20;s=49;s=155;u=ca59ca6d52c54b23ac58df1d7161d8cc;z=260;z=246;tile=1;ord=69920?
+
+URL: http://www.google.co.za/
+URL: http://www.google.co.za/search?hl=en&q=awesp%2Ce&btnG=Google+Search&meta=
+URL: http://detroit.craigslist.org/etc/815534346.html
+
+URL: http://www.tinypic.com/
+URL: http://www.tinypic.com/ad.php?area=TP_HOME&type=TP_RECTANGLE
+URL: http://tinypic.com/track.php?track=homepage
+URL: http://a.photobucket.com/hserver/random=6363213023/pageid=560664/site=TP/area=TP_HOME/aamsz=TP_RECTANGLE
+URL: http://tinypic.com/categories/colors
+URL: http://tinypic.com/ad.php?area=TP_SEARCH&type=TP_RECTANGLE
+URL: http://tinypic.com/track.php?track=categories
+URL: http://a.photobucket.com/hserver/random=7703754323/pageid=148309/site=TP/area=TP_SEARCH/aamsz=TP_RECTANGLE
+URL: http://view.atdmt.com/MRT/iview/vlclcwxp1020093120mrt/direct/01/20080910042629/?click=http://media.fastclick.net/w/click.here?cid=134724;mid=257539;sid=37452;m=6;c=0;forced_click=
+
+URL: http://www.ig.com.br/
+URL: http://www.ig.com.br/e-commerce/e2463586-6688-4575-924b-00995631af74.htm
+URL: http://minhanoticia.ig.com.br/materias/497501-498000/497590/497590_1.html
+URL: http://admin.minhanoticia.ig.com.br:8080/materiasporusuario/m/marcosgama2006@ig.com.br.html
+URL: http://minhanoticia.ig.com.br/lista/lista_home_menor.html
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-bti_js&random=1221001810142&hl=pt&adsafe=medium&oe=utf8&format=300x250_pas_sl&channel=ig_minhanoticia&url=http%3A%2F%2Fminhanoticia.ig.com.br%2Fmaterias%2F497501-498000%2F497590%2F497590_1.html&color_bg=F9F6EE&color_text=4B4B4B&color_link=61504E&color_url=61504E&color_border=F9F6EE&color_line=F9F6EE&ad_type=text_image_flash&contents=+Kylie+Minogue+admite+a+possibilidade+de+virar+l+sbica+Minha+Not+cia+O+mundo+de+quem+faz+ltimas+not+cias+escritas+por+voc+no+canal+de+jornalismo+participativo+do+iG+enhanced+by+Saiba+todas+as+condi+es+para+publicar+suas+not+cias+aqui+no+iG+Celebridades+Kylie+Minogue+admite+a+possibilidade+de+virar+l+sbica+Enviada+por+Marcos+Reis+09+09+2008+11+15+A+cantora+far+uma+turn+pela+Am+rica+do+Sul+no+m+s+de+novembro+Um+show+em+S+o+Paulo+chegou+a+ser+anunciado+mas+n+o+foi+confirmado+Foto+Divulga+o+A+cantora+compositora+e+atriz+australiana+Kylie+Minogue+40+anos+admitiu+a+possibilidade+de+virar+gay+Segundo+o+tabl
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-bti_js&random=1221001810142&hl=pt&adsafe=medium&oe=utf8&format=300x250_pas_sl&channel=ig_minhanoticia&url=http%3A%2F%2Fminhanoticia.ig.com.br%2Fmaterias%2F497501-498000%2F497590%2F497590_1.html&color_bg=F9F6EE&color_text=4B4B4B&color_link=61504E&color_url=61504E&color_border=F9F6EE&color_line=F9F6EE&ad_type=text_image_flash&contents=+Kylie+Minogue+admite+a+possibilidade+de+virar+l+sbica+Minha+Not+cia+O+mundo+de+quem+faz+ltimas+not+cias+escritas+por+voc+no+canal+de+jornalismo+participativo+do+iG+enhanced+by+Saiba+todas+as+condi+es+para+publicar+suas+not+cias+aqui+no+iG+Celebridades+Kylie+Minogue+admite+a+possibilidade+de+virar+l+sbica+Enviada+por+Marcos+Reis+09+09+2008+11+15+A+cantora+far+uma+turn+pela+Am+rica+do+Sul+no+m+s+de+novembro+Um+show+em+S+o+Paulo+chegou+a+ser+anunciado+mas+n+o+foi+confirmado+Foto+Divulga+o+A+cantora+compositora+e+atriz+australiana+Kylie+Minogue+40+anos+admitiu+a+possibilidade+de+virar+gay+Segundo+o+tabl
+URL: http://minhanoticia.ig.com.br/envie_amigo.html?Kylie%20Minogue%20admite%20a%20possibilidade%20de%20virar%20l%E9sbica
+
+URL: http://www.sakura.ne.jp/
+URL: http://xn--y8jl0f1exj6byg4ih4e4e.jp/
+URL: http://xn--y8jl0f1exj6byg4ih4e4e.jp/rentalserver/premium/index.html
+URL: http://xn--y8jl0f1exj6byg4ih4e4e.jp/domain/index.html
+URL: https://secure.sakura.ad.jp/member/index.php?url=https%3A%2F%2Fsecure.sakura.ad.jp%2Fmenu%2Ftop%2Findex.php
+
+URL: http://virgilio.alice.it/index.html
+URL: http://virgilio.alice.it/adv/inc/ifr_virg_home_nband_cachebust.js_300x250.html?advTile=826643
+URL: http://virgilio.alice.it/adv/inc/ifr_virg_home_nband_cachebust.js_BoxIs.html?advTile=826643
+URL: http://ad.it.doubleclick.net/adi/N3024.Virgilio/B3107005%3Bsz=300x250%3Bord=2008.9.9.22.13.0.0?
+URL: http://dailymotion.alice.it/playlist/x70tt_Polanna_celebs-interviste-e-pettegolezzi?pmk=hpppstr4_0
+URL: http://partner-common.alice.it/community/common/VIRGILIO/ponte/ponte_header/esterni/ifr_header_100_network_dailymotion.html
+URL: http://ad.doubleclick.net/adi/N3766.virg/B1831593.18%3Bsz=300x250%3Bord=2008.9.9.22.12.24.0?
+URL: http://dailymotion.alice.it/playlist/x70tt_Polanna_celebs-interviste-e-pettegolezzi/video/x6pctt_bolt-torna-in-giamaica-da-eroe_sport
+URL: http://partner-common.alice.it/community/common/VIRGILIO/ponte/ponte_header/esterni/ifr_header_100_network_dailymotion.html
+URL: http://ad.doubleclick.net/adi/N3766.virg/B1831593.18%3Bsz=300x250%3Bord=2008.9.9.22.12.54.0?
+URL: http://dailymotion.alice.it/relevance/search/usain%2Bbolt
+URL: http://partner-common.alice.it/community/common/VIRGILIO/ponte/ponte_header/esterni/ifr_header_100_network_dailymotion.html
+URL: http://ad.doubleclick.net/adi/N3766.virg/B1831593.18%3Bsz=300x250%3Bord=2008.9.9.22.15.40.0?
+
+URL: http://www.sogou.com/
+URL: http://www.sogou.com/web?query=andres+bonilla&_asf=www.sogou.com&_ast=1221002003&w=01019900&p=40040100
+URL: http://lib.verycd.com/2006/10/29/0000125876.html
+URL: http://find.verycd.com/folders/the+prodigy+always+outnumbered+never+outgunned
+URL: http://cpro.baidu.com/cpro/ui/uijs.php?fv=0&tn=text_default_180_150&n=myiee_10177_cpr&rsi1=150&rsi0=180&rad=&rss0=%23trans&rss1=%23trans&rss2=%23c00000&rss3=%23444444&rss4=%23008000&rss5=%23000000&rss6=&rsi5=4&ts=1&at=15&cn=1&if=0&word=http%3A%2F%2Ffind.verycd.com%2Ffolders%2Fthe%2Bprodigy%2Balways%2Boutnumbered%2Bnever%2Boutgunned&refer=http%3A%2F%2Flib.verycd.com%2F2006%2F10%2F29%2F0000125876.html&ev=0&ch=0&lmt=NaN&csp=800,600&ccd=24&chi=2&cja=false&cpl=1&cmi=2&cce=true&csl=en_US&rt=9&cad=1&aurl=&rss7=&cpa=1&dt=1221002174
+URL: http://www.verycd.com/topics/11690/
+URL: http://sponsor.verycd.com/emule/p3_760.htm
+URL: http://sponsor.verycd.com/websrc/music/p3_300.htm
+URL: http://cpro.baidu.com/cpro/ui/uijs.php?fv=0&tn=text_default_760_75&n=myiee_10177_cpr&rsi1=75&rsi0=760&rad=&rss0=%23trans&rss1=%23trans&rss2=%23c00000&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rsi5=4&ts=1&at=7&cn=1&if=0&word=http%3A%2F%2Fwww.verycd.com%2Ftopics%2F11690%2F%23theCon&refer=http%3A%2F%2Ffind.verycd.com%2Ffolders%2Fthe%2Bprodigy%2Balways%2Boutnumbered%2Bnever%2Boutgunned&ev=67108864&ch=0&lmt=NaN&csp=800,600&ccd=24&chi=4&cja=false&cpl=1&cmi=2&cce=true&csl=en_US&rt=10&cad=1&aurl=&rss7=&cpa=1&dt=1221002311
+URL: http://cpro.baidu.com/cpro/ui/uijs.php?fv=0&tn=text_default_760_75&n=myiee_10177_cpr&rsi1=75&rsi0=760&rad=&rss0=%23trans&rss1=%23trans&rss2=%23c00000&rss3=%23444444&rss4=%23008000&rss5=&rss6=%23e10900&rsi5=4&ts=1&at=7&cn=1&if=0&word=http%3A%2F%2Fwww.verycd.com%2Ftopics%2F11690%2F%23theCon&refer=http%3A%2F%2Ffind.verycd.com%2Ffolders%2Fthe%2Bprodigy%2Balways%2Boutnumbered%2Bnever%2Boutgunned&ev=67108864&ch=0&lmt=NaN&csp=800,600&ccd=24&chi=4&cja=false&cpl=1&cmi=2&cce=true&csl=en_US&rt=10&cad=1&aurl=&rss7=&cpa=1&dt=1221002311
+
+URL: http://www.ign.com/
+URL: http://www.ign.com/
+
+URL: http://multiply.com/
+URL: http://multiply.com/info/tour/1
+URL: http://multiply.com/find
+URL: http://multiply.com/captcha-iframe
+URL: http://multiply.com/info/tour/1
+URL: http://multiply.com/user/join/
+URL: http://multiply.com/captcha-iframe
+URL: http://multiply.com/user/join/invite
+
+URL: http://www.mapquest.com/
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=33rd+And+State&zipcode=60616&cat=chipotle
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=33rd+St+%26+S+State+St&zipcode=60616&cat=chipotle&country=US&latitude=41.834671&longitude=-87.626681&geocode=INTERSECTION
+URL: http://www.mapquest.com/cdn/js/iframe_history.html
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=33rd+St+%26+S+State+St&zipcode=60616&cat=chipotle&country=US&latitude=41.834671&longitude=-87.626681&geocode=INTERSECTION
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=33rd+And+State&zipcode=60616&cat=chipotle
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=E+33rd+St+%26+S+State+St&zipcode=60616&cat=chipotle&country=US&latitude=41.834673&longitude=-87.626502&geocode=INTERSECTION
+URL: http://www.mapquest.com/cdn/js/iframe_history.html
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=Jackson+And+State&zipcode=60616&cat=chipotle
+URL: http://www.mapquest.com/maps?city=Chicago&state=IL&address=E+Jackson+Blvd+%26+S+State+St&zipcode=60604&cat=chipotle&country=US&latitude=41.878206&longitude=-87.627677&geocode=INTERSECTION
+
+URL: http://www.mozilla.com/en-US/
+URL: https://addons.mozilla.org/en-US/firefox/
+URL: https://addons.mozilla.org/en-US/firefox/search?q=konqueror&cat=all
+URL: https://addons.mozilla.org/en-US/firefox/addon/3896
+
+URL: http://www.google.com.eg/
+URL: http://www.google.com.eg/search?hl=ar&q=awesdsadsados+adhas+dhksaj+dhsjakd+haskjd+ahsjdk+ahsdjk+ahsdjk+ahsdjk+ahsdkjas+dadks+hjkd+ahsjkd+ahsjkdahsdddddddddddddddddddddddddddddd&btnG=%D8%A8%D8%AD%D8%AB+Google%E2%80%8F&meta=
+URL: http://www.google.com.eg/search?hl=ar&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=awesdsadsados+udhas+dhksaj+hsjykd+haskjd+tshjdk+hsdh+hsdh+hsdh+ahsdkjas+dadks+hjkd+ahsjkd+ahsjkdahsdddddddddddddddddddddddddddddd&spell=1
+URL: http://www.google.com.eg/intl/ar/about.html
+
+URL: http://www.web.de/
+URL: http://www.web.de/adproxy/promo.html
+
+URL: http://www.alibaba.com/
+URL: http://tradeshow.alibaba.com/
+
+
+
+URL: http://www.wikimedia.org/
+
+
+URL: http://www.zedo.com/
+URL: http://www.zedo.com/shared/commonFooter.htm
+URL: http://www.zedo.com/shared/commonHeader.htm?pg=
+URL: http://www.zedo.com/contact/contact.htm
+URL: http://www.zedo.com/shared/commonHeader.htm
+URL: http://www.zedo.com/shared/commonFooter.htm
+URL: http://www.xiaonei.com/
+URL: http://gg.xiaonei.com/view.jsp?p=4
+
+URL: http://www.zol.com.cn/
+URL: http://pic.zol.com.cn/200809/hometop.html
+URL: http://pic.zol.com.cn/200809/homett73090d.html
+URL: http://pic.zol.com.cn/200809/hometot73090.html
+URL: http://pic.zol.com.cn/200809/11szhome35890.html
+URL: http://pic.zol.com.cn/200809/11szhome73090.html
+URL: http://xiazai.zol.com.cn/article_topic/topic/1043081.html
+URL: http://product.zol.com.cn/price/index.php?keyword=%3C%2Fscript%3E%3Cscript%3Ealert%281%29%3B%3C%2Fscript%3E
+URL: http://product.zol.com.cn/price/index.php?locationid=1&keyword=%3Cscript%3Ealert%281%29%3B%3C%2Fscript%3E
+URL: http://product.zol.com.cn/price/index.php?locationid=1&keyword=other+random+search+query
+
+URL: http://www.google.co.ve/
+URL: http://www.google.co.ve/search?hl=es&q=more+search+terms&btnG=Buscar+con+Google&meta=
+URL: http://www.google.co.ve/search?hl=es&q=%3Cscript%3Ealert%281%29%3C%2Fscript%3E&btnG=Buscar&meta=
+URL: http://javascript.internet.com/miscellaneous/virus.html
+URL: http://network.business.com/hooprograms/internetcom2b/search.int?gr=10&stylename=render.xsl&partner=internet11
+
+URL: http://www.pconline.com.cn/
+URL: http://www1.pconline.com.cn/script/01shouyetonglan7.html
+URL: http://dl.pconline.com.cn/shtml/top_week_12.html?css=http://www1.pconline.com.cn/2008/css/dl_phlist_style.css
+URL: http://z.alimama.com/alimama.php?i=mm_11498718_1313317_3066169&u=http%3A%2F%2Fwww.pconline.com.cn%2F&w=760&h=90&re=800x600&sz=11&r=http%3A%2F%2Fwww.pconline.com.cn%2F&cg=83b964801cfc2b2a9802a45b1418498c&prl=49840909&cas=prl&cah=577&caw=800&ccd=24&ctz=-5&chl=1&cpl=1&cmm=2&cf=-1&dx=1&fu=-1&cbh=90&cbw=760&iss=0&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=0&bgp=0&ic=0&sx=5&sy=4365&ac=7716&pf=1
+URL: http://www.pconline.com.cn/market/open/bj/
+URL: http://ks.pconline.com.cn/?q=videogames&Submit=%CB%D1%CB%F7
+URL: http://ks.pconline.com.cn/product.jsp?q=videogames&sort=
+URL: http://ks.pconline.com.cn/photo.jsp?gotoMoreRelaSearch=false&sort=access&q=videogames
+URL: http://ks.pconline.com.cn/bbs.jsp?gotoMoreRelaSearch=false&sort=access&q=videogames
+
+URL: http://www.badongo.com/
+URL: http://upload.badongo.com/upload_single/blank.php?cou=en&k=
+URL: http://upload.badongo.com/upload_single/f/?cou=en&k=
+
+URL: http://www.vnexpress.net/GL/Home/
+URL: http://www.vnexpress.net/GL/Doi-song/Mua-sam/2008/09/3BA0655C/
+URL: http://www.vnexpress.net/GL/Ban-doc-viet/Tam-su/
+URL: http://ads.admaxasia.com/servlet/ajrotator/369226/0/vh?ajecscp=1221144278628&z=admaxasia2&dim=280673
+URL: http://www.vnexpress.net/GL/Ban-doc-viet/Tam-su/2008/09/3BA06200/
+URL: http://ads.admaxasia.com/servlet/ajrotator/369226/0/vh?ajecscp=1221144290563&z=admaxasia2&dim=280673
+URL: http://www.vnexpress.net/GL/Ban-doc-viet/Tam-su/
+URL: http://ads.admaxasia.com/servlet/ajrotator/369226/0/vh?ajecscp=1221144299374&z=admaxasia2&dim=280673
+URL: http://www.vnexpress.net/GL/Kinh-doanh/Quoc-te/
+URL: http://www.vnexpress.net/GL/Kinh-doanh/Quoc-te/2008/09/3BA06327/
+
+URL: http://us.cyworld.com/
+URL: http://fs1.us.cyworld.com/data4/2008/09/07/144/1220819344452763_8000352668.html
+URL: http://us.cyworld.com/talk/view.php?postid=12274
+URL: http://us.cyworld.com/
+URL: http://fs1.us.cyworld.com/data4/2008/09/07/144/1220819344452763_8000352668.html
+URL: http://us.cyworld.com/daehyup/photos/view?postid=35&viewtype=all
+
+URL: http://www.hp.com/
+URL: http://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt=broken+laptop&la=en&cc=us
+URL: http://search.hp.com/query.html?charset=iso-8859-1&lk=1&la=en&nh=10&rf=0&qs=&hpvc=sitewide&uf=1&st=1&qt=Broken+laptop%2C+broken&submitsearch.x=0&submitsearch.y=0
+URL: http://www.communities.hp.com/online/blogs/ambitiouscompanies/rsscomments.aspx?PostID=77555&jumpid=reg_R1002_USEN
+URL: http://www.communities.hp.com/online/blogs/ambitiouscompanies/archive/2008/01/21/HPPost5511.aspx?jumpid=reg_R1002_USEN
+
+URL: http://www.blogfa.com/
+URL: http://www.blogfa.com/ads/left.htm?
+URL: http://www.blogfa.com/NewBlog.aspx
+URL: http://xpgame.blogfa.com/
+URL: http://service.persianstat.com/Stats.aspx?psid=10059951&psop=0&pscn=referral&pscr=blogfa.com&psct=/&psep=0&psuq=0&psuu=0&psrd=990351256&pscs=utf-8&pswh=800x600&pssc=24&psul=en_us&psje=0&pspl=0&pstl=%D8%A7%DB%8C%DA%A9%D8%B3%20%D9%BE%DB%8C%20%DA%AF%DB%8C%D9%85%20-%20xp%20game&pshn=xpgame.blogfa.com&pspt=%2F&psrf=www.blogfa.com%2F
+URL: http://xpgame.blogfa.com/archive.aspx
+
+URL: http://wordpress.com/
+URL: http://papundits.wordpress.com/2008/09/07/piper-palin-for-president-2044/
+URL: http://papundits.wordpress.com/?s=sarah+palin
+URL: http://papundits.wordpress.com/2008/09/11/sarah-palin-the-antidote-to-obama-and-biden-oh-and-mccain-too/
+URL: http://papundits.wordpress.com/?s=barack+obama
+URL: http://papundits.wordpress.com/?s=%3Ca+href%3D
+URL: http://papundits.wordpress.com/2008/09/11/911-conspiracy-hate-fries-brains/
+
+URL: http://www.allegro.pl/
+URL: http://www.allegro.pl/search.php?string=Znajd+przedmiot
+URL: http://www.ceneo.pl/
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7423515549147297&dt=1221126058522&format=468x60_as&output=html&correlator=1221126058520&url=http%3A%2F%2Fwww.ceneo.pl%2F&ad_type=text_image&ref=http%3A%2F%2Fwww.allegro.pl%2Fsearch.php%3Fstring%3DZnajd%2Bprzedmiot&frm=0&cc=100&ga_vid=995274534122694100.1221126059&ga_sid=1221126059&ga_hid=922557892&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://www.ceneo.pl/_02_41.htm
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-7423515549147297&dt=1221126068436&format=468x60_as&output=html&correlator=1221126068434&url=http%3A%2F%2Fwww.ceneo.pl%2F_02_41.htm&ad_type=text_image&ref=http%3A%2F%2Fwww.ceneo.pl%2F&frm=0&cc=100&ga_vid=2856584241888018400.1221126068&ga_sid=1221126068&ga_hid=1444322841&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=2&u_nplug=1&u_nmime=2
+URL: http://www.ceneo.pl/;004c0+splayer;022dvd.htm
+
+URL: http://www.icq.com/
+URL: http://www.icq.com/index/index_search_box_v2.html
+URL: http://search.icq.com/search/results.php?q=computer+games&ch_id=hm&search_mode=
+
+URL: http://narod.yandex.ru/
+URL: http://narod.yandex.ru/cgi-bin/yandsearch?where=0&text=internet%20advertising
+
+URL: http://www.google.com.co/
+URL: http://www.google.com.co/search?hl=es&q=oh+boy+columbia&btnG=Buscar+con+Google&meta=
+URL: http://www.google.com.co/search?hl=es&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=oh+boy+colombia&spell=1
+URL: http://www.google.com.co/search?hl=es&q=apparently+i%27m+a+poor+speller&btnG=Buscar&meta=
+URL: http://letters.salon.com/opinion/keillor/2008/03/26/spelling/view/?show=all
+URL: http://www.salon.com/src/pass/sitepass/spon/sitepass_website_refresh.html
+
+URL: http://isohunt.com/
+URL: http://isohunt.com/js/iframeAd.php?mode=top&source=&ihq=
+
+URL: http://www.ebay.it/
+URL: http://it.ebayobjects.com/1ai/ebay.it.homepage.cchp/cchp;dcopt=ist;seg=GL_GenderUnknown_Mar06;seg=GL_Top_20pct_Buyers;sz=300x250;tile=2;ord=1221145202156;
+
+URL: http://www.answers.com/
+URL: http://ad.doubleclick.net/adi/answ.home/;pcat=home;dcopt=ist;pos=1;tile=1;sz=160x600;ord=6.478185887343068E8?
+URL: http://www.answers.com/does%20bigfoot%20exist%3F
+URL: http://ad.doubleclick.net/adi/answ.web_search/;dcopt=ist;kw=does+bigfoot+exist%3F;scat=;pcat=;pos=1;tile=1;sz=300x250;ord=3.6558026585365146E8?
+URL: http://ad.doubleclick.net/adi/answ.web_search/;dcopt=ist;kw=does+bigfoot+exist%3F;scat=;pcat=;pos=2;tile=2;sz=300x250;ord=3.6558026585365146E8?
+URL: http://oasn03.247realmedia.com/RealMedia/ads/adstream_sx.ads/Valueclick/Monster/MONS-MON-093-01-MON/CPC1/300x250/20080911150027/1@x70
+URL: http://view.atdmt.com/MON/iview/247mamon0930000196mon/direct/01/20080911150027/?click=http://media.fastclick.net/w/click.here?cid=138859;mid=264351;sid=20551;m=6;c=0;forced_click=http://oasn03.247realmedia.com/RealMedia/ads/click_lx.ads/Valueclick/Monster/MONS-MON-093-01-MON/CPC1/300x250/[timestamp]/1234/x70/USNetwork/MONS_200808_Valueclick_CPC1_300/MONS_200808_Valueclick_CPC1_300.html/1?
+
+URL: http://www.miniclip.com/games/en/
+URL: http://www.miniclip.com/games/club-penguin/en/
+URL: http://play.clubpenguin.com/miniclip.htm
+URL: http://www.miniclip.com/games/club-penguin/en/clubpenguin_header.php
+URL: http://www.miniclip.com/games/club-penguin/en/clubpenguin_footer.php
+URL: http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.miniclip.com%2Fgames%2Fclub-penguin%2Fen%2Fclubpenguin_footer.php&t=Club%20Penguin%20-%20Play%20Free%20Games
+URL: http://www.facebook.com/login.php?popup&next=http%253A%252F%252Fwww.facebook.com%252Fsharer.php%253Fu%253Dhttp%25253A%25252F%25252Fwww.miniclip.com%25252Fgames%25252Fclub-penguin%25252Fen%25252Fclubpenguin_footer.php%2526t%253DClub%252520Penguin%252520-%252520Play%252520Free%252520Games
+URL: http://www.new.facebook.com/sharer.php?u=http%3A%2F%2Fwww.miniclip.com%2Fgames%2Fclub-penguin%2Fen%2Fclubpenguin_footer.php&t=Club+Penguin+-+Play+Free+Games
+URL: http://www.facebook.com/
+URL: http://www.new.facebook.com/home.php
+URL: http://www.new.facebook.com/reqs.php#event
+URL: http://www.new.facebook.com/profile.php?id=54301128&ref=profile
+
+URL: http://www.gamefaqs.com/
+URL: http://ad.doubleclick.net/adi/N5364.cnet.com/B2965796.16;sz=728x90;click0=http://adlog.com.com/adlog/e/r=10125&s=815596&o=&h=cn&p=&b=4&l=&site=19&pt=&nd=&pid=&cid=&pp=&e=&rqid=00c17-ad-e948C68D8D1181044&orh=&oepartner=&epartner=&ppartner=&pdom=&cpnmodule=&count=&ra=216.47.134.15&pg=&t=2008.09.11.15.04.57&event=58/;ord=2008.09.11.15.04.57?
+URL: http://view.atdmt.com/UFT/iview/113809202/direct;pc.703906-17/01/2008.09.11.15.04.57?click=
+URL: http://www.gamefaqs.com/search/index.html?game=final+fantasy+tactics&platform=0
+
+URL: http://www.google.com.pk/
+
+URL: http://www.reference.com/
+URL: http://www.reference.com/search?q=awesome
+URL: http://iacas-images.adbureau.net/iacas/073108_Reference_158501_300x250Footer.html
+URL: http://ad.doubleclick.net/adi/N2335.247_RealMediaNetwork/B3026832;sz=160x600;click=http://wat.contextweb.us/WatsonTracker/CLICK/A1000043/C1000055/P1000680/pixel.gif?;click0=http://network.realmedia.com/RealMedia/ads/click_lx.ads/IACreference/ros/160x600/ref/ss/a/430951263/x10/OasDefault/BCN2008050233_016_Folgers/Folgers_BT_160x600.html/64383266383630663438633933336630?;ord=430951263?
+URL: http://www.reference.com/search?q=neurology
+URL: http://ad.doubleclick.net/adi/N2335.247_RealMediaNetwork/B3026832.17;sz=728x90;click=http://wat.contextweb.us/WatsonTracker/CLICK/A1000043/C1000055/P1000688/pixel.gif?;click0=http://network.realmedia.com/RealMedia/ads/click_lx.ads/IACreference/ros/728x90/ref/ss/a/944313345/Top1/OasDefault/BCN2008050233_004_Folgers/Folgers_CC_728x90.html/64383266383630663438633933336630?;ord=944313345?
+URL: http://iacas-images.adbureau.net/iacas/073108_Reference_158501_300x250Footer.html
+URL: http://iacas-images.adbureau.net/iacas/073108_Reference_158499_300x250.html
+URL: http://www.reference.com/browse/wiki/Traumatic_brain_injury
+URL: http://ad.doubleclick.net/adi/N2335.247_RealMediaNetwork/B3026832.17;sz=728x90;click=http://wat.contextweb.us/WatsonTracker/CLICK/A1000043/C1000055/P1000688/pixel.gif?;click0=http://network.realmedia.com/RealMedia/ads/click_lx.ads/IACreference/ros/728x90/ref/ss/a/1409087551/Top1/OasDefault/BCN2008050233_004_Folgers/Folgers_CC_728x90.html/64383266383630663438633933343030?;ord=1409087551?
+URL: http://iacas-images.adbureau.net/iacas/073108_Reference_158499_300x250.html
+
+URL: http://www.google.be/
+
+URL: http://www.wp.pl/
+URL: http://szukaj.wp.pl/szukaj.html?szukaj=ryan+rozycki&ticaid=56971
+URL: http://szukaj.wp.pl/szukaj.html?szukaj=ryan+r%F3%BFycki&_ticrsn=5&ticaid=56971
+URL: http://szukaj.wp.pl/szukaj.html?szukaj=Albertus.pl&Submit=Szukaj&z=p&_ticrsn=5&ticaid=56971
+URL: http://szukaj.wp.pl/szukaj.html?szukaj=%3Ca+href&Submit=Szukaj&z=p&_ticrsn=5&ticaid=56971
+
+URL: http://www.megarotic.com/
+URL: http://www.megarotic.com/v/?c=exchange
+URL: http://www.megarotic.com/?wmode=<iframe%20src='www.google.com'></iframe>
+
+URL: http://badoo.com/
+URL: http://xrozx.badoo.com/?sold2=aKD_LxbpjQ8PdHcuOWGek1N2hVIvgr-S
+
+URL: http://www.torrentz.com/
+URL: http://www.torrentz.com/search?q=axxo
+URL: http://ad.103092804.com/st?ad_type=iframe&ad_size=728x90&section=402103
+
+URL: http://www.filefactory.com/
+URL: http://www.filefactory.com/upload/
+URL: http://slides.filefactory.com/
+URL: http://mediamgr.ugo.com:80/html.ng/Network=ugo&size=728x90&adtype=over&affiliate=pcgameworld&suba=filefactory&channel=tech&subchannel=tech&category=tic&PT=ct&CR=ti&pez=tic
+URL: http://mediamgr.ugo.com:80/html.ng/Network=ugo&size=300x250&adtype=over&affiliate=pcgameworld&suba=filefactory&channel=tech&subchannel=tech&category=tic&PT=ct&CR=ti&pez=tic
+URL: http://mediamgr.ugo.com:80/html.ng/Network=ugo&size=775x600&adtype=over&affiliate=pcgameworld&suba=filefactory&channel=tech&subchannel=tech&category=tic&PT=ct&CR=ti&pez=tic
+URL: http://www.filefactory.com/info/faq.php
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-0153235898413822&dt=1221126946763&format=120x600_as&output=html&correlator=1221126946761&url=http%3A%2F%2Fwww.filefactory.com%2Finfo%2Ffaq.php&color_bg=FFFFFF&color_text=000000&color_link=0000CC&color_url=009900&color_border=FFFFFF&ad_type=text&ref=http%3A%2F%2Fslides.filefactory.com%2F&frm=0&cc=100&ga_vid=2001853640.1221126913&ga_sid=1221126913&ga_hid=1595324329&ga_fc=true&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=4&u_nplug=1&u_nmime=2
+URL: http://www.filefactory.com/info/faq.php
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-0153235898413822&dt=1221126955266&format=120x600_as&output=html&correlator=1221126955264&url=http%3A%2F%2Fwww.filefactory.com%2Finfo%2Ffaq.php&color_bg=FFFFFF&color_text=000000&color_link=0000CC&color_url=009900&color_border=FFFFFF&ad_type=text&ref=http%3A%2F%2Fwww.filefactory.com%2Finfo%2Ffaq.php&frm=0&cc=100&ga_vid=2001853640.1221126913&ga_sid=1221126913&ga_hid=1658431256&ga_fc=true&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=5&u_nplug=1&u_nmime=2
+
+URL: http://www.seznam.cz/
+URL: http://search.seznam.cz/?q=erithro+proeiten&mod=f
+URL: http://search.seznam.cz/?q=EPO&mod=f&sId=ZZ0UKui1o-PX
+URL: http://www.epo.cz/
+URL: http://www.epo.cz/content/view/9/lang,cz/
+
+URL: http://www.hatena.ne.jp/
+URL: http://search.hatena.ne.jp/search?ie=utf8&word=running+time+in+sedentary+mice
+URL: http://www.nhs.uk/news/2008/08August/Pages/Exercisepill.aspx
+URL: http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nhs.uk%2Fnews%2F2008%2F08August%2FPages%2FExercisepill.aspx%26title%3DExercise%20pill
+URL: http://www.facebook.com/login.php?popup&next=http%253A%252F%252Fwww.facebook.com%252Fsharer.php%253Fu%253Dhttp%25253A%25252F%25252Fwww.nhs.uk%25252Fnews%25252F2008%25252F08August%25252FPages%25252FExercisepill.aspx%252526title%25253DExercise%252520pill
+URL: http://www.new.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nhs.uk%2Fnews%2F2008%2F08August%2FPages%2FExercisepill.aspx%26title%3DExercise+pill
+
+URL: http://www.ziddu.com/
+URL: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-9052260080623487&dt=1221127219640&lmt=1221146225&prev_slotnames=8570473212&output=html&slotname=5551504541&correlator=1221127219597&url=http%3A%2F%2Fwww.ziddu.com%2F&frm=0&ga_vid=4124801396333840000.1221127220&ga_sid=1221127220&ga_hid=2032777468&flash=0&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_tz=-300&u_his=1&u_nplug=1&u_nmime=2
+URL: http://ad.globe7.com/st?ad_type=iframe&ad_size=728x90&section=331732
+
+URL: http://www.smileycentral.com/
+URL: http://smiley.smileycentral.com/download/index.jhtml
+URL: http://www.funwebproducts.com/
+
+URL: http://www.brazzers.com/
+URL: http://www.brazzers.com/tour/?nats=gprime;65421:Bra:bz,0,0,0,0
+
+URL: http://www.pogo.com/home/home.do
+URL: http://www.pogo.com/misc/gamesearch/gamesearch.do
+
+URL: http://www.realitykings.com/
+URL: http://www.realitykings.com/warning_2.htm
+URL: http://www.realitykings.com/main.htm
+URL: http://www.realitykings.com/search.htm?id=nd5000&tgp=&q=all+star+work+out
+
+URL: http://www.xhamster.com/
+URL: http://rt.globalmailer.com/releasese/xhamster3.asp
+URL: http://srv.etology.com/xhamster/395x80.htm
+URL: http://rt.globalmailer.com/releasese/xhamster2.asp
+URL: http://rt.globalmailer.com/releasese/xhamster1.asp
+URL: http://srv.etology.com/xhamster/150x1220.htm
+URL: http://upload.xhamster.com/ads/adengage780x130.php
+URL: http://www.xhamster.com/movies/63356/katey.html
+URL: http://rt.globalmailer.com/releasese/xhamster1.asp
+URL: http://rt.globalmailer.com/releasese/xhamster5.asp
+URL: http://rt.globalmailer.com/releasese/xhamster4.asp
+URL: http://srv.etology.com/xhamster/350x135b.htm
+URL: http://srv.etology.com/xhamster/350x200.htm
+URL: http://srv.etology.com/xhamster/395x80.htm
+URL: http://upload.xhamster.com/ads/adengage300x7502.php
+URL: http://www.xhamster.com/movies/63356/katey.html?tmp=<a%20href="http://www.google.com">Google</a>
+URL: http://www.xhamster.com/movies/63356/katey.html?tmp=%3Ca%20href="http://www.google.com"%3EGoogle%3C/a%3E
+URL: http://www.xhamster.com/movies/63356/katey.html?tmp=%3Ca%20href="http://www.google.com%22%3EGoogle%3C/a%3E
+URL: http://www.xhamster.com/movies/63356/katey.html?tmp=%3Ca%20href=%22http://www.google.com%22%3EGoogle%3C/a%3E
+URL: http://rt.globalmailer.com/releasese/xhamster1.asp
+URL: http://rt.globalmailer.com/releasese/xhamster4.asp
+URL: http://rt.globalmailer.com/releasese/xhamster5.asp
+URL: http://srv.etology.com/xhamster/350x135b.htm
+URL: http://srv.etology.com/xhamster/350x200.htm
+URL: http://srv.etology.com/xhamster/395x80.htm
+URL: http://upload.xhamster.com/ads/adengage300x7502.php
+URL: http://www.xhamster.com/movies/63356/katey.html
+URL: http://rt.globalmailer.com/releasese/xhamster4.asp
+URL: http://rt.globalmailer.com/releasese/xhamster5.asp
+URL: http://srv.etology.com/xhamster/350x200.htm
+URL: http://srv.etology.com/xhamster/395x80.htm
+URL: http://rt.globalmailer.com/releasese/xhamster1.asp
+URL: http://srv.etology.com/xhamster/350x135b.htm
+URL: http://upload.xhamster.com/ads/adengage300x7502.php
+
+URL: http://www.easy-share.com/
+URL: http://w14.easy-share.com/uploadmain.html
+URL: http://w14.easy-share.com/cgi-bin/upload.cgi
+URL: http://w14.easy-share.com/upload.html
+URL: http://www.googleadservices.com/pagead/conversion/1069536228/?random=1221127666929&cv=1&fst=1221127666929&num=1&fmt=1&value=1&label=PageView&bg=FFFFFF&hl=en&gl=US&u_h=600&u_w=800&u_ah=577&u_aw=800&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=1&u_nmime=2&ref=http%3A//w14.easy-share.com/uploadmain.html&url=http%3A//w14.easy-share.com/cgi-bin/upload.cgi
+URL: http://w14.easy-share.com/1701537561.html
+URL: http://w14.easy-share.com/upload.html
+URL: http://adserving.cpxinteractive.com/st?ad_type=iframe&ad_size=728x90,468x60&section=218558
+
+URL: http://www.typepad.com/
+URL: http://www.typepad.com/blogging/
+URL: http://www.sixapart.com/typepad/widgets/
+URL: http://widgetserver.com/syndication/get_widget.html?roundCorners=none&networkCode=typepad&widgetBg=%23DBE4E9&titleColor=%23222222&slideDelay=10000&widgetTitle=Featured%20at%20Widgetbox&widget.appId=bf956fd2-25d1-4b15-a985-1a127e380799&widget.name=Featured%20at%20Widgetbox&widget.token=fffacc2d56c20214d95d070beef18b825b04259a0000011c52045127&widget.id=0&widget.timestamp=1221127720032&widget.width=140&widget.height=220&widget.output=htmlcontent&widget.location=http%3A%2F%2Fwww.sixapart.com%2Ftypepad%2Fwidgets%2F
+URL: http://widgetserver.com/syndication/get_widget.html?roundCorners=none&networkCode=typepad&widgetBg=%23DBE4E9&titleColor=%23222222&slideDelay=15000&widgetTitle=New%20at%20Widgetbox&widget.appId=8209e63f-4939-44b3-a226-a3d28b8080fb&widget.name=New%20at%20Widgetbox&widget.token=fffacc2d56c20214d95d070beef18b825b04259a0000011c52045127&widget.id=1&widget.timestamp=1221127720052&widget.width=140&widget.height=220&widget.output=htmlcontent&widget.location=http%3A%2F%2Fwww.sixapart.com%2Ftypepad%2Fwidgets%2F
+URL: http://www.typepad.com/about/
+URL: https://www.typepad.com/t/app/register
+
+URL: http://www.watch-movies.net/
+URL: http://adserving.cpxinteractive.com/st?ad_type=iframe&ad_size=468x60&section=338590
+
+URL: http://www.saatchi-gallery.co.uk/
+URL: http://www.phillipsartexpert.com/ask_simon/
+URL: http://www.saatchi-gallery.co.uk/artists/new_art_from-china.htm
+URL: http://www.saatchi-gallery.co.uk/artists/kai_althoff.htm
+
+URL: http://www.usercash.com/
+URL: http://www.usercash.com/members.php
+URL: http://www.usercash.com/members.php
+URL: http://www.usercash.com/members
+
+URL: http://www.schuelervz.net/
+URL: http://www.schuelervz.net/Login
+URL: http://www.schuelervz.net/l/terms
+URL: http://www.schuelervz.net/l/impressum
+URL: http://www.schuelervz.net/Default
+
+URL: http://www.ocn.ne.jp/
+URL: http://ocnsearch.goo.ne.jp/ocn.jsp?encode=euc&SM=MC&DC=10&IE=sjis&MT=gizmo&submit.x=0&submit.y=0&submit=%83E%83F%83u%8C%9F%8D%F5
+URL: http://gizmo.anthill.jp/download/
+URL: http://www.microsoft.com/downloads/details.aspx?FamilyID=4b6140f9-2d36-4977-8fa1-6f8a0f5dca8f&displaylang=en
+
+URL: http://disney.go.com/index
+URL: http://disney.go.com/home/html/index.html?flash=false
+URL: http://ad.doubleclick.net/adi/N1727.disney123/B2933843.2;sz=300x250;click=http://log.go.com/log?srvc%3ddis%26guid%3d28F71C15-6CB0-478E-9466-3582B137DD6C%26drop%3d0%26addata%3d1139:59563:431746:71798%26a%3d1%26goto%3d;ord=2008.09.11.08.30.36?
+URL: http://disney.go.com/characters/
+URL: http://disney.go.com/games/sports/
+URL: http://disney.go.com/games/sports/
+
+URL: http://www.xtube.com/index.php?ref=&cache=1221147094&ww=1
+URL: http://www.xtube.com/index.php?a=S
+
+URL: http://www.sendspace.com/
+URL: http://www.sendspace.com/uploadprocerr.html?e=10000
+URL: http://www.sendspace.com/download_wizard.html
+
+URL: http://www.conduit.com/
+URL: http://www.conduit.com/AboutUs/ContactUs.aspx
+URL: http://www.conduit.com/AboutUs/ContactUs.aspx
+
+URL: http://www.google.com.pe/
+URL: http://www.google.com.pe/search?hl=es&q=mythbusters&btnG=Buscar+con+Google&meta=
+URL: http://images.google.com.pe/imgres?imgurl=http://www.tvsquad.com/media/2006/05/mythbuster-kari.jpg&imgrefurl=http://www.tvsquad.com/2006/05/26/mythbusters-kari-byron-in-fhm/&h=253&w=250&sz=20&tbnid=r8mZbMBJ-dwOMM:&tbnh=111&tbnw=110&prev=/images%3Fq%3Dmythbusters%26um%3D1&start=1&sa=X&oi=images&ct=image&cd=1
+URL: http://images.google.com.pe/imgres?imgurl=http://www.tvsquad.com/media/2006/05/mythbuster-kari.jpg&imgrefurl=http://www.tvsquad.com/2006/05/26/mythbusters-kari-byron-in-fhm/&h=253&w=250&sz=20&tbnid=r8mZbMBJ-dwOMM:&tbnh=111&tbnw=110&hl=es&prev=/images%3Fq%3Dmythbusters%26um%3D1&frame=small
+URL: http://www.tvsquad.com/2006/05/26/mythbusters-kari-byron-in-fhm/
+URL: http://ads.tw.adsonar.com/adserving/getAds.jsp?placementId=1359102&pid=1079769&ps=-1&zw=450&zh=250&url=http%3A//images.google.com.pe/imgres%3Fimgurl%3Dhttp%3A//www.tvsquad.com/media/2006/05/mythbuster-kari.jpg%26imgrefurl%3Dhttp%3A//www.tvsquad.com/2006/05/26/mythbusters-kari-byron-in-fhm/%26h%3D253%26w%3D250%26sz%3D20%26tbnid%3Dr8mZbMBJ-dwOMM%3A%26tbnh%3D111%26tbnw%3D110%26prev%3D/images%253Fq%253Dmythbusters%2526um%253D1%26start%3D1%26sa%3DX%26oi%3Dimages%26ct%3Dimage%26cd%3D1&v=5
+
+URL: http://www.dtiblog.com/
+URL: http://www.dtiblog.com/jword.html
+URL: http://blog.dtiblog.com/pix_list3.html
+URL: http://www.dtiblog.com/weather_exchange.html
+URL: http://www.dtiblog.com/current_news.html
+URL: http://blog.dtiblog.com/smoblog.html
+URL: http://www.dtiblog.com/theme.html
+URL: http://marry.noz.st/ntt312/NOZ00544/portl/
+URL: http://news.dtiblog.com/
+URL: http://news.dtiblog.com/pix_list2.html
+URL: http://news.dtiblog.com/search.php
+
+URL: http://www.clicksor.net/
+
+URL: http://www.people.com.cn/
+URL: http://ads.people.com.cn/html.ng/channel_range=1/&channel_id=1&PagePos=1&size=46860&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/&channel_id=1&PagePos=8&size=10050&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/&channel_id=1&PagePos=6&size=10050&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/&channel_id=1&PagePos=7&size=10050&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/&channel_id=1&PagePos=50&size=27060&site=people
+URL: http://www.people.com.cn/GB/55011/55021/76472/index.html
+URL: http://weather.people.com.cn/customize/onpeople4.html
+URL: http://www.people.com.cn/GB/55011/55021/76293/index.html
+URL: http://www.people.com.cn/GB/55011/125968/index.html
+URL: http://www.people.com.cn/GB/55011/55017/index.html
+URL: http://weather.people.com.cn/customize/jump2.html
+URL: http://weather.people.com.cn/static/54511.html
+URL: http://www.people.com.cn/img/20070618people/iframeeng.htm
+URL: http://english.people.com.cn/91408/index.html
+URL: http://finance.people.com.cn/stock/cha.asp?symbol=dsadad&selects=2
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=23&size=txt&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=1&size=46860&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=25&size=txt&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=24&size=txt&site=people
+URL: http://finance.people.com.cn/stock/IsapiHq.dll?GetGgHq?code=000001&setcode=-1&type=102&pheight=80&pwidth=770
+URL: http://finance.people.com.cn/GB/67815/77218/index.html
+URL: http://finance.people.com.cn/GB/67815/74336/index.html
+URL: http://finance.people.com.cn/GB/67815/73933/index.html
+URL: http://finance.people.com.cn/stock/cha.asp?symbol=AAPL&selects=2
+URL: http://finance.people.com.cn/stock/IsapiHq.dll?GetGgHq?code=000001&setcode=-1&type=102&pheight=80&pwidth=770
+URL: http://finance.people.com.cn/GB/67815/74336/index.html
+URL: http://finance.people.com.cn/GB/67815/77218/index.html
+URL: http://finance.people.com.cn/GB/67815/73933/index.html
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=24&size=txt&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=23&size=txt&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=25&size=txt&site=people
+URL: http://ads.people.com.cn/html.ng/channel_range=1/61019/&channel_id=61019&PagePos=1&size=46860&site=people
+URL: http://comments.people.com.cn/bbs_new/app/src/main/?action=parse_publish&op=ins&bid=2947620&channel_id=1004
+
+URL: http://www.taringa.net/
+URL: http://207.182.129.178/www/delivery/afr.php?n=ab49f82a&zoneid=76&cb=INSERT_RANDOM_NUMBER_HERE
+URL: http://207.182.129.178/www/delivery/afr.php?n=aac9415d&zoneid=79&cb=INSERT_RANDOM_NUMBER_HERE
+URL: http://207.182.129.178/www/delivery/afr.php?zoneid=80&cb=INSERT_RANDOM_NUMBER_HERE
+
+URL: http://www.ebay.fr/
+URL: http://fr.ebayobjects.com/1ai/ebay.fr.homepage.cchp/cchp;dcopt=ist;seg=rtmusersegment-1220977578918;sz=300x250;tile=2;ord=1221147636644;
+URL: http://adserver.aol.fr/adiframe|3.0|516|1550409|0|170|ADTECH;target=_blank;sub1=;sub2=;misc=1550068;rdclick=http://fr.ebayobjects.com/6k%3Bh=v8/3738/3/0/%2a/u%3B205675232%3B0-0%3B0%3B16442305%3B4307-300/250%3B27355177/27373056/1%3B%3B%7Esscs%3D%3f
+
+URL: http://www.tianya.cn/
+URL: error:/?error=24&errText=login.tianya.cn#http://login.tianya.cn/user/loginsubmit.asp
+
+URL: http://www.56.com/
+URL: http://v-56.com/analytics#e2UoMfrXn15MNVLi52z13smJMc3gB4s3C1z5n1SQ0C09AM56YyD66hVIhmtGCCY4T2BDiK9o4mB7CB7eObsMPuFUYLo5Gh3sHWYqwS929ok4fUnEXk1q2FBo0nb3jFqhstartu:http%3A%2F%2Fv-56.com%2F%23endutItlE:
+URL: http://www.56.com/#endutItlE:#endu:DYCgH7wR73v267918VAezake46F70F9AJ6ntBpATpJav09W5UH1Akd0gaaWBMT96dQ4v7OKlaM8iNif5hd2DNUD0h2Zo2O2Ht900VAO4L1ve2K3q3WSef4FgIRAHeK0I
+URL: http://www.56.com/domain.html
+URL: http://www.56.com/u88/v_Mzc4NjQzNjU.html
+URL: http://www.56.com/admin/iframe/admin_header.html
+URL: http://www.56.com/admin/iframe/admin_sidemenu.html
+URL: http://www.56.com/w/userLogin.php
+URL: http://www.56.com/domain.html
+URL: http://space.56.com/php/urs.php
+
+URL: http://tag.seesaa.jp/
+URL: http://tag.seesaa.jp/pages/search
+URL: http://ds.seesaa.jp/
+
+URL: http://www.ucoz.ru/
+URL: http://www.ucoz.ru/main/?a=about
+
+URL: http://www.linkedin.com/
+URL: https://www.linkedin.com/secure/register
+URL: https://www.linkedin.com/secure/register
+URL: https://www.linkedin.com/postRegister
+URL: http://www.linkedin.com/home?report%2Esuccess=74u9JYvZ4zc0c1rBQxYS1bF40oYFk4Cv4UFbl_P3dvJpu4gm4c4LHMaAEnRAkmhqFjlnzQ-zgfeXOZhFC5Yvsv
+
+URL: http://www.google.at/
+
+URL: http://www.theplanet.com/
+URL: http://www.theplanet.com/why-the-planet/network/
+URL: http://www.theplanet.com/managed-hosting/
+
+URL: http://anonym.to/
+URL: http://anonym.to/de.html
+
+URL: http://www.wamba.com/
+URL: http://ads.wamba.com/www/delivery/afr.php?n=a6afc7d8&zoneid=734&cb=INSERT_RANDOM_NUMBER_HERE
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=356168
+
+URL: http://www.gougou.com/
+URL: http://www.gougou.com/search?search=marcello%20bastrani&id=1
+URL: http://www.gougou.com/bottom.html
+URL: http://blog.gougou.com/blog_search.fcg?search=%6d%61%72%63%65%6c%6c%6f%20%62%61%73%74%72%61%6e%69&pattern=0&id=10000001
+URL: http://z.alimama.com/alimama.php?i=mm_10839307_870523_1775325&u=http%3A%2F%2Fwww.gougou.com%2Fsearch%3Fsearch%3Dmarcello%2520bastrani%26id%3D1&w=225&h=60&re=800x600&sz=13&r=http%3A%2F%2Fwww.gougou.com%2F&cg=9447dbb48579e3f9311be61750cecb86&pri=40671579&cas=pri&cah=577&caw=800&ccd=24&ctz=-5&chl=2&cpl=1&cmm=2&cf=-1&dx=2&fu=-1&cbh=534&cbw=620&iss=0&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=0&bgp=0&ic=0&tt=%E8%BF%85%E9%9B%B7%E6%97%97%E4%B8%8B%E7%8B%97%E7%8B%97%E5%BD%B1%E8%A7%86%E6%90%9C%E7%B4%A2-marcello%20bastrani&sx=400&sy=130&ac=5116&pf=1
+URL: http://www.gougou.com/
+URL: http://www.gougou.com/search?search=%3Cscript%3Ealert(1)%3C%2Fscript%3E&id=1
+URL: http://www.gougou.com/bottom.html
+URL: http://blog.gougou.com/blog_search.fcg?search=%3c%73%63%72%69%70%74%3e%61%6c%65%72%74%28%31%29%3c%2f%73%63%72%69%70%74%3e&pattern=0&id=10000001
+URL: http://z.alimama.com/alimama.php?i=mm_10839307_870523_1775325&u=http%3A%2F%2Fwww.gougou.com%2Fsearch%3Fsearch%3D%253Cscript%253Ealert(1)%253C%252Fscript%253E%26id%3D1&w=225&h=60&re=800x600&sz=13&r=http%3A%2F%2Fwww.gougou.com%2F&cg=64821a7ed1716a1dc49e701089f12e78&prp=40657318&cas=prp&cah=577&caw=800&ccd=24&ctz=-5&chl=4&cpl=1&cmm=2&cf=-1&dx=2&fu=-1&cbh=534&cbw=620&iss=0&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=0&bgp=0&ic=0&tt=%E8%BF%85%E9%9B%B7%E6%97%97%E4%B8%8B%E7%8B%97%E7%8B%97%E5%BD%B1%E8%A7%86%E6%90%9C%E7%B4%A2-%3Cscript%3Ealert(1)%3C%2Fscript%3E&sx=400&sy=130&ac=2013&pf=1
+
+URL: http://mlb.mlb.com/index.jsp
+URL: http://mlb.mlb.com/NULL
+URL: http://mlb.mlb.com/index.jsp
+URL: http://mlb.mlb.com/NULL
+URL: http://mlb.mlb.com/index.jsp
+URL: http://mlb.mlb.com/NULL
+
+URL: http://www.mercadolibre.com.mx/
+URL: http://smartad.mercadolibre.com.mx/jm/SmartAd?creativity=331005&trkovr=&site=MLM&ctx=N&geoip=N
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=350183&pub_redirect_unencoded=1&pub_redirect=http://ad.doubleclick.net/click%3Bh=v8/3738/3/0/%2a/b%3B205717146%3B0-0%3B0%3B25220063%3B4307-300/250%3B27788550/27806429/1%3B%3B%7Eaopt%3D3/1/a03b/0%3B%7Esscs%3D%3f
+URL: http://listado.mercadolibre.com.mx/manual-transmission-car
+URL: http://articulo.mercadolibre.com.mx/MLM-22630251-vj-01-car-visualizaciones-para-tu-autoestereo-_JM
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=eocsnick&cust=4097884
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=eocscalif&cust=4097884&site=MLM&id=22630251
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=timeleft&site=MLM&id=22630251
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=showhits&site=MLM&id=22630251
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=eocsnick&cust=4097884
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=eocscalif&cust=4097884&site=MLM&id=22630251
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=timeleft&site=MLM&id=22630251
+URL: http://articulo.mercadolibre.com.mx/jm/item?act=showhits&site=MLM&id=22630251
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=728x90&section=322129&pub_redirect_unencoded=1&publisher=terraplus&pub_redirect=http://ad.doubleclick.net/click%3Bh=v8/3738/3/0/%2a/o%3B204170458%3B0-0%3B0%3B25220061%3B3454-728/90%3B26908434/26926291/1%3B%3B%7Eaopt%3D2/1/a03b/0%3B%7Esscs%3D%3f
+
+URL: http://www.pchome.net/
+URL: http://gps.pchome.net/
+URL: http://cpro.baidu.com/cpro/ui/uijs.php?fv=0&tn=wlink_default_728_15&n=vipchomecpr&rsi1=15&rsi0=728&rad=&rss0=%23ED945A&rss1=%23FFFFFF&rss2=%230000ff&rss3=&rss4=&rss5=&rss6=%23e10900&rsi5=2&ts=1&at=15&cn=1&if=0&word=http%3A%2F%2Fgps.pchome.net%2F&refer=http%3A%2F%2Fwww.pchome.net%2F&ev=0&ch=4497&lmt=NaN&csp=800,600&ccd=24&chi=1&cja=false&cpl=1&cmi=2&cce=true&csl=en_US&rt=8&cad=1&aurl=&rss7=&cpa=1&dt=1221129533
+URL: http://search.pchome.net/index.html?act=q&aritcleType=all&wd=mythbusters&submit=PChome%CB%D1%CB%F7
+URL: http://club.pchome.net/topic_1_15_2236973.html
+URL: http://club.pchome.net/forum_1_15____md__2_teaching.html
+
+URL: http://www.google.cl/
+
+URL: http://www.google.se/
+
+URL: http://msn.foxsports.com/
+URL: http://msn.foxsports.com/search?sp_q=south+park
+URL: http://ac3.msn.com/de.ashx?adunitid=328&v=pubm8&w=300&h=250&url=about%3Ablank&tz=300&dt=1221129611892&uh=600&uw=800&uah=577&uaw=800&cd=24&npl=1&nmime=2&app=Konqueror&his=2&plf=Linux%20i686%20X11
+URL: http://msn.foxsports.com/cfb/story/8435794
+URL: http://view.atdmt.com/iview/msnnkhac001728x90Xsptcf100152msn/direct;wi.728;hi.90/01
+URL: http://view.atdmt.com/iview/msnnkhac001728x90Xsptcf100152msn/direct;wi.728;hi.90/01
+URL: http://view.atdmt.com/iview/msnnkhac001300x250Xsptcf400151msn/direct;wi.300;hi.250/01
+URL: http://ac3.msn.com/de.ashx?adunitid=325&v=pubm8&w=300&h=250&url=about%3Ablank&tz=300&dt=1221129656990&uh=600&uw=800&uah=577&uaw=800&cd=24&npl=1&nmime=2&app=Konqueror&his=3&plf=Linux%20i686%20X11
+URL: http://msn.foxsports.com/search?sp-q=denver%20broncos
+
+URL: http://www.tom.com/
+URL: http://images.music.tom.com/vw/38559-1.html?source=HP_MUSIC
+URL: http://images.music.tom.com/user/list-1DCDB9CF-1.html
+URL: http://images.music.tom.com/vw/38559-10.html#picchange
+URL: http://club.tom.com/?source=HP_CLUB
+
+URL: http://www.google.gr/
+URL: http://www.google.gr/search?hl=el&q=more+search+terms&btnG=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7+Google&meta=
+URL: http://www.google.gr/search?hl=el&q=google&btnG=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&meta=
+URL: http://www.google.gr/search?hl=el&q=%3Ca+href%3D%22http%3A%2F%2Fwww.google.gr%2F%22%3EGoogle%3C%2Fa%3E&btnG=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&meta=
+
+URL: http://www.mercadolivre.com.br/
+URL: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=350183&pub_redirect_unencoded=1&pub_redirect=http://ad.doubleclick.net/click%3Bh=v8/3738/3/0/%2a/t%3B205717146%3B0-0%3B0%3B25419659%3B4307-300/250%3B27788550/27806429/1%3B%3B%7Eaopt%3D3/1/a03b/0%3B%7Esscs%3D%3f
+URL: http://lista.mercadolivre.com.br/technics-1200s
+URL: http://lista.mercadolivre.com.br/
+
+URL: http://www.marca.com/
+URL: http://ad.es.doubleclick.net/adi/N2462.marca.dodge.es/B3124681;sz=728x90;ord=1221148994139722116?
+URL: http://impes.tradedoubler.com/imp?type(iframe)pool(247518)a(1269024)838833829
+URL: http://adserver.itsfogo.com/default.aspx?t=f&v=1&zoneid=38655
+URL: http://adserver.itsfogo.com/default.aspx?t=f&v=1&zoneid=38655
+URL: http://impes.tradedoubler.com/imp?type(iframe)pool(247518)a(1269024)838833829
+URL: http://ad.es.doubleclick.net/adi/N2462.marca.dodge.es/B3124681;sz=728x90;ord=1221148994139722116?
+URL: http://www.marca.com/rec-templating/templates/marca/cmp/buscador.jsp?txtW=&num=10&searchselector=0&q=bmw&rbDonde=marca&sa.x=0&sa.y=0
+URL: http://ad.es.doubleclick.net/adi/N2952.MARCA.NT.ES/B3035710.2;sz=200x90;ord=1221149026139730320?
+URL: http://www.marca.com/rec-templating/templates/marca/cmp/buscador.jsp?txtW=&num=10&searchselector=0&q=heating+and+cooling&rbDonde=marca&sa.x=0&sa.y=0
+URL: http://ad.es.doubleclick.net/adi/N2952.MARCA.NT.ES/B3035710.2;sz=200x90;ord=1221149063139739284?
+
+URL: http://www.target.com/
+URL: http://fls.doubleclick.net/activityi;src=951243;type=homep126;cat=homep329;ord=1;num=1221149070?
+URL: http://www.target.com/Wall-D%C3%A9cor-Accessories-Home/b/ref=nav_t_spc_5_16/602-2805071-0819010?ie=UTF8&node=1196524
+URL: http://fls.doubleclick.net/activityi;src=951243;type=cats1517;cat=cats1157;u14=1196524;ord=1;num=1221149107?
+URL: http://www.target.com/Sweaters-Clothing-Women/b/ref=nav_t_spc_1_4/602-2805071-0819010?ie=UTF8&node=270593011
+URL: http://fls.doubleclick.net/activityi;src=951243;type=cats2296;cat=cats2315;u15=270593011;ord=1;num=1221149137?
+URL: http://www.target.com/gp/detail.html/ref=sc_pgb_r_4_0_270593011/602-2805071-0819010?ie=UTF8&frombrowse=1&asin=B0019I3Q4O
+URL: http://fls.doubleclick.net/activityi;src=951243;type=produ885;cat=produ474;u3=B0019I3Q4O;ord=1;num=1221149146?
+
+URL: http://www.google.com.vn/
+URL: http://www.google.com.vn/search?hl=vi&q=query&btnG=T%C3%ACm+v%E1%BB%9Bi+Google&meta=
+
+URL: http://en.softonic.com/
+URL: http://en.softonic.com/specials_leaderboard/home
+URL: http://en.softonic.com/google_ads/section_home/2/0/nil
+URL: http://en.softonic.com/s/antivirus
+URL: http://ad.es.doubleclick.net/adi/softonic-en/search;plat=2;cat=2;type=leaderboard;sz=728x90;ord=2883922687?
+URL: http://en.softonic.com/s/%3Ciframe-src%3Dgoogle.com%3E%3C%2Fiframe%3E
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/%3Ciframe+src%3Dgoogle.com%3E%3C%2Fiframe%3E/0
+URL: http://en.softonic.com/s/google.com
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/google.com/2
+URL: http://en.softonic.com/s/%3Ciframe-src%3D%27google.com%27%3E%3C%2Fiframe%3E
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/%3Ciframe+src%3D%27google.com%27%3E%3C%2Fiframe%3E/0
+URL: http://en.softonic.com/s/google.com
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/google.com/2
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/google.com/2
+URL: http://en.softonic.com/s/dsajfkhvuihvius
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/dsajfkhvuihvius/0
+URL: http://en.softonic.com/s/%3Ciframe-src%3Dgoogle.com%3E%3C%2Fiframe%3E
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/%3Ciframe+src%3Dgoogle.com%3E%3C%2Fiframe%3E/0
+URL: http://en.softonic.com/s/google.com
+URL: http://en.softonic.com/s/%3Ciframe-src%3Dgoogle.com%3E%3C%2Fiframe%3E
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/%3Ciframe+src%3Dgoogle.com%3E%3C%2Fiframe%3E/0
+URL: http://en.softonic.com/s/google.com
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/google.com/2
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/google.com/2
+URL: http://en.softonic.com/s/%3Ciframe%3E%3C%2Fiframe%3E
+URL: http://en.softonic.com/google_ads/search_alternative/2/0/%3Ciframe%3E%3C%2Fiframe%3E/3
+
+URL: http://www.megaclick.com/
+
+URL: http://www.sonico.com/
+URL: http://www.sonico.com/register.php
+URL: http://www.sonico.com/search_logout.php?i=1&q=awesome+dude
+URL: http://www.sonico.com/search_logout.php?q=awesome%20dude
+URL: http://www.sonico.com/search_logout.php?q=awesome%20dude
+URL: http://www.sonico.com/register.php
+URL: http://www.sonico.com/?lang=pt
+
+URL: http://in.indiatimes.com/usdefault.cms
+URL: http://in.indiatimes.com/niftysensex.cms
+URL: http://netspiderads2.indiatimes.com/ads.dll/getad?slotid=35190
+URL: http://ads.indiatimes.com/ads.dll/getad?slotid=3114
+
+URL: http://www.ning.com/
+URL: https://www.ning.com/main/profile/signUp?target=http%3A%2F%2Fwww.ning.com%2Fhome%2Fapps%2Fcreate%3FappUrl%3Dsocialnetwork%26network_name%3DFacebook%26network_url%3Dyacin&from=home
+URL: https://www.ning.com/xn/static-6.11.8.1/js/dojo-0.3.1-ning/iframe_history.html
+URL: http://www.youtube.com/
+URL: http://www.youtube.com/watch?v=JiKbVG-EK90&feature=dir
+URL: http://www.youtube.com/login?next=/watch%3Fv%3DJiKbVG-EK90%26feature%3Ddir
+URL: http://www.youtube.com/watch?v=JiKbVG-EK90&feature=dir
+URL: http://www.youtube.com/comment_servlet?all_comments&v=JiKbVG-EK90&fromurl=/watch%3Fv%3DJiKbVG-EK90%26feature%3Ddir
+URL: http://www.youtube.com/watch?v=JiKbVG-EK90&feature=dir
+URL: http://en.softonic.com/
+URL: http://en.softonic.com/specials_leaderboard/home
+URL: http://en.softonic.com/google_ads/section_home/2/0/nil
+URL: http://clicksor.net/
+
+URL: http://www.walmart.com/
+URL: http://pn1.adserver.yahoo.com/a?f=2023115323&pn=walmart&p=walhp&l=N&c=sh
+URL: http://pn1.adserver.yahoo.com/a?f=2023115323&pn=walmart&p=walhp&l=LREC&c=sh
+URL: http://www.walmart.com/search/search-ng.do?search_constraint=0&ic=48_0&search_query=%3Cb%3E&Find.x=0&Find.y=0&Find=Find
+
+URL: http://www.bp.blogspot.com/
+
+URL: http://www.google.ch/
