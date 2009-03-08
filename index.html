@@ -2,29 +2,75 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
+		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#pubkey').hide();
+				// toggles the slickbox on clicking the noted link  
+				$('a#toggle-pubkey').click(function() {
+					$('#pubkey').slideToggle(400);
+					return false;
+				});
+			});
+		</script>
 		<link rel="stylesheet" type="text/css" href="layout.css" />
 		<title>Yacin Nadji</title>
 	</head>
 	<body>
 		<h1>Yacin Nadji</h1>
-		<p>Howdy! I'm a PhD student at UNIVERSITY, where I currently study computer security. Before graduate school, I was a member of the <a href="http://ir.iit.edu">IIT Information Retrieval Lab</a> where I received my undergraduate degree. I'm also interested in functional programming languages.
+		<p>Howdy! I'm a PhD student at UNIVERSITY, where I currently study computer security. Before graduate school, I was a member of the <a href="http://ir.iit.edu">IIT Information Retrieval Lab</a> where I received my undergraduate degree. I'm also interested in functional programming languages.</p>
 		<hr />
-
 		<h2>contact info</h2>
 		<p>yacin@ir (DOT iit DOT edu) -- <a href="docs/cv.pdf">cv</a></p>
 		<h2>publications</h2>
 		<ul>
 			<li>"Document Structure Integrity: A Robust Basis for Cross-site Scripting Defense". Yacin Nadji, Prateek Saxena, Dawn Song. Network &amp; Distributed System Security Syposium, 2009. (11% acceptance rate) [<a href="docs/pubs/xss-ndss2009.pdf">PDF</a>]</li>
 		</ul>
-		<h2>other</h2>
+		<h2>personal</h2>
 		<ul>
-			<li>my <a href="#">schedule</a> (google cal)
-			<li><a href="#">Docoument Structure Integrity benchmarks</a></li>
+			<li>my <a href="#" id="toggle-pubkey">public key</a>
+			<div id="pubkey">
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.2.1 (Darwin)
+
+mQGiBEgkVBQRBAD6lax/+k+jBmy9EqNAb3D3A0LhL+7hZhVjTMAAx6qVe5cqYIxR
+1WKIDwwZoQVPCyWruWm53z6QI9ghHNrHjoVqW8NCyD7Nl8rn2bWqAMasDcBWi3TG
+K2vQZ8t//HaehtCJcdYNpaswnPqZcxDJ5BU91hqpJCdJEDu5TVAaqy+9zwCgnKbr
+iUmeUb+ygejoW/7Uq6aiJ68D/123xizCodofwdxsopfr8GKyPb92YwBC4luae1HK
+oIvU6xA9i6grqvCUolwV/lu0p4ulcsgL82eklHaJDmHqAoqYP3OqO6H3GiVNtaLC
+WHabpoKoav97Dnp3HxixKn3952DK/pJHSXcTTMBn02ANnStvr+vr2Nq2lHiBNDnH
+HQBMBADcLgEQ1lPaUXPPwbiyoW46Eb/nf56+uhY3kTPrimAzusguls0Ssg2vVibj
+Fa5ClFU0z1SBvQ6fd8oZc5hJbgLz85TLjKSxaSRB97osezFOsuRgYv9Ly64A8zrM
+FVOHtCQWMo5oMcqEBjY2VUI5siy71+PVekRUPPctZUj12m5DFbQxWWFjaW4gTmFk
+amkgKFNvbWV0aGluZyBDbGV2ZXIpIDx5bmFkamlAZ21haWwuY29tPohZBBMRAgAZ
+BQJIJFQUBAsHAwIDFQIDAxYCAQIeAQIXgAAKCRA8erV+n+s0SrkCAJ0S/uzGyb4y
+PRhRWkshz0eiaKEl1QCeLjQiHtExXnWpVq+CBieKpNOApAS5AQ0ESCRUGBAEALA+
+OMddJ1pJ2Dggc6RHw95fZrKqVsMcPb60hizJDNVW28qJARtjtzZcDJn9T5JTkEp+
+M6xJ9h0h8HobrjTpHZOmIFi6HLaIab0G9WiwcGe0REVig64dS4bpvaAqFulug+jt
+hvYaNVjGxR9wKRV7Tw+g0WIBiktREnN5Y1ZcXJCbAAMGA/931GsoJp+5enpDwh0V
+6hamZKLH8V6o7CwGDgknshpOra91mR+6q6U+4FG35E8z3U+pv28y2/IfpSupuEIA
+++coY2o3XUKBzRCTBj4+48e1fgh6CJAFL3JsnHqi0NwlUFF435h5+IZHjzo3oiGL
+vKZCgnPfyoar+CiBGz6WR5DhwYhGBBgRAgAGBQJIJFQYAAoJEDx6tX6f6zRKFjQA
+n0TtTMh+x9bOv9Nq9xbyQ0qfXH+YAJ93eURv5+Ov9nZqsydzM0xtaqjP0w==
+=Wzb1
+-----END PGP PUBLIC KEY BLOCK-----
+			</div></li>
+			<li>my <a href="#">schedule</a> (google cal)</li>
+			<li>my <a href="http://github.com/ynadji">github page</a></li>
+			<li>my <a href="http://djkthx.blogspot.com/">blog</a></li>
+			<li><a href="#">dsi benchmarks</a></li>
 		</ul>
 		<h2>hobbies</h2>
 		<ul>
-			<li>my <a href="djing.html">dj</a> sets</li>
+			<li>djing: my <a href="djing.html">dj mixes</a></li>
+			<li>awesome <a href="http://www.last.fm/user/GT_Onizuka/">taste in music</a></li>
 			<li>longboarding</li>
 		</ul>
+		<br />
+		<p>
+		<a href="http://validator.w3.org/check?uri=referer"><img
+			src="http://www.w3.org/Icons/valid-xhtml10-blue"
+			alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+		</p>
 	</body>
 </html>

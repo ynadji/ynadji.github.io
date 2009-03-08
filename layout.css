@@ -5,3 +5,20 @@ body {
 	font-family: Verdana, serif;
 	font-size: 11pt;
 }
+
+h1 {
+	font-size: 18pt;
+}
+
+h2 {
+	font-size: 11pt;
+}
+
+#pubkey {
+	padding-left: 15pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	font-family: Consolas, sans-serif;
+	font-size: 8pt;
+	white-space: pre;
+}
