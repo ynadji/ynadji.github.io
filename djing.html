@@ -1,39 +1,62 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 		<link rel="stylesheet" type="text/css" href="layout.css" />
 		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-		<title>Yacin Nadji</title>
+		<title>dj DEFMACRO</title>
+		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#mix8').hide();
+				// toggles the slickbox on clicking the noted link  
+				$('a#toggle-mix8').click(function() {
+					$('#mix8').slideToggle(400);
+					return false;
+				});
+			});
+		</script>
 	</head>
 	<body>
-			<h1>DJ'ing</h1>
-				<p><a href="index.html">Return to Main Page</a></p>
-				<h2>Mixes</h2>
-				<ul>
-					<li><a href="http://wcurve.homelinux.org/mixes/mix8_-_2008-09-22.mp3">Mix #8</a>
-					<ol>
-						<li>Daft Punk -- Harder Better Faster Stronger (Deadmau5 Edit)</li>
-						<li>Hatiras, MC Flipside -- Get Blahsted - Original Mix</li>
-						<li>Fedde Le Grand -- Put Your Hands Up For Detroit - Club Mix</li>
-						<li>David Guetta, Chris Willis -- Tomorrow Can Wait - Tocadisco Evil Mix</li>
-						<li>The Shapeshifters -- Lola's Theme (2008 Re-Edit)</li>
-						<li>Cascada -- What Hurts The Most - Spencer &amp; Hill Remix</li>
-						<li>DJ Shumilin -- Dance Generation (Original Mix)</li>
-						<li>Mark Ves -- Fantasy Girl - STFU Remix</li>
-						<li>Voodoo &amp; Serano -- Sunglasses At Night - Club Mix</li>
-					</ol>
-					</li>
-				</ul>
-                <script type="text/javascript">
-                  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-                  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-                </script>
-                <script type="text/javascript">
-                  var pageTracker = _gat._getTracker("UA-3942734-1");
-                  pageTracker._initData();
-                  pageTracker._trackPageview();
-                </script>
-		</div>
-	</body>
-</html>
+		<h1>DJ'ing</h1>
+		<p><a href="index.html">Return to Main Page</a></p>
+		<h2>Mixes</h2>
+		<ul>
+			<li><a href="http://wcurve.homelinux.org/mixes/mix8_-_2008-09-22.mp3">Mix #8</a> - (<a href="#" id="toggle-mix8">Toggle Tracklist</a>)
+			<div id="mix8">
+				<ol>
+					<li>Daft Punk -- Harder Better Faster Stronger (Deadmau5 Edit)</li>
+					<li>Hatiras, MC Flipside -- Get Blahsted - Original Mix</li>
+					<li>Fedde Le Grand -- Put Your Hands Up For Detroit - Club Mix</li>
+					<li>David Guetta, Chris Willis -- Tomorrow Can Wait - Tocadisco Evil Mix</li>
+					<li>The Shapeshifters -- Lola's Theme (2008 Re-Edit)</li>
+					<li>Cascada -- What Hurts The Most - Spencer &amp; Hill Remix</li>
+					<li>DJ Shumilin -- Dance Generation (Original Mix)</li>
+					<li>Mark Ves -- Fantasy Girl - STFU Remix</li>
+					<li>Voodoo &amp; Serano -- Sunglasses At Night - Club Mix</li>
+				</ol>
+			</div>
+			</li>
+		</ul>
+		<h1>Webpages</h1>
+		<ul>
+			<li><a href="http://www.last.fm/music/dj+DEFMACRO">Last.FM Page</a></li>
+			<li><a href="#">Facebook Pages</a></li>
+		</ul>
+		<br />
+		<p>
+		<a href="http://validator.w3.org/check?uri=referer"><img
+			src="http://www.w3.org/Icons/valid-xhtml10-blue"
+			alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+		</p>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-3942734-1");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+				</script>
+			</body>
+		</html>
