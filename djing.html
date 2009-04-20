@@ -9,9 +9,14 @@
 		<script type="text/javascript">
 			$(document).ready(function() {
 				$('#mix8').hide();
+				$('#420prog').hide();
 				// toggles the slickbox on clicking the noted link  
 				$('a#toggle-mix8').click(function() {
 					$('#mix8').slideToggle(400);
+					return false;
+				});
+				$('a#toggle-420prog').click(function() {
+					$('#420prog').slideToggle(400);
 					return false;
 				});
 			});
@@ -22,6 +27,25 @@
 		<p><a href="index.html">Return to Main Page</a></p>
 		<h2>Mixes</h2>
 		<ul>
+			<li><a href="http://wcurve.homelinux.org/mixes/2009-04-20_15h15m31.mp3">4/20 Progressive House Mix</a> - (<a href="#" id="toggle-420prog">Toggle Tracklist</a>)
+			<div id="420prog">
+				<ol>
+					<li>Soulsearcher -- Can't Get Enough [Henrik B Mix]</li>
+					<li>Paolo Mojo &amp; Jim Rivers -- Ron Hardy Said (Eric Prydz Remix)</li>
+					<li>Moonbeam -- Filterama - Moonbeam Remix</li>
+					<li>Vibrasphere -- Erosion (Glenn Morrison &amp; Bruce Aisher Remix)</li>
+					<li>Calvin Harris -- I'm Not Alone - Deadmau5 Remix</li>
+					<li>Mohawk -- Backlash (Original Mix)</li>
+					<li>Arno Cost -- Cyan (Original Mix)</li>
+					<li>Daft Punk -- One More Time (Philip Jensens Aerodynamic Bootleg)</li>
+					<li>Steve Angello, Axwell, Sebastian Ingrosso, Laidback Luke -- Leave The World Behind (Original Mix)</li>
+					<li>Arno Cost -- Darling Harbour - Original Mix</li>
+					<li>Criss Sol and J Foster -- Every You, Every Me (Kam Denny and Paul Zala Remix)</li>
+					<li>Mohawk -- Synthetic Symphony - Mohawk Remix</li>
+
+				</ol>
+			</div>
+			</li>
 			<li><a href="http://wcurve.homelinux.org/mixes/mix8_-_2008-09-22.mp3">Mix #8</a> - (<a href="#" id="toggle-mix8">Toggle Tracklist</a>)
 			<div id="mix8">
 				<ol>
