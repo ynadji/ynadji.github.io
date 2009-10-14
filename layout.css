@@ -1,9 +1,18 @@
 body {
 	margin: 0 auto 2em auto;
+	padding: 0 auto 2em auto;
 	width: 80%;
 
 	font-family: Verdana, serif;
 	font-size: 11pt;
+}
+
+img {
+	border: 1px solid #000;
+}
+
+.header {
+	float: right;
 }
 
 h1 {
