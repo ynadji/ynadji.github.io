@@ -1,37 +1,42 @@
 body {
-	margin: 0 auto 2em auto;
-	padding: 0 auto 2em auto;
-	width: 80%;
+  margin: 0 auto 2em auto;
+  padding: 0 auto 2em auto;
+  width: 80%;
 
-	font-family: Verdana, serif;
-	font-size: 11pt;
+  font-family: Verdana, serif;
+  font-size: 11pt;
 }
 
 img {
-	border: 1px solid #000;
+  border: 1px solid #000;
 }
 
 .header {
-	float: right;
+  float: right;
 }
 
 h1 {
-	font-size: 18pt;
+  font-size: 18pt;
 }
 
 h2 {
-	font-size: 11pt;
+  font-size: 11pt;
 }
 
 h3 {
-	font-size: 9pt;
+  font-size: 9pt;
+}
+
+li {
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 #pubkey {
-	padding-left: 15pt;
-	padding-top: 0pt;
-	padding-bottom: 0pt;
-	font-family: Consolas, sans-serif;
-	font-size: 8pt;
-	white-space: pre;
+  padding-left: 15pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  font-family: Consolas, sans-serif;
+  font-size: 8pt;
+  white-space: pre;
 }
