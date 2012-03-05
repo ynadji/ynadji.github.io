@@ -14,6 +14,8 @@ img {
 img#profile {
   max-width: 200px;
   max-height: 300px;
+  float: left;
+  margin: 0px 20px 10px 0px;
 }
 
 .header {
@@ -44,4 +46,8 @@ li {
   font-family: Consolas, sans-serif;
   font-size: 8pt;
   white-space: pre;
+}
+
+#pubs_etc {
+  clear: both;
 }
