@@ -3,7 +3,7 @@ body {
   padding: 0 auto 2em auto;
   width: 80%;
 
-  font-family: Verdana, serif;
+  font-family: Verdana, Times, serif;
   font-size: 11pt;
 }
 
@@ -43,7 +43,7 @@ li {
   padding-left: 15pt;
   padding-top: 0pt;
   padding-bottom: 0pt;
-  font-family: Consolas, sans-serif;
+  font-family: Consolas, monospace;
   font-size: 8pt;
   white-space: pre;
 }
