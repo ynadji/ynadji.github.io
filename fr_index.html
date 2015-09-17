@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+	<head>
+                <meta name="google-site-verification" content="FBEvDMY86Sx48dpa-lqSm-1HhVulmvFDcQ34cbJqLLM" />
+                <meta name="description" content="Le site web de Yacin Nadji. Il contient des liens et des brève descriptions de mon recherche, ainsi que les liens personnels de moi." />
+                <!-- Wu-Tang is here forever: I bomb atomically, Socrates' philosophies and hypotheses can't define how I be droppin' these mockeries. -->
+		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+                                var toggler = function(id) {
+                                  $('#' + id).hide();
+                                  // toggles the slickbox on clicking the noted link
+                                  $('a#toggle-' + id).click(function() {
+                                          $('#' + id).slideToggle(400);
+                                          return false;
+                                  });
+                                }
+
+                                toggler('pubkey');
+                                toggler('rza-press');
+                                toggler('dga-press');
+			});
+
+                        $(document).ready(function() {
+                          var countli = $('ol > li').size();
+                          $("ol > li").each(function(i) {
+                            var attrvalue = countli - i;
+                            $(this).attr("value",attrvalue);
+                          });
+                        });
+		</script>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<title>Yacin Nadji</title>
+	</head>
+	<body>
+		<h1>Yacin Nadji</h1>
+		<img id="profile" src="images/profile.webp" alt="CHEERS SAHA 干杯！" />
+		<h2>info de contact</h2>
+                <p>(mon prénom at gatech dot edu)</p>
+                <h2>bio</h2>
+                <p>Salut! Je suis un postdoc réchercheur de la sécurité informatique avec l'<a href="http://astrolavos.gatech.edu/">Astrolavos Lab</a>. Auparavant,
+                j'ai reçu mon doctorat sous la supervision de <a href="http://wenke.gtisc.gatech.edu/">Wenke Lee</a> et <a href="http://www.antonakakis.org/">Manos Antonakakis</a>.
+                Je recherche la manipulation de botnets, sécurité du DNS, et l'application d'apprentissage automatique.
+                J'ai beaucoup d'intérêts de recherche et je travaillais en sécurité logicielle des smartphones, l'analyse dynamique de logiciel malveillant,
+                la sécurité du web, et la recherche d'information.
+                J'ai reçu ma license de
+                <a href="http://www.iit.edu">IIT</a>
+                où j'étais un membre du <a href="http://ir.cs.georgetown.edu/">laboratoire de la recherche d'information à IIT (maintenant Georgetown)</a> qui faisait fonctionner par <a href="http://www.cs.georgetown.edu/~ophir/">Ophir Frieder</a>.
+                Mon œuvre en sécurité du web a été avec <a href="http://webblaze.cs.berkeley.edu/">la group de recherche de WebBlaze à Berkeley</a> de <a href="http://www.cs.berkeley.edu/~dawnsong/">Dawn Song</a>.</p>
+                <h2><a href="docs/cv.pdf">cv</a></h2>
+                <div id="pubs_etc">
+                  <h2>publications (<a href="docs/yacin.bib">bibtex</a>) (<a href="http://scholar.google.com/citations?user=WLiTyjsAAAAJ&hl=en">google scholar</a>)</h2>
+                  <ol>
+                    <li>Yizheng Chen, Manos Antonakakis, Roberto Perdisci, <strong>Yacin Nadji</strong>, David Dagon, Wenke Lee. "DNS Noise: Measuring the Pervasiveness of Disposable Domains in Modern DNS Traffic." International Conference on Dependable Systems and Networks (DSN), 2014 [<a href="docs/pubs/dnsnoise-dsn2014.pdf">PDF</a>]</li>
+                    <li>Jessica Pater, <strong>Yacin Nadji</strong>, Elizabeth D. Mynatt, Amy Bruckman. "Just Awful Enough&mdash;The Functional Dysfunction of the Something Awful Forums" Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), 2014 [<a href="docs/pubs/chi-2014.pdf">PDF</a>]</li>
+                    <li><strong>Yacin Nadji</strong>, Manos Antonakakis, Roberto Perdisci, David Dagon, Wenke Lee. "Beheading Hydras: Performing Effective Botnet Takedowns." Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2013 (19.8% taux d'acceptation) [<a href="docs/pubs/rza-ccs2013.pdf">PDF</a>|<a href="#" id="toggle-rza-press">publicité</a>]
+                      <div id="rza-press">
+                        <ul>
+                          <li><a href="http://www.theregister.co.uk/2013/12/04/botnet_takedowns/">Must try HARDER, infosec lads: We're RUBBISH at killing ZOMBIES</a></li>
+                          <li><a href="http://threatpost.com/microsoft-zeroaccess-botnet-has-been-abandoned">Microsoft: ZeroAccess Botnet Has Been Abandoned</a> (related)</li>
+                          <li><a href="http://arstechnica.com/security/2013/12/microsoft-disrupts-botnet-that-generated-2-7m-per-month-for-operators/">Microsoft disrupts botnet that generated $2.7M per month for operators</a> (related)</li>
+                        </ul>
+                      </div>
+                    </li>
+                    <li><strong>Yacin Nadji</strong>, Manos Antonakakis, Roberto Perdisci, Wenke Lee. "Connected Colors: Unveiling the Structure of Criminal Networks." Research in Attacks, Intrusions and Defenses (RAID), 2013. (23% taux d'acceptation) [<a href="docs/pubs/rzaraid.pdf">PDF</a>]</li>
+                    <li>Wei Zhuo, <strong>Yacin Nadji</strong>. "MalwareVis: Entity-based Visualization of Malware Network Traces." Symposium on Visualization for Cyber Security (VizSec) October 15, 2012, Seattle, WA. [<a href="docs/pubs/vizsec2012.pdf">PDF</a>]</li>
+                    <li>Manos Antonakakis, Roberto Perdisci, <strong>Yacin Nadji</strong>, Nikolaos Vasiloglou, Saeed Abu-Nimeh, Wenke Lee, David Dagon. "From Throw-Away Traffic to Bots: Detecting the Rise of DGA-Based Malware." USENIX Security Symposium, Bellevue, WA, August 8–10, 2012. (19.4% taux d'acceptation) [<a href="docs/pubs/pleiades2012.pdf">PDF</a>|<a href="#" id="toggle-dga-press">publicité</a>]
+                      <div id="dga-press">
+                        <ul>
+                          <li><a href="http://www.reuters.com/article/2012/08/10/idUS146379+10-Aug-2012+BW20120810">Damballa Principal Scientist to Present New Technique for Detecting DGA-Based Malware at USENIX Security Symposium</a></li>
+                          <li><a href="http://www.networkworld.com/community/node/81167">Prototype system goes after DNS-based botnets</a></li>
+                        </ul>
+                      </div>
+                    </li>
+                    <li><strong>Yacin Nadji</strong>, Manos Antonakakis, Roberto Perdisci, Wenke Lee. "Understanding the Prevalence and Use of Alternative Plans in Malware with Network Games." Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2011. (18.5% taux d'acceptation) [<a href="docs/pubs/gzaacsac2011.pdf">PDF</a>]</li>
+                    <li><strong>Yacin Nadji</strong>, Jon Giffin, Patrick Traynor. "Automated Remote Repair for Mobile Malware." Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2011. (18.5% taux d'acceptation) [<a href="docs/pubs/repair11.pdf">PDF</a>]</li>
+                    <li><strong>Yacin Nadji</strong>, Prateek Saxena, Dawn Song. "Document Structure Integrity: A Robust Basis for Cross-site Scripting Defense." Network &amp; Distributed System Security Symposium, 2009. (11% taux d'acceptation) [<a href="docs/pubs/xss-ndss2009.pdf">PDF</a>]</li>
+                  </ol>
+                  <h2>info de moi</h2>
+                  <ul>
+                          <li>mon <a href="#" id="toggle-pubkey">clé publique</a>
+                          <div id="pubkey">
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+  Version: GnuPG v1.2.1 (Darwin)
+
+  mQGiBEgkVBQRBAD6lax/+k+jBmy9EqNAb3D3A0LhL+7hZhVjTMAAx6qVe5cqYIxR
+  1WKIDwwZoQVPCyWruWm53z6QI9ghHNrHjoVqW8NCyD7Nl8rn2bWqAMasDcBWi3TG
+  K2vQZ8t//HaehtCJcdYNpaswnPqZcxDJ5BU91hqpJCdJEDu5TVAaqy+9zwCgnKbr
+  iUmeUb+ygejoW/7Uq6aiJ68D/123xizCodofwdxsopfr8GKyPb92YwBC4luae1HK
+  oIvU6xA9i6grqvCUolwV/lu0p4ulcsgL82eklHaJDmHqAoqYP3OqO6H3GiVNtaLC
+  WHabpoKoav97Dnp3HxixKn3952DK/pJHSXcTTMBn02ANnStvr+vr2Nq2lHiBNDnH
+  HQBMBADcLgEQ1lPaUXPPwbiyoW46Eb/nf56+uhY3kTPrimAzusguls0Ssg2vVibj
+  Fa5ClFU0z1SBvQ6fd8oZc5hJbgLz85TLjKSxaSRB97osezFOsuRgYv9Ly64A8zrM
+  FVOHtCQWMo5oMcqEBjY2VUI5siy71+PVekRUPPctZUj12m5DFbQxWWFjaW4gTmFk
+  amkgKFNvbWV0aGluZyBDbGV2ZXIpIDx5bmFkamlAZ21haWwuY29tPohZBBMRAgAZ
+  BQJIJFQUBAsHAwIDFQIDAxYCAQIeAQIXgAAKCRA8erV+n+s0SrkCAJ0S/uzGyb4y
+  PRhRWkshz0eiaKEl1QCeLjQiHtExXnWpVq+CBieKpNOApAS5AQ0ESCRUGBAEALA+
+  OMddJ1pJ2Dggc6RHw95fZrKqVsMcPb60hizJDNVW28qJARtjtzZcDJn9T5JTkEp+
+  M6xJ9h0h8HobrjTpHZOmIFi6HLaIab0G9WiwcGe0REVig64dS4bpvaAqFulug+jt
+  hvYaNVjGxR9wKRV7Tw+g0WIBiktREnN5Y1ZcXJCbAAMGA/931GsoJp+5enpDwh0V
+  6hamZKLH8V6o7CwGDgknshpOra91mR+6q6U+4FG35E8z3U+pv28y2/IfpSupuEIA
+  ++coY2o3XUKBzRCTBj4+48e1fgh6CJAFL3JsnHqi0NwlUFF435h5+IZHjzo3oiGL
+  vKZCgnPfyoar+CiBGz6WR5DhwYhGBBgRAgAGBQJIJFQYAAoJEDx6tX6f6zRKFjQA
+  n0TtTMh+x9bOv9Nq9xbyQ0qfXH+YAJ93eURv5+Ov9nZqsydzM0xtaqjP0w==
+  =Wzb1
+  -----END PGP PUBLIC KEY BLOCK-----
+                          </div></li>
+                          <li>mon <a href="http://github.com/ynadji">page de github</a></li>
+                          <li>mon <a href="http://www.linkedin.com/in/yacin">profil de linkedin</a></li>
+                          <li>mon <a href="http://www.last.fm/user/GT_Onizuka">last.fm</a></li>
+                          <li>mon consiles sur <strike><a href="atlanta.html">comment de s'amuser en l'atlanta</a></strike>. juste utilisez <a href="http://atltodo.com/">ATLToDo</a> et
+                          mon doc de google de mes <a href="https://docs.google.com/document/d/1DrqpJsPCfl619OfQEbXpKbYRp14_WnTZtzcC1OeXHq4/edit">trucs préférés</a> ici</li>
+                  </ul>
+                </div>
+          <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-3942734-3', 'auto');
+            ga('require', 'linkid', 'linkid.js');
+            ga('send', 'pageview');
+
+          </script>
+	</body>
+</html>
