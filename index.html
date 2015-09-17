@@ -7,6 +7,9 @@
                 <!-- Wu-Tang is here forever: I bomb atomically, Socrates' philosophies and hypotheses can't define how I be droppin' these mockeries. -->
 		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
 		<script type="text/javascript">
+                  if (navigator.language === 'fr' && document.referrer.search('/fr/') === -1) {
+                    window.location.replace('fr/');
+                  }
 			$(document).ready(function() {
                                 var toggler = function(id) {
                                   $('#' + id).hide();
