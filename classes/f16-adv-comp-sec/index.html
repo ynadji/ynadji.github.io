@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+                <meta name="google-site-verification" content="FBEvDMY86Sx48dpa-lqSm-1HhVulmvFDcQ34cbJqLLM" />
+                <meta name="description" content="Yacin Nadji's academic webpage. Contains links/descriptions of my current research, as well as links to more personal information." />
+                <!-- Wu-Tang is here forever: I bomb atomically, Socrates' philosophies and hypotheses can't define how I be droppin' these mockeries. -->
+		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+		<script type="text/javascript">
+                  if ((navigator.language === 'fr' || navigator.language === 'fr-fr') && document.referrer.search('/fr/') === -1) {
+                    window.location.replace('fr/');
+                  }
+			$(document).ready(function() {
+                                var toggler = function(id) {
+                                  $('#' + id).hide();
+                                  // toggles the slickbox on clicking the noted link
+                                  $('a#toggle-' + id).click(function() {
+                                          $('#' + id).slideToggle(400);
+                                          return false;
+                                  });
+                                }
+
+                                toggler('pubkey');
+                                toggler('rza-press');
+                                toggler('dga-press');
+			});
+
+                        $(document).ready(function() {
+                          var countli = $('ol > li').size();
+                          $("ol > li").each(function(i) {
+                            var attrvalue = countli - i;
+                            $(this).attr("value",attrvalue);
+                          });
+                        });
+		</script>
+		<link rel="stylesheet" type="text/css" href="layout.css" />
+		<title>Fall 2016: ECE 8813/CS 8803 Advanced Computer Security</title>
+	</head>
+	<body>
+		<h1>Fall 2016: ECE 8813/CS 8803 Advanced Computer Security</h1>
+		<h2>summary</h2>
+		<p>This course is designed to introduce students to
+		seminal and cutting-edge work in network/system
+		security to prepare them to make research
+		contributions. Students will learn to read, present
+		and critique technical papers.
+		<h2>contact information</h2>
+		<ul>
+		  <li>Instructor: Yacin Nadji</li>
+		  <li>Email: (my first name at gatech dot edu)</li>
+		  <li>Class Location: ES&amp;T L1205</li>
+		  <li>Class Time: MW 4:35 - 5:55</li>
+		  <li>Office Hours: 3:30 - 4:30 (Klaus 3115)</li>
+		</ul>
+		<h2>schedule</h2>
+		<iframe width=600px src="https://docs.google.com/spreadsheets/d/1LYA79bJE0NRpavXugDs2AV_dqZipBeHvn9em2bCzYQs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<h2>grading</h2>
+		<ul>
+		  <li></li>
+		</ul>
+          <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-3942734-3', 'auto');
+            ga('require', 'linkid', 'linkid.js');
+            ga('send', 'pageview');
+
+          </script>
+	</body>
+</html>
