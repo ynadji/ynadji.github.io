@@ -3,60 +3,167 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
                 <meta name="google-site-verification" content="FBEvDMY86Sx48dpa-lqSm-1HhVulmvFDcQ34cbJqLLM" />
-                <meta name="description" content="Yacin Nadji's academic webpage. Contains links/descriptions of my current research, as well as links to more personal information." />
+                <meta name="description" content="Advanced computer security syllabus." />
                 <!-- Wu-Tang is here forever: I bomb atomically, Socrates' philosophies and hypotheses can't define how I be droppin' these mockeries. -->
 		<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
 		<script type="text/javascript">
-                  if ((navigator.language === 'fr' || navigator.language === 'fr-fr') && document.referrer.search('/fr/') === -1) {
-                    window.location.replace('fr/');
-                  }
-			$(document).ready(function() {
-                                var toggler = function(id) {
-                                  $('#' + id).hide();
-                                  // toggles the slickbox on clicking the noted link
-                                  $('a#toggle-' + id).click(function() {
-                                          $('#' + id).slideToggle(400);
-                                          return false;
-                                  });
-                                }
-
-                                toggler('pubkey');
-                                toggler('rza-press');
-                                toggler('dga-press');
-			});
-
-                        $(document).ready(function() {
-                          var countli = $('ol > li').size();
-                          $("ol > li").each(function(i) {
-                            var attrvalue = countli - i;
-                            $(this).attr("value",attrvalue);
-                          });
-                        });
 		</script>
 		<link rel="stylesheet" type="text/css" href="layout.css" />
 		<title>Fall 2016: ECE 8813/CS 8803 Advanced Computer Security</title>
 	</head>
 	<body>
 		<h1>Fall 2016: ECE 8813/CS 8803 Advanced Computer Security</h1>
-		<h2>summary</h2>
+		<h2>Summary</h2>
 		<p>This course is designed to introduce students to
-		seminal and cutting-edge work in network/system
-		security to prepare them to make research
-		contributions. Students will learn to read, present
-		and critique technical papers.
-		<h2>contact information</h2>
+		  seminal and cutting-edge work in network/system
+		  security to prepare them to make research
+		  contributions. Students will learn to read, present
+		  and critique technical papers and design, develop,
+		  and deploy a medium-sized team project.</p>
+		<h2>Contact Information</h2>
 		<ul>
 		  <li>Instructor: Yacin Nadji</li>
-		  <li>Email: (my first name at gatech dot edu)</li>
+		  <li>Email: (my first name at gatech dot edu). Please include "[ACS]" at the beginning of your email subject.</li>
 		  <li>Class Location: ES&amp;T L1205</li>
 		  <li>Class Time: MW 4:35 - 5:55</li>
-		  <li>Office Hours: 3:30 - 4:30 (Klaus 3115)</li>
+		  <li>Office Hours: TW 3:30 - 4:30 (Klaus 3115)</li>
 		</ul>
-		<h2>schedule</h2>
-		<iframe width=600px src="https://docs.google.com/spreadsheets/d/1LYA79bJE0NRpavXugDs2AV_dqZipBeHvn9em2bCzYQs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-		<h2>grading</h2>
+		<h2>Schedule</h2>
+		<iframe width="50%" height="450px" src="https://docs.google.com/spreadsheets/d/1LYA79bJE0NRpavXugDs2AV_dqZipBeHvn9em2bCzYQs/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<h2>Grading/Expectations</h2>
+		<p>Grades are almost entirely based on the final
+		  project, which is further broken down into five
+		  components. Each deliverable will be explained in
+		  detail below. Grading is subject to minor
+		  changes.</p>
 		<ul>
-		  <li></li>
+		  <li>Project: 70%</li>
+		  <ul>
+		    <li>Project plan: 5%</li>
+		    <li>Project progress reports: 10%</li>
+		    <li>Code: 30%</li>
+		    <li>Final presentation: 20%</li>
+		    <li>Final report: 35%</li>
+		  </ul>
+		  <li>Paper presentation: 20% (5% for extra presentations)</li>
+		  <li>Reading responses: 10%</li>
+		</ul>
+		<h3>Project</h3>
+		<p>Each student is responsible for a final group
+		  project. Sample project ideas will be presented in
+		  class on August 24, but students may propose their
+		  own projects. Ultimately, projects must be approved
+		  by me. Students are responsible for forming their
+		  own teams of between three and five
+		  members. Projects may be written in any language,
+		  but some project descriptions may have a suggested
+		  language and/or toolkit where appropriate. Projects
+		  are designed to potentially be publishable in
+		  security workshops or conferences. Virtual machines
+		  will be made available to students that need access
+		  to sensitive data or simply need computing
+		  resources.</p>
+		<h4>Project plan (5% of project grade)</h4>
+		<p>A two page document describing your team, your
+		  proposed approach, your intended deliverables, and a
+		  timeline for your deliverables. We will revisit this
+		  timeline when progress reports are given. I
+		  encourage teams to update their project plan
+		  throughout the semester. Not only can this be used
+		  to get additional feedback from myself, it will help
+		  when writing your final report.</p>
+		<h4>Project progress reports (10% of project grade)</h4>
+		<p>Periodically throughout the semester, each team
+		  will give a short, five minute status report to
+		  ensure the team is on track and identify any
+		  problems or help that you may need. Slides are not
+		  mandatory, but are allowed if the team believes they
+		  will be helpful.</p>
+		<h4>Code (30% of project grade)</h4>
+		<p><em>"We reject kings, presidents and voting. We
+		believe in rough consensus and running code."</em>
+		-- <a href="https://en.wikipedia.org/wiki/David_D._Clark">Dave
+		Clark</a></p>
+		<p>Despite this being academia, I care about systems
+		  that work.  ALL code should be stored in GT's GitHub
+		  in
+		  the <a href="https://github.gatech.edu/organizations/AdvancedComputerSecurity2016">organization
+		  for this class</a>. You must login
+		  to <a href="https://github.gatech.edu/">GT's
+		  GitHub</a> before I can add you to the organization.
+		  Version control is a necessity. I would recommend
+		  using GitHub's Issues for tracking bugs and
+		  assigning work. ALL projects must contain a
+		  README.md that clearly explains how to install and
+		  run your code.</p>
+		<p>Extra credit will be given for:</p>
+		<ul>
+		  <li>Including tests (more points for higher code coverage).</li>
+		  <li>Deploying your project in <a href="https://www.docker.com/">Docker</a>.</li>
+		  <li>Using your language's dependency manager.</li>
+		</ul>
+		<p>Code that doesn't run, compile, or work properly
+		  will not be given a good grade. Do not wait to start
+		  designing and implementing your final project.</p>
+		<h4>Final presentation (20% of project grade)</h4>
+		<p>Each team will be responsible for a 15 minute
+		  presentation describing their project's motivation,
+		  the team's solution, implementation details, and the
+		  results their project generated. Presentations
+		  should include potential avenues for future
+		  work.</p>
+		<h4>Final report (35% of project grade)</h4>
+		<p>Research results only matter if they are
+		  effectively communicated to the community at
+		  large. The final report should follow the format
+		  (LaTeX preferred, Word allowed), structure and style
+		  of a top-tier conference paper in security. Reports
+		  must also include a section summarizing the
+		  contribution of each group member. GitHub commit
+		  history will be cross-referenced. I recommend
+		  students contribute material to the final report
+		  throughout the semester. If you use LaTeX, working
+		  together through version control will be a piece of
+		  cake! Proofread your papers please. Unreadable
+		  content will be penalized.</p>
+		<h3>Paper presentation</h3>
+		<p>Students will present at least one paper during the
+		  regular session. The purpose of this component is to
+		  train students how to read and understand a
+		  technical document well enough to convey the
+		  material to others and simply practice presenting
+		  technical work. Students must create the slides
+		  themselves, even if the paper has been presented and
+		  the slides are publicly available. Content from the
+		  paper or presentations may be used <em>as long as
+		  they are properly sourced</em>. We do not steal
+		  content.</p>
+		<p>If the class size remains at ~40, presentations
+		  will be done in pairs. Students will pick their own
+		  partners, but you may contact me if you are having a
+		  hard time finding a partner. Additional
+		  presentations may be done for extra credit, but only
+		  after everyone has presented at least once.</p>
+		<p>A Google spreadsheet will be made for students to
+		  sign up to present papers when the reading list has
+		  been finalized.</p>
+		<h3>Reading responses</h3>
+		<p>Students are responsible for reading all of the
+		  papers so they are prepared to discuss them in
+		  class. To ensure you have something to contribute,
+		  each student must submit a <em>hardcopy</em> summary
+		  and response for each paper at the beginning of
+		  every class. One paragraph for the summary and one
+		  paragraph for your response to the paper (strengths,
+		  weaknesses, questions).</p>
+		<h3>Honor Code</h3>
+		<p>All students must follow the academic integrity and <a href="http://policylibrary.gatech.edu/student-affairs/academic-honor-code">Georgia Tech Honor Code</a>.</p>
+		<h2>Resources</h2>
+		<ul>
+		  <li>git resources</li>
+		  <li>presentation resources</li>
+		  <li>latex resources</li>
+		  <li>sample proceedings template (latex/word)</li>
 		</ul>
           <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
