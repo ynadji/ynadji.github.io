@@ -1,3 +1,87 @@
-baseURL = "http://example.org/"
+baseurl = "https://yacin.nadji.us"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hello-friend-ng"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Yacin Nadji"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  homeSubtitle = "Security Researcher"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog for Yacin Nadji"
+  keywords = "homepage, blog, network security, computer security, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/ynadji"
+
+  [[params.social]]
+    name = "music"
+    url  = "https://www.last.fm/user/GT_Onizuka"
+
+  [[params.social]]
+    name = "key"
+    url  = "https://keybase.io/yacin"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/ynadji"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:ynadji@gmail.com"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/ynadji/"
+
+  [[params.social]]
+    name = "file-text"
+    url  = "https://scholar.google.com/citations?user=WLiTyjsAAAAJ"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/yacin/"
+
+[languages]
+  [languages.en]
+    title = "Yacin Nadji"
+    subtitle = "Website and Blog"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+  logoText = "yacin.summarize()"
+  logoHomeLink = "/"
+# or
+#
+# path = "/img/your-example-logo.svg"
+# alt = "Your example logo alt text"
+
+# You can create a language based menu
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about"
+  [[languages.en.menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "posts"
