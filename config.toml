@@ -21,8 +21,6 @@ theme = "hello-friend-ng"
   keywords = "homepage, blog, network security, computer security, development, programming"
   images = [""]
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
