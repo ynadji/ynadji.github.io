@@ -1,11 +1,12 @@
 +++
 title = "Python Simple One-hot Encoding"
 tags = [
-     "python",
-     "tricks",
-     "ml",
+  "python",
+  "tricks",
+  "machine-learning",
 ]
 categories = [
+  "software-engineering",
 ]
 date = "2019-10-31"
 draft = true
