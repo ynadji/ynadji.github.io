@@ -8,8 +8,8 @@ I like to build algorithms to better understand network traffic, often in the
 context of improving security, ascertaining ownership of digital assets, or
 identifying abuse on the Internet. I've published some of this work as [academic
 papers](shit) {{ $Site.BaseURL }} or used what I've learned to provide analyses
-in [less formal
-venues](https://iisp.gatech.edu/cybersecurity-news-commentary-january-2017).
+in [less](../posts) formal
+[venues](https://iisp.gatech.edu/cybersecurity-news-commentary-january-2017).
 When I've found something particularly cool, I try to give
 [workshops](https://forum.defcon.org/node/228551) and [online training
 courses](https://learning.oreilly.com/live-training/courses/hands-on-adversarial-machine-learning/0636920285342/).
