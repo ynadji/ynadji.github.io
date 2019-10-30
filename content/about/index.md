@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-{{< image src="../images/medium-crop-18.png" alt="Hello Friend" style="border-radius: 8px;" >}}
+{{< image src="../images/hula-yacin-75.png" alt="Yacin dancing at a wedding" style="border-radius: 8px;" >}}
 
 I like to build algorithms to better understand network traffic, often
 in the context of improving security, ascertaining ownership of
