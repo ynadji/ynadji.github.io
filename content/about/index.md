@@ -16,7 +16,7 @@ these or nearby spaces and used what I learned to provide analyses in
 When I find something particularly cool, I give
 [workshops](https://forum.defcon.org/node/228551) and [online training
 courses](https://learning.oreilly.com/live-training/courses/hands-on-adversarial-machine-learning/0636920285342/).
-I'm happy review [technical
+I'm happy to review [technical
 material](https://learning.oreilly.com/library/view/strengthening-deep-neural/9781492044949/),
 too.
 
