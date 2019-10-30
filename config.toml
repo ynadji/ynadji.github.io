@@ -31,47 +31,35 @@ theme = "hello-friend-ng"
     url  = "https://github.com/ynadji"
 
   [[params.social]]
-    name = "music"
-    url  = "https://www.last.fm/user/GT_Onizuka"
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/yacin/"
 
   [[params.social]]
     name = "key"
     url  = "https://keybase.io/yacin"
 
   [[params.social]]
-    name = "book"
-    url  = "https://www.goodreads.com/user/show/5370247-yacin"
+    name = "email"
+    url  = "mailto:ynadji@gmail.com"
 
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/ynadji"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:ynadji@gmail.com"
-
-  [[params.social]]
-    name = "instagram"
-    url  = "https://www.instagram.com/ynadji/"
-
-  [[params.social]]
-    name = "file-text"
-    url  = "https://scholar.google.com/citations?user=WLiTyjsAAAAJ"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/yacin/"
+    name = "music"
+    url  = "https://www.last.fm/user/GT_Onizuka"
 
 [languages]
   [languages.en]
-    title = "Yacin Nadji"
+    title = "Yacin Nadji, Ph.D."
     subtitle = "Website and Blog"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
 [languages.en.params.logo]
-  logoText = "(summarize yacin)"
+  logoText = "(summarize '(yacin nadji))"
   #logoHomeLink = "/"
   logoHomeLink = "/wip/public"
 # or
