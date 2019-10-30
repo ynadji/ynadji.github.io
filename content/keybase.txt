@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yacin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yacin.nadji.us
+  * I am yacin (https://keybase.io/yacin) on keybase.
+  * I have a public key ASA5E9uNmv0G5G_Y7-dPR6sZlzQoiKzhciWrcGxXnVNxOwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011840d59b47c0d33d7892c91a68e77024fc7f545fdd19ace931217705fe52a5a40a",
+      "host": "keybase.io",
+      "kid": "01203913db8d9afd06e46fd8efe74f47ab1997342888ace17225ab706c579d53713b0a",
+      "uid": "92359f2e8514efebc948180aba769300",
+      "username": "yacin"
+    },
+    "merkle_root": {
+      "ctime": 1572447161,
+      "hash": "d251e6e71481a0509ded233364b927bdc1fca232f4dcd1281df343139bd4f10230e1ebf8f567efa6c801bf0ea371f6520941fd503c121f905a93f25c08836aaa",
+      "hash_meta": "389454049e8d4184a6022577ba5aa506d7513180fdd56494b9dbcf8fc1779bae",
+      "seqno": 8526621
+    },
+    "service": {
+      "entropy": "AI43BD2bstsAt+1YGweodYv0",
+      "hostname": "yacin.nadji.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.1"
+  },
+  "ctime": 1572447308,
+  "expire_in": 504576000,
+  "prev": "8446fa248e86a3b00ba2671b8cae246e117d788dd79b60be2c3ad9aae38a21d8",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgORPbjZr9BuRv2O/nT0erGZc0KIis4XIlq3BsV51TcTsKp3BheWxvYWTESpcCJsQghEb6JI6Go7ALomcbjK4kbhF9eI3Xm2C+LDrZquOKIdjEIALbg12gikSJvXmsTJ7AOgpo9qf5u3LHkLNvgw9VTjePAgHCo3NpZ8RA4is6YTvD8MzGyXy+jTyWQVY5O+V4o6lh5RWo0o+fQTOdn+8xBQLpVrYEK/Z9acGL36u8BqnFyS5bqbZSZer0B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID+ui/32OQcYeVZpSHFIsUpeqFlnDKCB7sXfQ3FgeIufo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yacin
+
+==================================================================
