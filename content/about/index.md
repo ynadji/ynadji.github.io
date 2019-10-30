@@ -8,8 +8,10 @@ I like to build algorithms to better understand network traffic, often
 in the context of improving security, ascertaining ownership of
 digital assets, or identifying abuse on the Internet. While completing
 my Ph.D. at [Georgia Tech](https://www.cc.gatech.edu/), I published
-[academic papers](shit) in these or nearby spaces {{ $Site.BaseURL }}
-and used what I learned to provide analyses in [less](../posts) formal
+[academic
+papers](https://scholar.google.com/citations?user=WLiTyjsAAAAJ) in
+these or nearby spaces and used what I learned to provide analyses in
+[less](../posts) formal
 [venues](https://iisp.gatech.edu/cybersecurity-news-commentary-january-2017).
 When I find something particularly cool, I give
 [workshops](https://forum.defcon.org/node/228551) and [online training
