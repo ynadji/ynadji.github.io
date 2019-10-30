@@ -29,7 +29,6 @@ returned.
 ```python
 >>> import itertools
 >>> from collections import defaultdict
-
 >>> onehot = defaultdict(itertools.count().__next__)
 >>> onehot['a']
 0

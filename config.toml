@@ -56,7 +56,7 @@ theme = "hello-friend-ng"
     subtitle = "Website and Blog"
     keywords = ""
     copyright = ""
-    readOtherPosts = "Read other posts"
+    readOtherPosts = "Still awake?"
 
 [languages.en.params.logo]
   logoText = "(summarize '(yacin nadji))"
