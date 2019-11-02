@@ -1,5 +1,4 @@
-#baseurl = "https://yacin.nadji.us"
-baseurl = "https://sif.nadji.us/wip/public"
+baseurl = "https://yacin.nadji.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
