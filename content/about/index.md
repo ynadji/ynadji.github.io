@@ -21,11 +21,10 @@ material](https://learning.oreilly.com/library/view/strengthening-deep-neural/97
 too.
 
 I'm a fervent advocate for fully-remote work and am curious about how
-to improve the remote experience from a management perspective. During
-typical human work hours, I'm a security researcher at
-[Corelight](https://corelight.com/). I occasionally volunteer as a
-Tech Instructor for [Black Girls Code](http://www.blackgirlscode.com/)
-and am interested in other similar volunteer roles.
+to improve the remote experience from a management perspective. I am
+currently funemployed :). I occasionally volunteer as a Tech
+Instructor for [Black Girls Code](http://www.blackgirlscode.com/) and
+am interested in other similar volunteer roles.
 
 Foolhardily unleashed on this world by my American and Algerian-now-American
 parents, I was born and raised in middle-of-nowhere Michigan and ended up in DC
