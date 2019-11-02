@@ -59,8 +59,7 @@ theme = "hello-friend-ng"
 
 [languages.en.params.logo]
   logoText = "(summarize '(yacin nadji))"
-  #logoHomeLink = "/"
-  logoHomeLink = "/wip/public"
+  logoHomeLink = "/"
 # or
 #
 # path = "/img/your-example-logo.svg"
