@@ -9,7 +9,7 @@ categories = [
   "software-engineering",
 ]
 date = "2019-10-31"
-draft = true
+draft = false
 +++
 
 ## One-hot Encoding
