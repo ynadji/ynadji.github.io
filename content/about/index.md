@@ -20,11 +20,12 @@ I'm happy to review [technical
 material](https://learning.oreilly.com/library/view/strengthening-deep-neural/9781492044949/),
 too.
 
-I'm a fervent advocate for fully-remote work and am curious about how
-to improve the remote experience from a management perspective. I am
-currently funemployed :). I occasionally volunteer as a Tech
-Instructor for [Black Girls Code](http://www.blackgirlscode.com/) and
-am interested in other similar volunteer roles.
+I'm a fervent advocate for fully-remote work and am curious about how to
+improve the remote experience from a management perspective. By day, I work as
+a Security Researcher at [Corelight](https://corelight.com/). I occasionally
+volunteer as a Tech Instructor for [Black Girls
+Code](http://www.blackgirlscode.com/) and am interested in other similar
+volunteer roles.
 
 Foolhardily unleashed on this world by my American and Algerian-now-American
 parents, I was born and raised in middle-of-nowhere Michigan and ended up in DC
