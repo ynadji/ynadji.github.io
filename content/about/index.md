@@ -4,12 +4,12 @@ title = "About"
 
 {{< image src="../images/profile.png" alt="Headshot of Yacin" style="border-radius: 8px;" >}}
 
-I like to build algorithms to better understand network traffic, often in the
-context of improving security, ascertaining ownership of digital assets, or
-identifying abuse on the Internet. While completing my Ph.D. at [Georgia
+I build algorithms to better understand network traffic, often in the context
+of improving security, ascertaining ownership of digital assets, or identifying
+abuse on the Internet. While completing my Ph.D. at [Georgia
 Tech](https://www.cc.gatech.edu/), I published [academic
 papers](https://scholar.google.com/citations?user=WLiTyjsAAAAJ) in these or
-nearby spaces and also wrote in [less](../posts)
+nearby spaces and also have written in [less](../posts)
 [formal](https://corelight.blog/author/yacin-nadji/)
 [venues](https://iisp.gatech.edu/cybersecurity-news-commentary-january-2017).
 When I find something particularly cool, I give
@@ -19,12 +19,11 @@ I'm happy to review [technical
 material](https://learning.oreilly.com/library/view/strengthening-deep-neural/9781492044949/),
 too.
 
-I'm an advocate for fully-remote work and am curious about how to
-improve the remote experience from a management perspective. By day, I work as
-a Security Researcher at [Corelight](https://corelight.com/). I occasionally
-volunteer as a Tech Instructor for [Black Girls
-Code](http://www.blackgirlscode.com/) and am interested in other similar
-volunteer roles.
+I'm an advocate for fully-remote work and am curious about how to improve the
+remote experience from a management perspective. By day, I work as a Security
+Researcher at [Corelight](https://corelight.com/). I volunteer as a Tech
+Instructor for [Black Girls Code](http://www.blackgirlscode.com/) and am
+interested in other similar volunteer roles.
 
 Foolhardily unleashed on this world by my American and Algerian-now-American
 parents, I was born and raised in middle-of-nowhere Michigan and ended up in DC
