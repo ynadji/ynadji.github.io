@@ -29,8 +29,7 @@ am interested in other similar volunteer roles.
 Foolhardily unleashed on this world by my American and Algerian-now-American
 parents, I was born and raised in middle-of-nowhere Michigan and ended up in DC
 by way of Chicago and Atlanta. I'm also a cassette tape enthusiast, relentless
-city biker, bad soccer player, muay thai trainee, [Daria
-superfan](https://www.instagram.com/dariascreens/), and proud
-[Ex-Muslim](https://exmuslims.org/ex-muslims-of-north-america-debuts-billboards-in-atlanta-chicago-houston/).
+city biker, bad soccer player, mediocre gardener, and [Daria
+superfan](https://www.instagram.com/dariascreens/).
 
 [Resume](https://yacin.nadji.us/docs/resume.pdf)
