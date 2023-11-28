@@ -34,7 +34,7 @@ theme = "hello-friend-ng"
     url  = "https://www.linkedin.com/in/yacin/"
 
   [[params.social]]
-    name = "key"
+    name = "keybase"
     url  = "https://keybase.io/yacin"
 
   [[params.social]]
@@ -46,7 +46,7 @@ theme = "hello-friend-ng"
     url  = "https://twitter.com/ynadji"
 
   [[params.social]]
-    name = "music"
+    name = "lastfm"
     url  = "https://www.last.fm/user/GT_Onizuka"
 
 [languages]
