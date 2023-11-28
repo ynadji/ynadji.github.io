@@ -58,7 +58,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Still awake?"
 
 [languages.en.params.logo]
-  logoText = "(summarize '(yacin nadji))"
+  logoText = "(summarize :yacin)"
   logoHomeLink = "/"
 # or
 #
