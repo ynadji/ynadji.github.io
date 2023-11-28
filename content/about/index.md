@@ -23,8 +23,9 @@ I'm an advocate for fully-remote work and am curious about how to improve the
 remote experience from a management perspective. By day, I work as a Senior
 Security Researcher at [Corelight
 Labs](https://corelight.com/company/corelight-labs/mission-team). I volunteer
-as a Tech Instructor for [Black Girls Code](http://www.blackgirlscode.com/) and
-am interested in other similar volunteer roles.
+as a Tech Instructor for the [Algerian American Foundation Summer
+University](https://algerianamericanfoundation.org/) and am interested in other
+similar volunteer roles.
 
 Foolhardily unleashed on this world by my American and Algerian-now-American
 parents, I was born and raised in middle-of-nowhere Michigan and ended up in DC
