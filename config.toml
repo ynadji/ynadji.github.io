@@ -42,10 +42,6 @@ theme = "hello-friend-ng"
     url  = "mailto:ynadji@gmail.com"
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/ynadji"
-
-  [[params.social]]
     name = "lastfm"
     url  = "https://www.last.fm/user/GT_Onizuka"
 
