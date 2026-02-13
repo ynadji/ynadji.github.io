@@ -20,7 +20,7 @@ material](https://learning.oreilly.com/library/view/strengthening-deep-neural/97
 too.
 
 I'm an advocate for fully-remote work and am curious about how to improve the
-remote experience from a management perspective. By day, I work as a Senior
+remote experience from a management perspective. By day, I work as a Lead
 Security Researcher at [Corelight
 Labs](https://corelight.com/company/corelight-labs/mission-team). I volunteer
 as a Tech Instructor for the [Algerian American Foundation Summer
